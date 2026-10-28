@@ -3,7 +3,7 @@ import streamlit as st
 
 from core.dados import cempre79, ipca_anual, pas_agencias, pms_turismo
 from core.graficos import CORES, brl, marcar_eventos, num, pct
-from core.ui import cabecalho, citar
+from core.ui import cabecalho, citar, legenda
 
 cabecalho("Visão geral do setor", "Agências de viagens, operadores turísticos e serviços de reservas (CNAE 79)")
 
@@ -63,3 +63,4 @@ st.markdown("""
 """)
 
 citar("pas", "pms", "cempre", "ipca")
+legenda('CNAE', 'PAS', 'PMS', 'CEMPRE', 'IBGE', 'IPCA', 'OTA', 'B3', 'CVC')

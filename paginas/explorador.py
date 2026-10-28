@@ -4,7 +4,7 @@ import streamlit as st
 
 from core.dados import cempre79, cvc, entrada_saida, pas, pas_agencias, pms_turismo
 from core.graficos import CORES, marcar_eventos
-from core.ui import cabecalho, citar
+from core.ui import cabecalho, citar, legenda
 
 cabecalho("Explorador de dados", "Monte o seu painel e explore as bases livremente")
 
@@ -135,3 +135,4 @@ with st.expander("Ver tabela"):
     st.dataframe(filtrado, use_container_width=True, hide_index=True)
 
 citar("pas", "cempre", "cvm", "pms", "cnpj")
+legenda('PAS', 'PMS', 'CEMPRE', 'CNPJ', 'CVC', 'CVM', 'EBIT', 'CNAE', 'CSV')
