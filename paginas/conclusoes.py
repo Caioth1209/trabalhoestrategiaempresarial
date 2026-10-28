@@ -2,7 +2,7 @@ import streamlit as st
 
 from core.dados import cnpj79, cvc, entrada_saida, pas_agencias
 from core.graficos import num, pct
-from core.ui import cabecalho, citar
+from core.ui import cabecalho, citar, legenda
 
 cabecalho("Conclusões", "Qual é o nível de rivalidade no setor de agências de viagens?")
 
@@ -51,3 +51,4 @@ st.markdown("""
 """)
 
 citar("pas", "cvm", "cnpj", "cempre", "pms")
+legenda('CVC', 'HHI', 'MEI', 'OTA', 'CNAE')

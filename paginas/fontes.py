@@ -1,7 +1,8 @@
 import streamlit as st
 
 from core.fontes import FONTES
-from core.ui import cabecalho
+from core.glossario import SIGLAS
+from core.ui import cabecalho, sem_latex
 
 cabecalho("Fontes e metodologia", "De onde vêm os dados e como foram tratados")
 
@@ -9,6 +10,10 @@ st.subheader("Fontes")
 for f in FONTES.values():
     with st.container(border=True):
         st.markdown(f"**[{f['nome']}]({f['url']})**  \n{f['uso']}")
+
+st.subheader("Glossário de siglas")
+st.markdown("| Sigla | Significado |\n|---|---|\n" + "\n".join(
+    f"| **{s}** | {sem_latex(SIGLAS[s])} |" for s in sorted(SIGLAS, key=str.lower)))
 
 st.subheader("Variáveis usadas para medir a rivalidade")
 st.markdown("""

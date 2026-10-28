@@ -5,7 +5,7 @@ import streamlit as st
 
 from core.dados import cnpj79, entrada_saida
 from core.graficos import CORES, marcar_eventos, num, pct
-from core.ui import cabecalho, citar, dados_pendentes
+from core.ui import cabecalho, citar, dados_pendentes, legenda
 
 cabecalho("Entrada e saída de concorrentes", "Barreiras de entrada e dinâmica competitiva")
 
@@ -81,3 +81,4 @@ if "mei" in rec:
                "e acesso aos sistemas de reserva.")
 
 citar("cnpj")
+legenda('CNPJ', 'CNAE', 'MEI')

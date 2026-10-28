@@ -9,7 +9,7 @@ from statsmodels.tsa.seasonal import STL
 
 from core.dados import cvc, entrada_saida, pas, pas_agencias, pms_turismo
 from core.graficos import CONTEXTO, CORES, DESTAQUE, marcar_eventos
-from core.ui import cabecalho, citar
+from core.ui import cabecalho, citar, legenda
 
 cabecalho("Análise avançada", "Tendências, sazonalidade, projeções e relações entre indicadores")
 
@@ -155,3 +155,4 @@ with tab4:
     st.caption(f"Agências de viagens caem no {alvo['grupo']}, junto com: {', '.join(pares) or 'nenhum outro setor'}.")
 
 citar("pms", "pas", "cvm", "cnpj")
+legenda('STL', 'PMS', 'PAS', 'CVC', 'CNPJ', 'R²', 'OLS')

@@ -3,7 +3,7 @@ import streamlit as st
 
 from core.dados import cvc, pas_agencias, pms_turismo
 from core.graficos import CORES, marcar_eventos, pct
-from core.ui import cabecalho, citar
+from core.ui import cabecalho, citar, legenda
 
 cabecalho("Desempenho e margens", "A rivalidade aparece nos preços e na rentabilidade")
 
@@ -62,3 +62,4 @@ fig.update_layout(title="Salário médio anual por pessoa (R$ mil)", height=320)
 c2.plotly_chart(fig, use_container_width=True)
 
 citar("pas", "cvm", "pms")
+legenda('CVC', 'EBIT', 'PAS', 'PMS', 'CVM')

@@ -4,7 +4,7 @@ import streamlit as st
 
 from core.dados import cempre79, cnpj79, cvc
 from core.graficos import CORES, marcar_eventos, num, pct
-from core.ui import cabecalho, citar
+from core.ui import cabecalho, citar, legenda
 
 cabecalho("Estrutura e concentração", "O mercado é dominado por poucas empresas ou pulverizado?")
 
@@ -71,8 +71,8 @@ if base is not None and "porte_nome" in base:
         c2.metric("Empresas ativas (Receita Federal)", num(len(ativas)))
         c2.metric("São MEI", pct(ativas["mei"].mean()))
         c2.metric("Micro ou pequeno porte", pct(ativas["porte"].isin(["01", "03"]).mean()))
-    st.caption("Porte declarado no CNPJ (Receita Federal). ME = receita até R$ 360 mil/ano; "
-               "EPP = até R$ 4,8 mi/ano.")
+    st.caption("Porte declarado no CNPJ (Receita Federal). ME = receita até R\\$ 360 mil/ano; "
+               "EPP = até R\\$ 4,8 mi/ano.")
 
     st.subheader("Onde estão as empresas")
     uf = ativas["uf"].value_counts().reset_index()
@@ -86,3 +86,4 @@ if base is not None and "porte_nome" in base:
     st.caption(f"{', '.join(top3.uf)} concentram {pct(top3.participacao.sum())} das empresas ativas.")
 
 citar("cvm", "pas", "cempre", "cnpj")
+legenda('CVC', 'CR1', 'HHI', 'CVM', 'PAS', 'CEMPRE', 'CNAE', 'CNPJ', 'ME', 'EPP', 'MEI', 'UF', 'p.p.')

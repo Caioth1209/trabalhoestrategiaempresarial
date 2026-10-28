@@ -5,7 +5,7 @@ import streamlit as st
 
 from core.dados import carregar, pas
 from core.graficos import CONTEXTO, DESTAQUE, pct
-from core.ui import cabecalho, citar
+from core.ui import cabecalho, citar, legenda
 
 cabecalho("Comparativo setorial", "Como as agências de viagem se comparam com outros serviços")
 
@@ -88,3 +88,4 @@ if div is not None:
                "entre as divisões.")
 
 citar("pas", "ipca", "cnpj")
+legenda('PAS', 'IPCA', 'CNAE', 'CNPJ')
