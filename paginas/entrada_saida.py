@@ -23,7 +23,7 @@ c1, c2, c3, c4 = st.columns(4)
 c1.metric("Empresas ativas hoje", num(base["ativa"].sum()))
 c2.metric("Aberturas em 2025", num(ult.aberturas))
 c3.metric("Baixas em 2025", num(ult.baixas))
-c4.metric("Taxa de entrada média (2016-25)", pct(media_10["taxa_entrada"].mean()),
+c4.metric("Entrada média 2016-25", pct(media_10["taxa_entrada"].mean()),
           help="Aberturas no ano ÷ estoque de empresas no fim do ano anterior.")
 
 st.subheader("Aberturas e baixas por ano")
@@ -36,7 +36,9 @@ fig.add_scatter(x=es.ano, y=es.entrada_liquida, name="Entrada líquida", mode="l
 fig.update_layout(barmode="relative", height=420, yaxis_title="Empresas (matriz)")
 st.plotly_chart(marcar_eventos(fig, anual=True), use_container_width=True)
 st.caption("Empresas (matriz) com CNAE principal 79 no cadastro atual da Receita Federal. "
-           "Baixas consideram a data da situação 'baixada'.")
+           "Baixas consideram a data da situação 'baixada'. Os picos de 2008, 2015 e 2018 coincidem com "
+           "baixas de ofício em lote, feitas pela Receita, de empresas que já estavam inativas. Já o salto de "
+           "aberturas a partir de 2009 acompanha a criação do MEI.")
 
 st.subheader("Taxas de entrada e de saída")
 fig = go.Figure()
