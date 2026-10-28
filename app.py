@@ -1,6 +1,19 @@
+import importlib
+
 import streamlit as st
 
-from core.ui import barra_lateral
+import core.dados
+import core.fontes
+import core.glossario
+import core.graficos
+import core.ui
+
+# O Streamlit Cloud atualiza os arquivos a cada push, mas mantém em memória os módulos já
+# importados. Recarregar garante que as páginas vejam a versão nova de core/ sem reiniciar o app.
+for modulo in (core.glossario, core.fontes, core.graficos, core.dados, core.ui):
+    importlib.reload(modulo)
+
+from core.ui import barra_lateral  # noqa: E402
 
 st.set_page_config(
     page_title="Rivalidade · Agências de Viagem",
