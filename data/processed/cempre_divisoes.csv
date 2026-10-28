@@ -1,0 +1,1692 @@
+ano,codigo,nome,empresas,pessoal_ocupado,pessoal_assalariado,salarios_mil
+2006,01,"Agricultura, pecuária e serviços relacionados",23689.0,332399.0,295988.0,3124086.0
+2006,02,Produção florestal,6103.0,103299.0,95234.0,791275.0
+2006,03,Pesca e aquicultura,2037.0,13944.0,11180.0,91356.0
+2006,05,Extração de carvão mineral,113.0,4831.0,4715.0,90008.0
+2006,06,Extração de petróleo e gás natural,78.0,824.0,703.0,24961.0
+2006,07,Extração de minerais metálicos,772.0,46024.0,44927.0,1377006.0
+2006,08,Extração de minerais não-metálicos,8913.0,84045.0,70811.0,798398.0
+2006,09,Atividades de apoio à extração de minerais,158.0,15193.0,14994.0,784178.0
+2006,10,Fabricação de produtos alimentícios,54197.0,1343869.0,1267523.0,14856192.0
+2006,11,Fabricação de bebidas,3994.0,120848.0,114533.0,2087861.0
+2006,12,Fabricação de produtos do fumo,267.0,21486.0,21145.0,597152.0
+2006,13,Fabricação de produtos têxteis,12479.0,317544.0,299695.0,3375687.0
+2006,14,Confecção de artigos do vestuário e acessórios,69776.0,666974.0,574721.0,4080412.0
+2006,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",18870.0,430417.0,405209.0,3476663.0
+2006,16,Fabricação de produtos de madeira,23032.0,271354.0,239313.0,2237621.0
+2006,17,"Fabricação de celulose, papel e produtos de papel",5462.0,184972.0,176392.0,3711151.0
+2006,18,Impressão e reprodução de gravações,20244.0,134208.0,103700.0,1469699.0
+2006,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",505.0,159159.0,158180.0,6701616.0
+2006,20,Fabricação de produtos químicos,10374.0,269372.0,253491.0,7842417.0
+2006,21,Fabricação de produtos farmoquímicos e farmacêuticos,1082.0,89982.0,88160.0,3526866.0
+2006,22,Fabricação de produtos de borracha e de material plástico,16541.0,369406.0,343531.0,5395634.0
+2006,23,Fabricação de produtos de minerais não-metálicos,26771.0,376604.0,337538.0,4135122.0
+2006,24,Metalurgia,4984.0,227206.0,219327.0,6214487.0
+2006,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",40873.0,471501.0,411145.0,6030699.0
+2006,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4066.0,157232.0,150619.0,3519480.0
+2006,27,"Fabricação de máquinas, aparelhos e materiais elétricos",5007.0,200326.0,192229.0,3983627.0
+2006,28,Fabricação de máquinas e equipamentos,13831.0,342460.0,319988.0,6885774.0
+2006,29,"Fabricação de veículos automotores, reboques e carrocerias",5931.0,420315.0,411137.0,12112062.0
+2006,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1395.0,80241.0,78159.0,2079456.0
+2006,31,Fabricação de móveis,23121.0,254382.0,221323.0,2053296.0
+2006,32,Fabricação de produtos diversos,10824.0,142947.0,127257.0,1625962.0
+2006,33,"Manutenção, reparação e instalação de máquinas e equipamentos",18033.0,158658.0,132940.0,2262446.0
+2006,35,"Eletricidade, gás e outras utilidades",973.0,113031.0,111719.0,5425466.0
+2006,36,"Captação, tratamento e distribuição de água",705.0,113147.0,112619.0,3311266.0
+2006,37,Esgoto e atividades relacionadas,1182.0,10537.0,8921.0,93681.0
+2006,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",4729.0,164951.0,158274.0,1693459.0
+2006,39,Descontaminação e outros serviços de gestão de resíduos,108.0,791.0,662.0,14941.0
+2006,41,Construção de edifícios,56457.0,686449.0,593327.0,5532116.0
+2006,42,Obras de infraestrutura,16336.0,548420.0,522791.0,8030373.0
+2006,43,Serviços especializados para construção,37508.0,357716.0,302234.0,3562957.0
+2006,45,Comércio e reparação de veículos automotores e motocicletas,213048.0,951481.0,664081.0,6910372.0
+2006,46,"Comércio por atacado, exceto veículos automotores e motocicletas",219629.0,1427708.0,1104629.0,16025003.0
+2006,47,Comércio varejista,1579214.0,6250380.0,4310716.0,35388058.0
+2006,49,Transporte terrestre,123382.0,1303110.0,1131308.0,14298930.0
+2006,50,Transporte aquaviário,1161.0,31286.0,29714.0,1085589.0
+2006,51,Transporte aéreo,553.0,40510.0,39743.0,1843368.0
+2006,52,Armazenamento e atividades auxiliares dos transportes,21406.0,310635.0,278110.0,5048216.0
+2006,53,Correio e outras atividades de entrega,7171.0,172673.0,162405.0,2733751.0
+2006,55,Alojamento,29454.0,289220.0,246993.0,2020816.0
+2006,56,Alimentação,235049.0,1172881.0,886400.0,6057414.0
+2006,58,Edição e edição integrada à impressão,14878.0,122287.0,99810.0,2383811.0
+2006,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",9057.0,32694.0,19874.0,313751.0
+2006,60,Atividades de rádio e de televisão,5354.0,82231.0,74892.0,2099145.0
+2006,61,Telecomunicações,4867.0,114649.0,107761.0,3963484.0
+2006,62,Atividades dos serviços de tecnologia da informação,58525.0,265138.0,168472.0,5634994.0
+2006,63,Atividades de prestação de serviços de informação,40362.0,174427.0,114768.0,2114629.0
+2006,64,Atividades de serviços financeiros,26595.0,533625.0,497858.0,22528307.0
+2006,65,"Seguros, resseguros, previdência complementar e planos de saúde",4627.0,100255.0,93410.0,2655219.0
+2006,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",24964.0,125085.0,83328.0,2021935.0
+2006,68,Atividades imobiliárias,28765.0,130502.0,77557.0,1030634.0
+2006,69,"Atividades jurídicas, de contabilidade e de auditoria",49611.0,236980.0,156971.0,2671415.0
+2006,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,33419.0,115603.0,62234.0,1675457.0
+2006,71,Serviços de arquitetura e engenharia; testes e análises técnicas,36748.0,173036.0,113280.0,2370233.0
+2006,72,Pesquisa e desenvolvimento científico,993.0,27324.0,26003.0,1054240.0
+2006,73,Publicidade e pesquisa de mercado,20782.0,90918.0,59379.0,1213079.0
+2006,74,"Outras atividades profissionais, científicas e técnicas",25052.0,88459.0,52259.0,992379.0
+2006,75,Atividades veterinárias,2447.0,6581.0,2922.0,22846.0
+2006,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,31716.0,161239.0,116947.0,1361892.0
+2006,78,"Seleção, agenciamento e locação de mão-de-obra",9538.0,575144.0,560507.0,4493723.0
+2006,79,"Agências de viagens, operadores turísticos e serviços de reservas",15878.0,83652.0,57797.0,700310.0
+2006,79.11-2,Agências de viagens,14594.0,69708.0,45788.0,553616.0
+2006,79.12-1,Operadores turísticos,523.0,3006.0,2154.0,22715.0
+2006,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,761.0,10938.0,9855.0,123979.0
+2006,80,"Atividades de vigilância, segurança e investigação",5205.0,450868.0,443152.0,4924673.0
+2006,81,Serviços para edifícios e atividades paisagísticas,146957.0,1318306.0,1179822.0,9451054.0
+2006,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",115363.0,701459.0,525467.0,5618969.0
+2006,84,"Administração pública, defesa e seguridade social",14528.0,7662082.0,7660832.0,155672365.0
+2006,85,Educação,104078.0,1550958.0,1438266.0,29254356.0
+2006,86,Atividades de atenção à saúde humana,95777.0,1225527.0,1047544.0,15159250.0
+2006,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",6366.0,81495.0,76894.0,979529.0
+2006,88,Serviços de assistência social sem alojamento,4219.0,101710.0,99546.0,1371486.0
+2006,90,"Atividades artísticas, criativas e de espetáculos",12592.0,31585.0,14080.0,193447.0
+2006,91,Atividades ligadas ao patrimônio cultural e ambiental,1056.0,8704.0,7850.0,173202.0
+2006,92,Atividades de exploração de jogos de azar e apostas,1184.0,13388.0,11818.0,103458.0
+2006,93,Atividades esportivas e de recreação e lazer,37527.0,185057.0,147689.0,1669285.0
+2006,94,Atividades de organizações associativas,242786.0,950823.0,827865.0,10787881.0
+2006,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,38390.0,138232.0,85743.0,1091768.0
+2006,96,Outras atividades de serviços pessoais,53634.0,204674.0,134328.0,942565.0
+2006,99,Organismos internacionais e outras instituições extraterritoriais,151.0,1106.0,1062.0,37941.0
+2007,01,"Agricultura, pecuária e serviços relacionados",28564.0,353588.0,306627.0,3647426.0
+2007,02,Produção florestal,6276.0,110790.0,101700.0,831948.0
+2007,03,Pesca e aquicultura,2071.0,13247.0,10166.0,91343.0
+2007,05,Extração de carvão mineral,99.0,5781.0,5658.0,119069.0
+2007,06,Extração de petróleo e gás natural,110.0,1043.0,884.0,55770.0
+2007,07,Extração de minerais metálicos,754.0,53513.0,52198.0,1602956.0
+2007,08,Extração de minerais não-metálicos,8805.0,86968.0,72174.0,859626.0
+2007,09,Atividades de apoio à extração de minerais,169.0,20471.0,20269.0,936308.0
+2007,10,Fabricação de produtos alimentícios,57814.0,1508443.0,1422516.0,17639661.0
+2007,11,Fabricação de bebidas,4052.0,132392.0,125838.0,2371254.0
+2007,12,Fabricação de produtos do fumo,260.0,20891.0,20531.0,679788.0
+2007,13,Fabricação de produtos têxteis,12797.0,329476.0,310185.0,3693261.0
+2007,14,Confecção de artigos do vestuário e acessórios,69703.0,732916.0,630743.0,4779914.0
+2007,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",18775.0,436949.0,410390.0,3611290.0
+2007,16,Fabricação de produtos de madeira,22675.0,273840.0,240764.0,2407835.0
+2007,17,"Fabricação de celulose, papel e produtos de papel",5501.0,193752.0,184898.0,4173480.0
+2007,18,Impressão e reprodução de gravações,21222.0,141819.0,109717.0,1620633.0
+2007,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",594.0,178462.0,177234.0,8103924.0
+2007,20,Fabricação de produtos químicos,10479.0,288304.0,271523.0,8854120.0
+2007,21,Fabricação de produtos farmoquímicos e farmacêuticos,1060.0,95679.0,93888.0,3746104.0
+2007,22,Fabricação de produtos de borracha e de material plástico,16681.0,396825.0,369976.0,6042710.0
+2007,23,Fabricação de produtos de minerais não-metálicos,27260.0,403754.0,362116.0,4682317.0
+2007,24,Metalurgia,4964.0,252671.0,244670.0,7108083.0
+2007,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",41747.0,526655.0,462937.0,7065298.0
+2007,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4128.0,174673.0,167844.0,4029971.0
+2007,27,"Fabricação de máquinas, aparelhos e materiais elétricos",5013.0,214447.0,206215.0,4382154.0
+2007,28,Fabricação de máquinas e equipamentos,14174.0,387764.0,364275.0,8266023.0
+2007,29,"Fabricação de veículos automotores, reboques e carrocerias",6104.0,479100.0,469375.0,14176364.0
+2007,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1370.0,91007.0,88961.0,2937948.0
+2007,31,Fabricação de móveis,23205.0,268905.0,233943.0,2331616.0
+2007,32,Fabricação de produtos diversos,10844.0,146419.0,130064.0,1700424.0
+2007,33,"Manutenção, reparação e instalação de máquinas e equipamentos",17759.0,167996.0,141828.0,2595377.0
+2007,35,"Eletricidade, gás e outras utilidades",1100.0,118722.0,117011.0,5949346.0
+2007,36,"Captação, tratamento e distribuição de água",705.0,115666.0,115182.0,3601824.0
+2007,37,Esgoto e atividades relacionadas,1154.0,12195.0,10594.0,119698.0
+2007,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",4994.0,193680.0,186376.0,1990664.0
+2007,39,Descontaminação e outros serviços de gestão de resíduos,126.0,899.0,722.0,17005.0
+2007,41,Construção de edifícios,60293.0,803842.0,703846.0,6898952.0
+2007,42,Obras de infraestrutura,16575.0,651310.0,624690.0,9513135.0
+2007,43,Serviços especializados para construção,40548.0,413260.0,352128.0,4166272.0
+2007,45,Comércio e reparação de veículos automotores e motocicletas,223866.0,1058453.0,740437.0,8324317.0
+2007,46,"Comércio por atacado, exceto veículos automotores e motocicletas",226228.0,1525863.0,1180525.0,17704724.0
+2007,47,Comércio varejista,1584826.0,6782833.0,4668217.0,39593470.0
+2007,49,Transporte terrestre,128304.0,1385266.0,1199385.0,15930973.0
+2007,50,Transporte aquaviário,1188.0,35547.0,33742.0,1367656.0
+2007,51,Transporte aéreo,556.0,53151.0,52298.0,2059888.0
+2007,52,Armazenamento e atividades auxiliares dos transportes,22937.0,324115.0,286567.0,5389823.0
+2007,53,Correio e outras atividades de entrega,8186.0,182140.0,170059.0,3364347.0
+2007,55,Alojamento,30233.0,305419.0,260260.0,2324145.0
+2007,56,Alimentação,240811.0,1292310.0,977495.0,7217140.0
+2007,58,Edição e edição integrada à impressão,15100.0,142724.0,119542.0,2571461.0
+2007,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",9312.0,33660.0,19662.0,325712.0
+2007,60,Atividades de rádio e de televisão,5361.0,86960.0,79278.0,2452643.0
+2007,61,Telecomunicações,5167.0,124262.0,116751.0,4755787.0
+2007,62,Atividades dos serviços de tecnologia da informação,61388.0,293721.0,189986.0,6395372.0
+2007,63,Atividades de prestação de serviços de informação,35233.0,167935.0,114357.0,2335687.0
+2007,64,Atividades de serviços financeiros,29936.0,556566.0,516098.0,24592284.0
+2007,65,"Seguros, resseguros, previdência complementar e planos de saúde",4029.0,114415.0,108137.0,3108491.0
+2007,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",26541.0,139215.0,94800.0,2908365.0
+2007,68,Atividades imobiliárias,31191.0,140454.0,83613.0,1208462.0
+2007,69,"Atividades jurídicas, de contabilidade e de auditoria",52875.0,257575.0,171915.0,2902996.0
+2007,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,35594.0,123441.0,66788.0,1940528.0
+2007,71,Serviços de arquitetura e engenharia; testes e análises técnicas,39597.0,202682.0,138104.0,2972345.0
+2007,72,Pesquisa e desenvolvimento científico,1015.0,28095.0,26810.0,1140708.0
+2007,73,Publicidade e pesquisa de mercado,21781.0,98630.0,65349.0,1291562.0
+2007,74,"Outras atividades profissionais, científicas e técnicas",28063.0,95890.0,53802.0,1089455.0
+2007,75,Atividades veterinárias,2403.0,6789.0,3082.0,25165.0
+2007,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,34299.0,178915.0,128540.0,1508414.0
+2007,78,"Seleção, agenciamento e locação de mão-de-obra",9396.0,633811.0,619211.0,5079593.0
+2007,79,"Agências de viagens, operadores turísticos e serviços de reservas",16549.0,78835.0,51392.0,676361.0
+2007,79.11-2,Agências de viagens,15134.0,71664.0,46344.0,607374.0
+2007,79.12-1,Operadores turísticos,611.0,3135.0,2212.0,21181.0
+2007,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,804.0,4036.0,2836.0,47805.0
+2007,80,"Atividades de vigilância, segurança e investigação",5545.0,486009.0,477610.0,5477997.0
+2007,81,Serviços para edifícios e atividades paisagísticas,155009.0,1402733.0,1256746.0,10552548.0
+2007,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",116006.0,782614.0,602264.0,6386656.0
+2007,84,"Administração pública, defesa e seguridade social",14432.0,7868963.0,7868301.0,169502374.0
+2007,85,Educação,111364.0,1739371.0,1613916.0,34867958.0
+2007,86,Atividades de atenção à saúde humana,101707.0,1289695.0,1092664.0,16712742.0
+2007,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",6515.0,86686.0,81843.0,1099245.0
+2007,88,Serviços de assistência social sem alojamento,4223.0,103457.0,101084.0,1483668.0
+2007,90,"Atividades artísticas, criativas e de espetáculos",13197.0,35630.0,16630.0,234514.0
+2007,91,Atividades ligadas ao patrimônio cultural e ambiental,1210.0,9442.0,8521.0,189167.0
+2007,92,Atividades de exploração de jogos de azar e apostas,1024.0,3959.0,2610.0,50732.0
+2007,93,Atividades esportivas e de recreação e lazer,39640.0,188817.0,148442.0,1783934.0
+2007,94,Atividades de organizações associativas,250911.0,1025344.0,895765.0,12241718.0
+2007,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,42269.0,149070.0,88893.0,1131740.0
+2007,96,Outras atividades de serviços pessoais,54630.0,220345.0,144999.0,1095534.0
+2007,99,Organismos internacionais e outras instituições extraterritoriais,174.0,1254.0,1180.0,42841.0
+2008,01,"Agricultura, pecuária e serviços relacionados",42963.0,402837.0,341708.0,4388409.0
+2008,02,Produção florestal,6673.0,110916.0,101129.0,1014036.0
+2008,03,Pesca e aquicultura,2354.0,15452.0,12210.0,136613.0
+2008,05,Extração de carvão mineral,94.0,6830.0,6726.0,146976.0
+2008,06,Extração de petróleo e gás natural,126.0,1371.0,1260.0,105380.0
+2008,07,Extração de minerais metálicos,793.0,61767.0,60508.0,2092828.0
+2008,08,Extração de minerais não-metálicos,8891.0,86636.0,72003.0,974848.0
+2008,09,Atividades de apoio à extração de minerais,209.0,22491.0,22232.0,1242388.0
+2008,10,Fabricação de produtos alimentícios,56835.0,1513907.0,1430479.0,20083874.0
+2008,11,Fabricação de bebidas,3998.0,134771.0,128322.0,2661577.0
+2008,12,Fabricação de produtos do fumo,239.0,20176.0,19840.0,767117.0
+2008,13,Fabricação de produtos têxteis,13245.0,321572.0,301803.0,3981175.0
+2008,14,Confecção de artigos do vestuário e acessórios,73031.0,763936.0,658329.0,5597882.0
+2008,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",19176.0,423108.0,396182.0,3905983.0
+2008,16,Fabricação de produtos de madeira,22268.0,252814.0,220347.0,2554920.0
+2008,17,"Fabricação de celulose, papel e produtos de papel",5490.0,195819.0,187112.0,4484180.0
+2008,18,Impressão e reprodução de gravações,22811.0,153735.0,119236.0,1940033.0
+2008,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",674.0,227291.0,226120.0,10101652.0
+2008,20,Fabricação de produtos químicos,10379.0,279398.0,262806.0,9514686.0
+2008,21,Fabricação de produtos farmoquímicos e farmacêuticos,1029.0,98359.0,96622.0,4156580.0
+2008,22,Fabricação de produtos de borracha e de material plástico,16742.0,401455.0,374775.0,6718023.0
+2008,23,Fabricação de produtos de minerais não-metálicos,27778.0,430164.0,388143.0,5849561.0
+2008,24,Metalurgia,5160.0,267842.0,259570.0,8568002.0
+2008,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",43720.0,556204.0,490332.0,8408494.0
+2008,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4270.0,175820.0,168875.0,4318615.0
+2008,27,"Fabricação de máquinas, aparelhos e materiais elétricos",5071.0,233301.0,225097.0,5591385.0
+2008,28,Fabricação de máquinas e equipamentos,14615.0,421911.0,397812.0,10355485.0
+2008,29,"Fabricação de veículos automotores, reboques e carrocerias",6387.0,490568.0,480567.0,16300756.0
+2008,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1417.0,101668.0,99544.0,3006887.0
+2008,31,Fabricação de móveis,23324.0,269293.0,234608.0,2603572.0
+2008,32,Fabricação de produtos diversos,11482.0,154006.0,136836.0,1938534.0
+2008,33,"Manutenção, reparação e instalação de máquinas e equipamentos",18889.0,167467.0,139834.0,2683833.0
+2008,35,"Eletricidade, gás e outras utilidades",1381.0,121414.0,119087.0,6525922.0
+2008,36,"Captação, tratamento e distribuição de água",1038.0,125822.0,125066.0,4124378.0
+2008,37,Esgoto e atividades relacionadas,1214.0,12366.0,10669.0,129025.0
+2008,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",5426.0,197018.0,189139.0,2325042.0
+2008,39,Descontaminação e outros serviços de gestão de resíduos,120.0,1073.0,896.0,19898.0
+2008,41,Construção de edifícios,67189.0,955410.0,847525.0,10301995.0
+2008,42,Obras de infraestrutura,17288.0,765977.0,739095.0,12674264.0
+2008,43,Serviços especializados para construção,48295.0,484943.0,414365.0,5313293.0
+2008,45,Comércio e reparação de veículos automotores e motocicletas,238577.0,1134021.0,800191.0,10225341.0
+2008,46,"Comércio por atacado, exceto veículos automotores e motocicletas",241428.0,1627671.0,1264286.0,20861531.0
+2008,47,Comércio varejista,1613230.0,7117277.0,4983654.0,45867270.0
+2008,49,Transporte terrestre,135800.0,1460577.0,1265747.0,18669680.0
+2008,50,Transporte aquaviário,1339.0,30243.0,28330.0,973140.0
+2008,51,Transporte aéreo,565.0,57258.0,56409.0,2531224.0
+2008,52,Armazenamento e atividades auxiliares dos transportes,24774.0,357551.0,317643.0,6423902.0
+2008,53,Correio e outras atividades de entrega,9582.0,193700.0,179904.0,4038622.0
+2008,55,Alojamento,31089.0,317437.0,271692.0,2520376.0
+2008,56,Alimentação,252075.0,1398423.0,1070965.0,8464711.0
+2008,58,Edição e edição integrada à impressão,15450.0,129845.0,106736.0,2792001.0
+2008,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",10487.0,35120.0,19834.0,344861.0
+2008,60,Atividades de rádio e de televisão,5516.0,91656.0,83607.0,2939094.0
+2008,61,Telecomunicações,5289.0,137752.0,130037.0,5270847.0
+2008,62,Atividades dos serviços de tecnologia da informação,66420.0,328284.0,220404.0,7491055.0
+2008,63,Atividades de prestação de serviços de informação,32499.0,158227.0,109951.0,2475774.0
+2008,64,Atividades de serviços financeiros,31431.0,583450.0,540980.0,27616874.0
+2008,65,"Seguros, resseguros, previdência complementar e planos de saúde",3898.0,133866.0,127757.0,3857042.0
+2008,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",28325.0,137424.0,92850.0,3199170.0
+2008,68,Atividades imobiliárias,35102.0,152887.0,89959.0,1420628.0
+2008,69,"Atividades jurídicas, de contabilidade e de auditoria",56719.0,287467.0,195443.0,3573844.0
+2008,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,38740.0,135573.0,75276.0,2355344.0
+2008,71,Serviços de arquitetura e engenharia; testes e análises técnicas,43712.0,241054.0,170691.0,4050807.0
+2008,72,Pesquisa e desenvolvimento científico,1211.0,32161.0,30401.0,1344174.0
+2008,73,Publicidade e pesquisa de mercado,23874.0,107503.0,71741.0,1578840.0
+2008,74,"Outras atividades profissionais, científicas e técnicas",30215.0,104595.0,59855.0,1315444.0
+2008,75,Atividades veterinárias,2609.0,7385.0,3415.0,30746.0
+2008,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,37599.0,204933.0,150667.0,2054218.0
+2008,78,"Seleção, agenciamento e locação de mão-de-obra",9662.0,569792.0,555136.0,5699792.0
+2008,79,"Agências de viagens, operadores turísticos e serviços de reservas",17466.0,83997.0,55484.0,809175.0
+2008,79.11-2,Agências de viagens,15894.0,77043.0,50910.0,725644.0
+2008,79.12-1,Operadores turísticos,619.0,2578.0,1620.0,22564.0
+2008,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,953.0,4376.0,2954.0,60967.0
+2008,80,"Atividades de vigilância, segurança e investigação",6441.0,529621.0,520095.0,6416547.0
+2008,81,Serviços para edifícios e atividades paisagísticas,159620.0,1452969.0,1307942.0,11843824.0
+2008,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",123068.0,863209.0,676683.0,7575192.0
+2008,84,"Administração pública, defesa e seguridade social",14896.0,7244579.0,7243794.0,185635933.0
+2008,85,Educação,113219.0,2417799.0,2287062.0,49855135.0
+2008,86,Atividades de atenção à saúde humana,108168.0,1391713.0,1185278.0,18619135.0
+2008,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",6763.0,98266.0,93132.0,1342688.0
+2008,88,Serviços de assistência social sem alojamento,4204.0,133741.0,131449.0,2272916.0
+2008,90,"Atividades artísticas, criativas e de espetáculos",14472.0,34810.0,14722.0,244695.0
+2008,91,Atividades ligadas ao patrimônio cultural e ambiental,1167.0,11584.0,10518.0,302584.0
+2008,92,Atividades de exploração de jogos de azar e apostas,798.0,3248.0,2157.0,25257.0
+2008,93,Atividades esportivas e de recreação e lazer,41650.0,197043.0,154100.0,2026645.0
+2008,94,Atividades de organizações associativas,255210.0,1022386.0,894352.0,13436549.0
+2008,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,46258.0,160403.0,95719.0,1144219.0
+2008,96,Outras atividades de serviços pessoais,54361.0,227809.0,153340.0,1228374.0
+2008,99,Organismos internacionais e outras instituições extraterritoriais,199.0,1667.0,1586.0,64510.0
+2009,01,"Agricultura, pecuária e serviços relacionados",75296.0,422901.0,327901.0,4608865.0
+2009,02,Produção florestal,7120.0,99911.0,89338.0,914517.0
+2009,03,Pesca e aquicultura,2445.0,13884.0,10590.0,110684.0
+2009,05,Extração de carvão mineral,96.0,5745.0,5644.0,147122.0
+2009,06,Extração de petróleo e gás natural,124.0,1424.0,1241.0,193427.0
+2009,07,Extração de minerais metálicos,775.0,59967.0,58717.0,2452406.0
+2009,08,Extração de minerais não-metálicos,8953.0,88547.0,73540.0,1064290.0
+2009,09,Atividades de apoio à extração de minerais,252.0,25025.0,24740.0,1593057.0
+2009,10,Fabricação de produtos alimentícios,55698.0,1593657.0,1511815.0,22465025.0
+2009,11,Fabricação de bebidas,3973.0,144512.0,138086.0,2872742.0
+2009,12,Fabricação de produtos do fumo,245.0,19172.0,18817.0,822103.0
+2009,13,Fabricação de produtos têxteis,13599.0,318436.0,298406.0,4148205.0
+2009,14,Confecção de artigos do vestuário e acessórios,76735.0,787454.0,676898.0,6267443.0
+2009,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",18760.0,430258.0,403900.0,4051102.0
+2009,16,Fabricação de produtos de madeira,22081.0,238423.0,206332.0,2489062.0
+2009,17,"Fabricação de celulose, papel e produtos de papel",5454.0,199431.0,190810.0,4900443.0
+2009,18,Impressão e reprodução de gravações,23953.0,154002.0,118552.0,1990513.0
+2009,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",647.0,186920.0,185822.0,10526194.0
+2009,20,Fabricação de produtos químicos,10457.0,289710.0,273247.0,10149646.0
+2009,21,Fabricação de produtos farmoquímicos e farmacêuticos,957.0,95424.0,93843.0,4337212.0
+2009,22,Fabricação de produtos de borracha e de material plástico,16602.0,408144.0,381708.0,6944746.0
+2009,23,Fabricação de produtos de minerais não-metálicos,28892.0,445108.0,401580.0,6298566.0
+2009,24,Metalurgia,4874.0,233603.0,225867.0,8013760.0
+2009,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",45808.0,563581.0,494574.0,8960107.0
+2009,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4282.0,169754.0,162888.0,4755600.0
+2009,27,"Fabricação de máquinas, aparelhos e materiais elétricos",4966.0,240783.0,232789.0,6028851.0
+2009,28,Fabricação de máquinas e equipamentos,14890.0,388038.0,363623.0,10073128.0
+2009,29,"Fabricação de veículos automotores, reboques e carrocerias",6466.0,490482.0,480400.0,16767843.0
+2009,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1404.0,92177.0,90065.0,3283185.0
+2009,31,Fabricação de móveis,24053.0,275618.0,239915.0,2849292.0
+2009,32,Fabricação de produtos diversos,12762.0,159392.0,140714.0,2138307.0
+2009,33,"Manutenção, reparação e instalação de máquinas e equipamentos",21346.0,185645.0,154928.0,3112595.0
+2009,35,"Eletricidade, gás e outras utilidades",1573.0,122887.0,120263.0,7269435.0
+2009,36,"Captação, tratamento e distribuição de água",1106.0,127805.0,127033.0,4440462.0
+2009,37,Esgoto e atividades relacionadas,1223.0,13756.0,12090.0,182693.0
+2009,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",5937.0,208167.0,199652.0,2587027.0
+2009,39,Descontaminação e outros serviços de gestão de resíduos,98.0,1174.0,1035.0,24102.0
+2009,41,Construção de edifícios,73959.0,1088521.0,970644.0,12665568.0
+2009,42,Obras de infraestrutura,18122.0,867633.0,839924.0,16583766.0
+2009,43,Serviços especializados para construção,58013.0,522492.0,439393.0,5873348.0
+2009,45,Comércio e reparação de veículos automotores e motocicletas,249793.0,1185347.0,837540.0,11442610.0
+2009,46,"Comércio por atacado, exceto veículos automotores e motocicletas",250206.0,1699413.0,1322734.0,23627348.0
+2009,47,Comércio varejista,1657619.0,7455676.0,5263117.0,52766029.0
+2009,49,Transporte terrestre,144822.0,1530504.0,1323386.0,20753832.0
+2009,50,Transporte aquaviário,1364.0,31687.0,29700.0,1148135.0
+2009,51,Transporte aéreo,583.0,62061.0,61201.0,2942101.0
+2009,52,Armazenamento e atividades auxiliares dos transportes,26285.0,401495.0,359655.0,7388790.0
+2009,53,Correio e outras atividades de entrega,10755.0,190574.0,175312.0,4224184.0
+2009,55,Alojamento,32330.0,328853.0,281306.0,2871819.0
+2009,56,Alimentação,269090.0,1489962.0,1140096.0,10013227.0
+2009,58,Edição e edição integrada à impressão,16183.0,131338.0,107335.0,2966739.0
+2009,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",11408.0,37511.0,21066.0,393283.0
+2009,60,Atividades de rádio e de televisão,5663.0,96156.0,88094.0,3298241.0
+2009,61,Telecomunicações,5979.0,145147.0,136206.0,5480049.0
+2009,62,Atividades dos serviços de tecnologia da informação,70444.0,336363.0,225422.0,8919571.0
+2009,63,Atividades de prestação de serviços de informação,30509.0,130971.0,86005.0,2408916.0
+2009,64,Atividades de serviços financeiros,32583.0,600664.0,555078.0,28762953.0
+2009,65,"Seguros, resseguros, previdência complementar e planos de saúde",3673.0,140313.0,134528.0,4141285.0
+2009,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",28587.0,164046.0,116866.0,3812096.0
+2009,68,Atividades imobiliárias,40012.0,169762.0,98855.0,1715828.0
+2009,69,"Atividades jurídicas, de contabilidade e de auditoria",64806.0,353786.0,249659.0,4500876.0
+2009,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,40964.0,139195.0,75032.0,2447369.0
+2009,71,Serviços de arquitetura e engenharia; testes e análises técnicas,47152.0,269491.0,193982.0,5025369.0
+2009,72,Pesquisa e desenvolvimento científico,1410.0,40357.0,38344.0,2125099.0
+2009,73,Publicidade e pesquisa de mercado,25900.0,124302.0,85945.0,1750869.0
+2009,74,"Outras atividades profissionais, científicas e técnicas",32614.0,113723.0,65949.0,1616936.0
+2009,75,Atividades veterinárias,2833.0,8132.0,3830.0,38741.0
+2009,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,39767.0,221422.0,164164.0,2438816.0
+2009,78,"Seleção, agenciamento e locação de mão-de-obra",9606.0,683597.0,668971.0,6453820.0
+2009,79,"Agências de viagens, operadores turísticos e serviços de reservas",18184.0,89927.0,60293.0,906151.0
+2009,79.11-2,Agências de viagens,16363.0,79991.0,53052.0,814790.0
+2009,79.12-1,Operadores turísticos,682.0,2988.0,1961.0,24549.0
+2009,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,1139.0,6948.0,5280.0,66811.0
+2009,80,"Atividades de vigilância, segurança e investigação",7190.0,568954.0,558512.0,7290461.0
+2009,81,Serviços para edifícios e atividades paisagísticas,165716.0,1471080.0,1321347.0,13075376.0
+2009,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",130904.0,898994.0,704072.0,8608818.0
+2009,84,"Administração pública, defesa e seguridade social",15480.0,7704076.0,7703287.0,211471170.0
+2009,85,Educação,123841.0,2448362.0,2307581.0,54607866.0
+2009,86,Atividades de atenção à saúde humana,115215.0,1519341.0,1299555.0,21934902.0
+2009,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",7149.0,85443.0,79888.0,1032361.0
+2009,88,Serviços de assistência social sem alojamento,4166.0,123477.0,121188.0,2182283.0
+2009,90,"Atividades artísticas, criativas e de espetáculos",15321.0,39621.0,18579.0,269726.0
+2009,91,Atividades ligadas ao patrimônio cultural e ambiental,1183.0,13263.0,12270.0,445967.0
+2009,92,Atividades de exploração de jogos de azar e apostas,646.0,2353.0,1518.0,20635.0
+2009,93,Atividades esportivas e de recreação e lazer,43781.0,211234.0,164641.0,2358766.0
+2009,94,Atividades de organizações associativas,261965.0,1032257.0,897901.0,14449662.0
+2009,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,50084.0,170152.0,101176.0,1298084.0
+2009,96,Outras atividades de serviços pessoais,58658.0,240654.0,161780.0,1421710.0
+2009,99,Organismos internacionais e outras instituições extraterritoriais,220.0,1849.0,1767.0,76414.0
+2010,01,"Agricultura, pecuária e serviços relacionados",86158.0,434436.0,331806.0,5188680.0
+2010,02,Produção florestal,7842.0,115289.0,104056.0,1134550.0
+2010,03,Pesca e aquicultura,3355.0,14938.0,10854.0,123992.0
+2010,05,Extração de carvão mineral,84.0,6030.0,5919.0,135357.0
+2010,06,Extração de petróleo e gás natural,135.0,2003.0,1832.0,241772.0
+2010,07,Extração de minerais metálicos,807.0,67267.0,66058.0,3530223.0
+2010,08,Extração de minerais não-metálicos,9243.0,95455.0,80660.0,1295003.0
+2010,09,Atividades de apoio à extração de minerais,314.0,28743.0,28350.0,2050723.0
+2010,10,Fabricação de produtos alimentícios,61576.0,1679449.0,1591750.0,26743372.0
+2010,11,Fabricação de bebidas,4019.0,157977.0,151652.0,3246362.0
+2010,12,Fabricação de produtos do fumo,234.0,18504.0,18175.0,858033.0
+2010,13,Fabricação de produtos têxteis,14248.0,331629.0,311133.0,4808224.0
+2010,14,Confecção de artigos do vestuário e acessórios,80718.0,847444.0,734088.0,7392512.0
+2010,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",19124.0,461600.0,435025.0,4810305.0
+2010,16,Fabricação de produtos de madeira,22214.0,247907.0,216173.0,2860255.0
+2010,17,"Fabricação de celulose, papel e produtos de papel",5415.0,200601.0,192276.0,5388479.0
+2010,18,Impressão e reprodução de gravações,24553.0,159926.0,124552.0,2259407.0
+2010,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",639.0,173314.0,172252.0,11535165.0
+2010,20,Fabricação de produtos químicos,10522.0,304720.0,288431.0,11287545.0
+2010,21,Fabricação de produtos farmoquímicos e farmacêuticos,905.0,104424.0,102961.0,4854428.0
+2010,22,Fabricação de produtos de borracha e de material plástico,16842.0,444287.0,417797.0,8407733.0
+2010,23,Fabricação de produtos de minerais não-metálicos,30201.0,487805.0,443317.0,7630111.0
+2010,24,Metalurgia,5033.0,272378.0,264479.0,10678159.0
+2010,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",47730.0,591268.0,521352.0,10288738.0
+2010,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4342.0,180227.0,173294.0,5383215.0
+2010,27,"Fabricação de máquinas, aparelhos e materiais elétricos",5033.0,234203.0,226292.0,5841911.0
+2010,28,Fabricação de máquinas e equipamentos,15515.0,437705.0,412687.0,12201718.0
+2010,29,"Fabricação de veículos automotores, reboques e carrocerias",6595.0,532988.0,522824.0,19470843.0
+2010,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1439.0,103985.0,101913.0,4124551.0
+2010,31,Fabricação de móveis,25082.0,299405.0,262897.0,3428369.0
+2010,32,Fabricação de produtos diversos,14276.0,170609.0,150233.0,2415713.0
+2010,33,"Manutenção, reparação e instalação de máquinas e equipamentos",24893.0,211762.0,177028.0,3794954.0
+2010,35,"Eletricidade, gás e outras utilidades",1795.0,127996.0,125219.0,8253357.0
+2010,36,"Captação, tratamento e distribuição de água",1173.0,131168.0,130296.0,4868724.0
+2010,37,Esgoto e atividades relacionadas,1345.0,14700.0,12911.0,206998.0
+2010,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",6708.0,224846.0,215484.0,3098994.0
+2010,39,Descontaminação e outros serviços de gestão de resíduos,131.0,1751.0,1542.0,37017.0
+2010,41,Construção de edifícios,84586.0,1202380.0,1070403.0,14303653.0
+2010,42,Obras de infraestrutura,19466.0,941901.0,912906.0,21414923.0
+2010,43,Serviços especializados para construção,74043.0,747383.0,645267.0,8985798.0
+2010,45,Comércio e reparação de veículos automotores e motocicletas,265782.0,1274054.0,912131.0,13730244.0
+2010,46,"Comércio por atacado, exceto veículos automotores e motocicletas",260638.0,1798830.0,1414521.0,27975044.0
+2010,47,Comércio varejista,1717001.0,7933814.0,5698626.0,62930490.0
+2010,49,Transporte terrestre,159747.0,1674395.0,1450898.0,24213365.0
+2010,50,Transporte aquaviário,1569.0,36837.0,34674.0,1472452.0
+2010,51,Transporte aéreo,565.0,69446.0,68585.0,3437145.0
+2010,52,Armazenamento e atividades auxiliares dos transportes,28120.0,436027.0,392286.0,8577393.0
+2010,53,Correio e outras atividades de entrega,11609.0,195606.0,179644.0,4115240.0
+2010,55,Alojamento,33571.0,348399.0,300050.0,3302088.0
+2010,56,Alimentação,285485.0,1600784.0,1235883.0,11778003.0
+2010,58,Edição e edição integrada à impressão,16840.0,134619.0,110327.0,3279994.0
+2010,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",12908.0,41482.0,23429.0,474951.0
+2010,60,Atividades de rádio e de televisão,5804.0,97926.0,89865.0,3798501.0
+2010,61,Telecomunicações,7164.0,172414.0,161847.0,6697333.0
+2010,62,Atividades dos serviços de tecnologia da informação,71947.0,366863.0,255355.0,11092864.0
+2010,63,Atividades de prestação de serviços de informação,30712.0,131908.0,87875.0,2824542.0
+2010,64,Atividades de serviços financeiros,37106.0,655650.0,607390.0,33700371.0
+2010,65,"Seguros, resseguros, previdência complementar e planos de saúde",3532.0,148338.0,142549.0,4638439.0
+2010,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",29823.0,175618.0,127253.0,4330017.0
+2010,68,Atividades imobiliárias,46140.0,190091.0,110243.0,2041824.0
+2010,69,"Atividades jurídicas, de contabilidade e de auditoria",72066.0,400368.0,286948.0,5107523.0
+2010,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,43417.0,145813.0,78937.0,2755596.0
+2010,71,Serviços de arquitetura e engenharia; testes e análises técnicas,50898.0,310571.0,230287.0,6312529.0
+2010,72,Pesquisa e desenvolvimento científico,1571.0,43687.0,41497.0,2448515.0
+2010,73,Publicidade e pesquisa de mercado,28661.0,126818.0,85870.0,1961993.0
+2010,74,"Outras atividades profissionais, científicas e técnicas",35630.0,128297.0,76720.0,2024115.0
+2010,75,Atividades veterinárias,3090.0,8721.0,4079.0,45993.0
+2010,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,43075.0,255131.0,194051.0,3164450.0
+2010,78,"Seleção, agenciamento e locação de mão-de-obra",9630.0,745008.0,730834.0,8154066.0
+2010,79,"Agências de viagens, operadores turísticos e serviços de reservas",19295.0,95751.0,65159.0,1114514.0
+2010,79.11-2,Agências de viagens,17300.0,87419.0,59650.0,1014251.0
+2010,79.12-1,Operadores turísticos,724.0,3106.0,2038.0,29273.0
+2010,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,1271.0,5226.0,3471.0,70990.0
+2010,80,"Atividades de vigilância, segurança e investigação",8153.0,610838.0,599142.0,8547454.0
+2010,81,Serviços para edifícios e atividades paisagísticas,172913.0,1577857.0,1425763.0,14868436.0
+2010,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",145035.0,1026522.0,815605.0,10186961.0
+2010,84,"Administração pública, defesa e seguridade social",16361.0,7426343.0,7425486.0,226687206.0
+2010,85,Educação,128753.0,2674229.0,2527576.0,66883281.0
+2010,86,Atividades de atenção à saúde humana,124025.0,1877398.0,1647044.0,33460155.0
+2010,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",7593.0,87551.0,81468.0,1175798.0
+2010,88,Serviços de assistência social sem alojamento,4228.0,125833.0,123527.0,2363165.0
+2010,90,"Atividades artísticas, criativas e de espetáculos",16717.0,42648.0,19925.0,306453.0
+2010,91,Atividades ligadas ao patrimônio cultural e ambiental,1166.0,13021.0,11908.0,506485.0
+2010,92,Atividades de exploração de jogos de azar e apostas,607.0,2126.0,1384.0,19696.0
+2010,93,Atividades esportivas e de recreação e lazer,46252.0,225402.0,176299.0,2739533.0
+2010,94,Atividades de organizações associativas,265543.0,1037830.0,897850.0,15647130.0
+2010,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,54549.0,185492.0,111986.0,1541912.0
+2010,96,Outras atividades de serviços pessoais,64702.0,264666.0,179796.0,1723082.0
+2010,99,Organismos internacionais e outras instituições extraterritoriais,242.0,1959.0,1862.0,87789.0
+2011,01,"Agricultura, pecuária e serviços relacionados",89288.0,452754.0,342132.0,5760415.0
+2011,02,Produção florestal,7905.0,120192.0,108176.0,1402385.0
+2011,03,Pesca e aquicultura,3221.0,15231.0,11147.0,137309.0
+2011,05,Extração de carvão mineral,63.0,5586.0,5508.0,167289.0
+2011,06,Extração de petróleo e gás natural,140.0,3177.0,2969.0,534821.0
+2011,07,Extração de minerais metálicos,772.0,80881.0,79631.0,4238867.0
+2011,08,Extração de minerais não-metálicos,8947.0,101588.0,86295.0,1563864.0
+2011,09,Atividades de apoio à extração de minerais,357.0,34731.0,34264.0,2593205.0
+2011,10,Fabricação de produtos alimentícios,54342.0,1723482.0,1643508.0,30588669.0
+2011,11,Fabricação de bebidas,3837.0,157459.0,151119.0,3658269.0
+2011,12,Fabricação de produtos do fumo,238.0,18349.0,18001.0,919426.0
+2011,13,Fabricação de produtos têxteis,14041.0,323322.0,302495.0,5180009.0
+2011,14,Confecção de artigos do vestuário e acessórios,80265.0,850426.0,735258.0,8314425.0
+2011,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",18586.0,453786.0,427699.0,5255690.0
+2011,16,Fabricação de produtos de madeira,21268.0,244286.0,213172.0,3168845.0
+2011,17,"Fabricação de celulose, papel e produtos de papel",5279.0,196832.0,188546.0,5603033.0
+2011,18,Impressão e reprodução de gravações,24282.0,162290.0,126278.0,2509668.0
+2011,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",622.0,169840.0,168750.0,12955866.0
+2011,20,Fabricação de produtos químicos,10221.0,322669.0,306114.0,13009834.0
+2011,21,Fabricação de produtos farmoquímicos e farmacêuticos,852.0,104452.0,103051.0,5291146.0
+2011,22,Fabricação de produtos de borracha e de material plástico,16889.0,454946.0,427745.0,9577669.0
+2011,23,Fabricação de produtos de minerais não-metálicos,31021.0,516412.0,469022.0,8792319.0
+2011,24,Metalurgia,4896.0,260919.0,252999.0,10329099.0
+2011,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",48427.0,614456.0,542025.0,11691771.0
+2011,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4294.0,187384.0,180451.0,6134034.0
+2011,27,"Fabricação de máquinas, aparelhos e materiais elétricos",5107.0,269700.0,261502.0,8155173.0
+2011,28,Fabricação de máquinas e equipamentos,16003.0,458783.0,432552.0,14227676.0
+2011,29,"Fabricação de veículos automotores, reboques e carrocerias",6771.0,561590.0,551036.0,23121801.0
+2011,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1455.0,106236.0,104136.0,4200876.0
+2011,31,Fabricação de móveis,25196.0,311021.0,273493.0,3980149.0
+2011,32,Fabricação de produtos diversos,14576.0,175267.0,153703.0,2808462.0
+2011,33,"Manutenção, reparação e instalação de máquinas e equipamentos",27079.0,225811.0,186915.0,4552826.0
+2011,35,"Eletricidade, gás e outras utilidades",2079.0,133811.0,130099.0,9215622.0
+2011,36,"Captação, tratamento e distribuição de água",1128.0,126241.0,125300.0,5226257.0
+2011,37,Esgoto e atividades relacionadas,1333.0,17291.0,15512.0,294957.0
+2011,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",7139.0,239791.0,229608.0,3479622.0
+2011,39,Descontaminação e outros serviços de gestão de resíduos,131.0,1515.0,1308.0,40229.0
+2011,41,Construção de edifícios,92183.0,1369421.0,1220912.0,20154283.0
+2011,42,Obras de infraestrutura,20387.0,987418.0,955616.0,23145394.0
+2011,43,Serviços especializados para construção,86372.0,842731.0,721668.0,10737642.0
+2011,45,Comércio e reparação de veículos automotores e motocicletas,265507.0,1337637.0,966985.0,16099591.0
+2011,46,"Comércio por atacado, exceto veículos automotores e motocicletas",257650.0,1890077.0,1498200.0,32525548.0
+2011,47,Comércio varejista,1671109.0,8306264.0,6059565.0,73583678.0
+2011,49,Transporte terrestre,167474.0,1796417.0,1557760.0,29086192.0
+2011,50,Transporte aquaviário,1566.0,38882.0,36583.0,1825045.0
+2011,51,Transporte aéreo,543.0,74546.0,73706.0,4206396.0
+2011,52,Armazenamento e atividades auxiliares dos transportes,28897.0,474276.0,427467.0,10512121.0
+2011,53,Correio e outras atividades de entrega,11720.0,209054.0,192566.0,4642158.0
+2011,55,Alojamento,33955.0,367204.0,316362.0,3824375.0
+2011,56,Alimentação,284348.0,1710748.0,1335126.0,14162346.0
+2011,58,Edição e edição integrada à impressão,16853.0,134218.0,109090.0,3637809.0
+2011,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",13676.0,44746.0,24658.0,536848.0
+2011,60,Atividades de rádio e de televisão,5585.0,100601.0,92451.0,4320094.0
+2011,61,Telecomunicações,7875.0,201299.0,189301.0,7457340.0
+2011,62,Atividades dos serviços de tecnologia da informação,71223.0,399536.0,286225.0,12586188.0
+2011,63,Atividades de prestação de serviços de informação,29833.0,143604.0,99335.0,3416345.0
+2011,64,Atividades de serviços financeiros,37769.0,684700.0,633398.0,38581894.0
+2011,65,"Seguros, resseguros, previdência complementar e planos de saúde",3457.0,158908.0,153025.0,5365063.0
+2011,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",29992.0,174680.0,123931.0,4825921.0
+2011,68,Atividades imobiliárias,51028.0,213833.0,122600.0,2376677.0
+2011,69,"Atividades jurídicas, de contabilidade e de auditoria",76021.0,443760.0,318624.0,6252910.0
+2011,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,42836.0,144321.0,75684.0,3078782.0
+2011,71,Serviços de arquitetura e engenharia; testes e análises técnicas,52657.0,344559.0,259037.0,8281527.0
+2011,72,Pesquisa e desenvolvimento científico,1838.0,45977.0,43314.0,2871970.0
+2011,73,Publicidade e pesquisa de mercado,29880.0,142582.0,98734.0,2427150.0
+2011,74,"Outras atividades profissionais, científicas e técnicas",36145.0,135250.0,81590.0,2462851.0
+2011,75,Atividades veterinárias,3240.0,9380.0,4408.0,54385.0
+2011,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,44548.0,283923.0,218695.0,4202970.0
+2011,78,"Seleção, agenciamento e locação de mão-de-obra",9034.0,754402.0,740590.0,11131612.0
+2011,79,"Agências de viagens, operadores turísticos e serviços de reservas",19496.0,103496.0,71813.0,1416924.0
+2011,79.11-2,Agências de viagens,17417.0,93993.0,65349.0,1284518.0
+2011,79.12-1,Operadores turísticos,773.0,3569.0,2413.0,43331.0
+2011,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,1306.0,5934.0,4051.0,89074.0
+2011,80,"Atividades de vigilância, segurança e investigação",8584.0,664230.0,651782.0,10003377.0
+2011,81,Serviços para edifícios e atividades paisagísticas,177802.0,1647977.0,1477099.0,17159692.0
+2011,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",151781.0,1131939.0,904186.0,12689829.0
+2011,84,"Administração pública, defesa e seguridade social",17630.0,7698132.0,7697141.0,249924814.0
+2011,85,Educação,118787.0,2724899.0,2570041.0,74617730.0
+2011,86,Atividades de atenção à saúde humana,127502.0,1981153.0,1733701.0,38641629.0
+2011,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",7759.0,87575.0,80615.0,1194848.0
+2011,88,Serviços de assistência social sem alojamento,4257.0,138688.0,136248.0,2876517.0
+2011,90,"Atividades artísticas, criativas e de espetáculos",17152.0,43120.0,18962.0,312541.0
+2011,91,Atividades ligadas ao patrimônio cultural e ambiental,1099.0,11402.0,10367.0,465441.0
+2011,92,Atividades de exploração de jogos de azar e apostas,536.0,1907.0,1233.0,18341.0
+2011,93,Atividades esportivas e de recreação e lazer,46137.0,240818.0,188093.0,3616795.0
+2011,94,Atividades de organizações associativas,266326.0,1044826.0,893938.0,16949777.0
+2011,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,54120.0,198812.0,124051.0,1896458.0
+2011,96,Outras atividades de serviços pessoais,66744.0,284581.0,194031.0,2077673.0
+2011,99,Organismos internacionais e outras instituições extraterritoriais,242.0,2077.0,1993.0,96749.0
+2012,01,"Agricultura, pecuária e serviços relacionados",89955.0,468942.0,359675.0,6803536.0
+2012,02,Produção florestal,7930.0,113461.0,101935.0,1548798.0
+2012,03,Pesca e aquicultura,2860.0,12935.0,9047.0,124032.0
+2012,05,Extração de carvão mineral,61.0,5649.0,5565.0,195200.0
+2012,06,Extração de petróleo e gás natural,153.0,3779.0,3604.0,813932.0
+2012,07,Extração de minerais metálicos,784.0,93182.0,91862.0,5178678.0
+2012,08,Extração de minerais não-metálicos,9290.0,102641.0,87369.0,1815737.0
+2012,09,Atividades de apoio à extração de minerais,365.0,40609.0,40110.0,3424343.0
+2012,10,Fabricação de produtos alimentícios,53422.0,1762417.0,1682421.0,35510500.0
+2012,11,Fabricação de bebidas,3868.0,162209.0,155878.0,4109087.0
+2012,12,Fabricação de produtos do fumo,237.0,19413.0,19074.0,954937.0
+2012,13,Fabricação de produtos têxteis,13875.0,315120.0,294396.0,5473548.0
+2012,14,Confecção de artigos do vestuário e acessórios,77607.0,840405.0,729125.0,9312639.0
+2012,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",17975.0,439578.0,414062.0,5789337.0
+2012,16,Fabricação de produtos de madeira,20852.0,239744.0,209023.0,3414324.0
+2012,17,"Fabricação de celulose, papel e produtos de papel",5204.0,200257.0,191959.0,6397587.0
+2012,18,Impressão e reprodução de gravações,24247.0,160636.0,124240.0,2735658.0
+2012,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",586.0,156500.0,155558.0,13585105.0
+2012,20,Fabricação de produtos químicos,10184.0,327852.0,311492.0,14000704.0
+2012,21,Fabricação de produtos farmoquímicos e farmacêuticos,798.0,102257.0,100932.0,5857065.0
+2012,22,Fabricação de produtos de borracha e de material plástico,16848.0,457834.0,430624.0,10454277.0
+2012,23,Fabricação de produtos de minerais não-metálicos,32036.0,528190.0,479329.0,10162890.0
+2012,24,Metalurgia,4782.0,258996.0,251340.0,10983126.0
+2012,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",49242.0,605797.0,531860.0,12429576.0
+2012,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4353.0,184015.0,176758.0,6399075.0
+2012,27,"Fabricação de máquinas, aparelhos e materiais elétricos",5252.0,281491.0,272896.0,9140056.0
+2012,28,Fabricação de máquinas e equipamentos,16540.0,461914.0,434712.0,16017909.0
+2012,29,"Fabricação de veículos automotores, reboques e carrocerias",6960.0,562370.0,551433.0,24784191.0
+2012,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1519.0,116138.0,113889.0,4645192.0
+2012,31,Fabricação de móveis,25915.0,322904.0,284526.0,4603637.0
+2012,32,Fabricação de produtos diversos,14744.0,189562.0,167251.0,3338500.0
+2012,33,"Manutenção, reparação e instalação de máquinas e equipamentos",29283.0,240798.0,198443.0,5502379.0
+2012,35,"Eletricidade, gás e outras utilidades",2297.0,127876.0,122827.0,9685796.0
+2012,36,"Captação, tratamento e distribuição de água",1139.0,128963.0,127853.0,5855224.0
+2012,37,Esgoto e atividades relacionadas,1423.0,14038.0,12056.0,305060.0
+2012,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",7607.0,248529.0,237138.0,4051076.0
+2012,39,Descontaminação e outros serviços de gestão de resíduos,142.0,1452.0,1234.0,35383.0
+2012,41,Construção de edifícios,102964.0,1402197.0,1237142.0,21906489.0
+2012,42,Obras de infraestrutura,21295.0,1120492.0,1087481.0,31716033.0
+2012,43,Serviços especializados para construção,94592.0,847763.0,713140.0,12435697.0
+2012,45,Comércio e reparação de veículos automotores e motocicletas,266183.0,1364921.0,991460.0,18314230.0
+2012,46,"Comércio por atacado, exceto veículos automotores e motocicletas",267404.0,1980800.0,1569912.0,38636173.0
+2012,47,Comércio varejista,1637030.0,8502865.0,6293056.0,86356015.0
+2012,49,Transporte terrestre,178519.0,1883593.0,1627954.0,33592296.0
+2012,50,Transporte aquaviário,1636.0,40226.0,37852.0,2081280.0
+2012,51,Transporte aéreo,526.0,72569.0,71805.0,4320584.0
+2012,52,Armazenamento e atividades auxiliares dos transportes,30059.0,495930.0,447733.0,11904527.0
+2012,53,Correio e outras atividades de entrega,11316.0,210121.0,193879.0,4724293.0
+2012,55,Alojamento,34733.0,379482.0,327916.0,4448074.0
+2012,56,Alimentação,281329.0,1786333.0,1411537.0,16790633.0
+2012,58,Edição e edição integrada à impressão,17284.0,134286.0,108267.0,3778083.0
+2012,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",14747.0,49403.0,27381.0,602787.0
+2012,60,Atividades de rádio e de televisão,5635.0,103011.0,94900.0,4702818.0
+2012,61,Telecomunicações,8522.0,202776.0,189865.0,8186897.0
+2012,62,Atividades dos serviços de tecnologia da informação,71948.0,429585.0,312086.0,14558432.0
+2012,63,Atividades de prestação de serviços de informação,29286.0,142009.0,97991.0,3756754.0
+2012,64,Atividades de serviços financeiros,40608.0,710928.0,647283.0,43059400.0
+2012,65,"Seguros, resseguros, previdência complementar e planos de saúde",3283.0,151229.0,144087.0,5596696.0
+2012,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",31458.0,171234.0,118331.0,5419337.0
+2012,68,Atividades imobiliárias,59294.0,241750.0,137859.0,3049534.0
+2012,69,"Atividades jurídicas, de contabilidade e de auditoria",80156.0,482355.0,349743.0,7230899.0
+2012,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,44137.0,150516.0,78891.0,3703918.0
+2012,71,Serviços de arquitetura e engenharia; testes e análises técnicas,56956.0,363107.0,269374.0,10096625.0
+2012,72,Pesquisa e desenvolvimento científico,1919.0,47989.0,45184.0,3328104.0
+2012,73,Publicidade e pesquisa de mercado,31385.0,158704.0,112139.0,2784843.0
+2012,74,"Outras atividades profissionais, científicas e técnicas",37103.0,141445.0,85290.0,2793736.0
+2012,75,Atividades veterinárias,3523.0,10603.0,5198.0,72937.0
+2012,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,46323.0,309927.0,241966.0,4994880.0
+2012,78,"Seleção, agenciamento e locação de mão-de-obra",8746.0,785868.0,771988.0,10366287.0
+2012,79,"Agências de viagens, operadores turísticos e serviços de reservas",20258.0,108423.0,75713.0,1722621.0
+2012,79.11-2,Agências de viagens,18008.0,98115.0,68726.0,1558468.0
+2012,79.12-1,Operadores turísticos,875.0,4052.0,2710.0,59065.0
+2012,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,1375.0,6256.0,4277.0,105089.0
+2012,80,"Atividades de vigilância, segurança e investigação",9379.0,709957.0,695947.0,11864624.0
+2012,81,Serviços para edifícios e atividades paisagísticas,186696.0,1737649.0,1566242.0,20673174.0
+2012,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",161518.0,1183338.0,941084.0,14461252.0
+2012,84,"Administração pública, defesa e seguridade social",17625.0,7387861.0,7386157.0,280372900.0
+2012,85,Educação,123559.0,2859984.0,2700234.0,86047725.0
+2012,86,Atividades de atenção à saúde humana,136097.0,2144115.0,1887200.0,46765052.0
+2012,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",8232.0,96907.0,89155.0,1520766.0
+2012,88,Serviços de assistência social sem alojamento,4231.0,126786.0,124155.0,2423361.0
+2012,90,"Atividades artísticas, criativas e de espetáculos",17693.0,47536.0,21856.0,399227.0
+2012,91,Atividades ligadas ao patrimônio cultural e ambiental,1116.0,7451.0,6389.0,279048.0
+2012,92,Atividades de exploração de jogos de azar e apostas,475.0,1708.0,1080.0,18332.0
+2012,93,Atividades esportivas e de recreação e lazer,47642.0,256726.0,201495.0,3802707.0
+2012,94,Atividades de organizações associativas,266108.0,1056226.0,888794.0,17933979.0
+2012,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,52227.0,199971.0,126226.0,2155705.0
+2012,96,Outras atividades de serviços pessoais,61913.0,285031.0,198763.0,2341148.0
+2012,99,Organismos internacionais e outras instituições extraterritoriais,247.0,2123.0,2037.0,99480.0
+2013,01,"Agricultura, pecuária e serviços relacionados",94428.0,465591.0,350314.0,7178586.0
+2013,02,Produção florestal,8353.0,105521.0,93225.0,1722509.0
+2013,03,Pesca e aquicultura,3299.0,14244.0,9870.0,137525.0
+2013,05,Extração de carvão mineral,46.0,5861.0,5793.0,225479.0
+2013,06,Extração de petróleo e gás natural,174.0,6523.0,6305.0,1410712.0
+2013,07,Extração de minerais metálicos,874.0,90768.0,89283.0,5575795.0
+2013,08,Extração de minerais não-metálicos,9721.0,106260.0,90630.0,2070130.0
+2013,09,Atividades de apoio à extração de minerais,409.0,36003.0,35476.0,3815135.0
+2013,10,Fabricação de produtos alimentícios,54458.0,1772358.0,1691962.0,39064350.0
+2013,11,Fabricação de bebidas,3957.0,180399.0,174255.0,4563633.0
+2013,12,Fabricação de produtos do fumo,239.0,18252.0,17954.0,1012216.0
+2013,13,Fabricação de produtos têxteis,13760.0,313104.0,293166.0,5804280.0
+2013,14,Confecção de artigos do vestuário e acessórios,77568.0,840955.0,731771.0,10329425.0
+2013,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",17541.0,429389.0,405285.0,6096346.0
+2013,16,Fabricação de produtos de madeira,20837.0,236018.0,205911.0,3685527.0
+2013,17,"Fabricação de celulose, papel e produtos de papel",5274.0,209135.0,201089.0,6992901.0
+2013,18,Impressão e reprodução de gravações,24561.0,156921.0,121223.0,2904321.0
+2013,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",600.0,201802.0,200876.0,16987062.0
+2013,20,Fabricação de produtos químicos,10165.0,331967.0,315908.0,15255008.0
+2013,21,Fabricação de produtos farmoquímicos e farmacêuticos,815.0,108822.0,107556.0,6686745.0
+2013,22,Fabricação de produtos de borracha e de material plástico,17029.0,468173.0,441326.0,11807250.0
+2013,23,Fabricação de produtos de minerais não-metálicos,33380.0,542078.0,492275.0,11209659.0
+2013,24,Metalurgia,4541.0,268357.0,261241.0,12447246.0
+2013,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",51278.0,615434.0,540278.0,13697049.0
+2013,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4476.0,191293.0,184232.0,6835671.0
+2013,27,"Fabricação de máquinas, aparelhos e materiais elétricos",5279.0,275204.0,266928.0,9756957.0
+2013,28,Fabricação de máquinas e equipamentos,17034.0,480939.0,453562.0,18021865.0
+2013,29,"Fabricação de veículos automotores, reboques e carrocerias",7051.0,558335.0,547551.0,26941522.0
+2013,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1595.0,128243.0,125958.0,5532266.0
+2013,31,Fabricação de móveis,27033.0,331495.0,292131.0,5299398.0
+2013,32,Fabricação de produtos diversos,15738.0,193658.0,170780.0,3665055.0
+2013,33,"Manutenção, reparação e instalação de máquinas e equipamentos",32507.0,261691.0,216170.0,6356347.0
+2013,35,"Eletricidade, gás e outras utilidades",2287.0,129504.0,125343.0,10277806.0
+2013,36,"Captação, tratamento e distribuição de água",1234.0,133054.0,131837.0,6525814.0
+2013,37,Esgoto e atividades relacionadas,1447.0,17764.0,15855.0,449562.0
+2013,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",8311.0,259016.0,246894.0,4693835.0
+2013,39,Descontaminação e outros serviços de gestão de resíduos,125.0,1631.0,1425.0,42667.0
+2013,41,Construção de edifícios,115849.0,1446729.0,1264611.0,24636221.0
+2013,42,Obras de infraestrutura,22844.0,1137088.0,1103488.0,34362090.0
+2013,43,Serviços especializados para construção,107837.0,920295.0,772361.0,15107505.0
+2013,45,Comércio e reparação de veículos automotores e motocicletas,271907.0,1380119.0,1006964.0,20141884.0
+2013,46,"Comércio por atacado, exceto veículos automotores e motocicletas",277164.0,2026334.0,1616557.0,43646289.0
+2013,47,Comércio varejista,1651475.0,8734312.0,6538854.0,98633294.0
+2013,49,Transporte terrestre,192586.0,1972406.0,1705054.0,38402623.0
+2013,50,Transporte aquaviário,1720.0,45222.0,42693.0,2464238.0
+2013,51,Transporte aéreo,521.0,71384.0,70653.0,4703715.0
+2013,52,Armazenamento e atividades auxiliares dos transportes,31505.0,513597.0,464611.0,13430066.0
+2013,53,Correio e outras atividades de entrega,11253.0,215172.0,199630.0,6401070.0
+2013,55,Alojamento,36023.0,389086.0,336690.0,5105413.0
+2013,56,Alimentação,290798.0,1880734.0,1496297.0,19685754.0
+2013,58,Edição e edição integrada à impressão,17522.0,128515.0,103083.0,3944542.0
+2013,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",15932.0,52085.0,29165.0,679700.0
+2013,60,Atividades de rádio e de televisão,5750.0,102750.0,94667.0,5138170.0
+2013,61,Telecomunicações,9372.0,210187.0,196443.0,8846637.0
+2013,62,Atividades dos serviços de tecnologia da informação,73010.0,452952.0,337805.0,17018248.0
+2013,63,Atividades de prestação de serviços de informação,30295.0,145139.0,100467.0,4405423.0
+2013,64,Atividades de serviços financeiros,43958.0,714460.0,646194.0,46967926.0
+2013,65,"Seguros, resseguros, previdência complementar e planos de saúde",3163.0,200541.0,193048.0,7399691.0
+2013,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",32816.0,171150.0,116965.0,5838900.0
+2013,68,Atividades imobiliárias,68960.0,264178.0,145092.0,3527707.0
+2013,69,"Atividades jurídicas, de contabilidade e de auditoria",85748.0,511287.0,370726.0,8119042.0
+2013,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,45603.0,155184.0,83447.0,4113948.0
+2013,71,Serviços de arquitetura e engenharia; testes e análises técnicas,60887.0,381860.0,285914.0,11484537.0
+2013,72,Pesquisa e desenvolvimento científico,1387.0,40794.0,38850.0,3354697.0
+2013,73,Publicidade e pesquisa de mercado,34811.0,157377.0,107880.0,3191523.0
+2013,74,"Outras atividades profissionais, científicas e técnicas",38399.0,140704.0,84416.0,2908274.0
+2013,75,Atividades veterinárias,3951.0,11858.0,5773.0,90763.0
+2013,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,49125.0,315819.0,245636.0,5816050.0
+2013,78,"Seleção, agenciamento e locação de mão-de-obra",8638.0,780456.0,767754.0,11336151.0
+2013,79,"Agências de viagens, operadores turísticos e serviços de reservas",20947.0,108576.0,75615.0,1929130.0
+2013,79.11-2,Agências de viagens,18538.0,98089.0,68546.0,1750549.0
+2013,79.12-1,Operadores turísticos,917.0,3963.0,2615.0,70888.0
+2013,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,1492.0,6524.0,4454.0,107693.0
+2013,80,"Atividades de vigilância, segurança e investigação",10129.0,737607.0,723414.0,14048205.0
+2013,81,Serviços para edifícios e atividades paisagísticas,196121.0,1809202.0,1622025.0,23129969.0
+2013,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",174389.0,1265313.0,1013080.0,16829508.0
+2013,84,"Administração pública, defesa e seguridade social",17972.0,7788087.0,7787117.0,304590336.0
+2013,85,Educação,130080.0,2939904.0,2771752.0,97999362.0
+2013,86,Atividades de atenção à saúde humana,146481.0,2264317.0,1985734.0,56434116.0
+2013,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",8960.0,109347.0,100837.0,1849083.0
+2013,88,Serviços de assistência social sem alojamento,4529.0,131894.0,128850.0,3096730.0
+2013,90,"Atividades artísticas, criativas e de espetáculos",18709.0,45699.0,19645.0,445737.0
+2013,91,Atividades ligadas ao patrimônio cultural e ambiental,1172.0,7108.0,6097.0,304229.0
+2013,92,Atividades de exploração de jogos de azar e apostas,465.0,1748.0,1152.0,21215.0
+2013,93,Atividades esportivas e de recreação e lazer,51390.0,272449.0,213271.0,4438858.0
+2013,94,Atividades de organizações associativas,274694.0,1027434.0,867841.0,19139445.0
+2013,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,52674.0,203677.0,131303.0,2432107.0
+2013,96,Outras atividades de serviços pessoais,65042.0,296530.0,207251.0,2684054.0
+2013,99,Organismos internacionais e outras instituições extraterritoriais,247.0,2093.0,2009.0,96971.0
+2014,01,"Agricultura, pecuária e serviços relacionados",88173.0,464698.0,355894.0,7884349.0
+2014,02,Produção florestal,8018.0,98883.0,87190.0,1778158.0
+2014,03,Pesca e aquicultura,3191.0,15500.0,11299.0,173427.0
+2014,05,Extração de carvão mineral,56.0,5824.0,5777.0,278309.0
+2014,06,Extração de petróleo e gás natural,190.0,4081.0,3861.0,957811.0
+2014,07,Extração de minerais metálicos,761.0,89049.0,87775.0,6815299.0
+2014,08,Extração de minerais não-metálicos,9149.0,102775.0,87757.0,2182488.0
+2014,09,Atividades de apoio à extração de minerais,469.0,39888.0,39333.0,4162166.0
+2014,10,Fabricação de produtos alimentícios,52289.0,1804843.0,1726839.0,43381032.0
+2014,11,Fabricação de bebidas,3720.0,179395.0,173447.0,5312917.0
+2014,12,Fabricação de produtos do fumo,233.0,17467.0,17166.0,1120385.0
+2014,13,Fabricação de produtos têxteis,12936.0,306692.0,287718.0,6205169.0
+2014,14,Confecção de artigos do vestuário e acessórios,71137.0,818167.0,716794.0,11201238.0
+2014,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",16282.0,403030.0,380592.0,6424064.0
+2014,16,Fabricação de produtos de madeira,19329.0,232365.0,204012.0,3983698.0
+2014,17,"Fabricação de celulose, papel e produtos de papel",5136.0,201472.0,193633.0,7209932.0
+2014,18,Impressão e reprodução de gravações,22976.0,150595.0,116931.0,3054430.0
+2014,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",563.0,185220.0,184305.0,18230688.0
+2014,20,Fabricação de produtos químicos,9870.0,339665.0,324038.0,16866016.0
+2014,21,Fabricação de produtos farmoquímicos e farmacêuticos,770.0,115991.0,114831.0,7602607.0
+2014,22,Fabricação de produtos de borracha e de material plástico,16331.0,457122.0,431592.0,12619275.0
+2014,23,Fabricação de produtos de minerais não-metálicos,32334.0,534765.0,486217.0,12381461.0
+2014,24,Metalurgia,4283.0,260529.0,253820.0,13010156.0
+2014,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",50280.0,607510.0,533608.0,14493934.0
+2014,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4278.0,173595.0,166931.0,6824204.0
+2014,27,"Fabricação de máquinas, aparelhos e materiais elétricos",5172.0,264628.0,256490.0,10260895.0
+2014,28,Fabricação de máquinas e equipamentos,16873.0,456797.0,429669.0,18590012.0
+2014,29,"Fabricação de veículos automotores, reboques e carrocerias",6937.0,513180.0,502678.0,27167720.0
+2014,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1508.0,134305.0,132151.0,6783767.0
+2014,31,Fabricação de móveis,26627.0,327227.0,288283.0,5772446.0
+2014,32,Fabricação de produtos diversos,15463.0,193015.0,170498.0,4028877.0
+2014,33,"Manutenção, reparação e instalação de máquinas e equipamentos",33184.0,251725.0,205229.0,6606101.0
+2014,35,"Eletricidade, gás e outras utilidades",2309.0,129265.0,124776.0,10552877.0
+2014,36,"Captação, tratamento e distribuição de água",1260.0,135685.0,134538.0,7215870.0
+2014,37,Esgoto e atividades relacionadas,1398.0,18927.0,17067.0,529236.0
+2014,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",8101.0,253649.0,241952.0,5276421.0
+2014,39,Descontaminação e outros serviços de gestão de resíduos,116.0,1626.0,1440.0,53944.0
+2014,41,Construção de edifícios,114436.0,1405660.0,1224230.0,27067979.0
+2014,42,Obras de infraestrutura,22184.0,1047311.0,1014514.0,37878144.0
+2014,43,Serviços especializados para construção,108742.0,890838.0,742167.0,15786367.0
+2014,45,Comércio e reparação de veículos automotores e motocicletas,257731.0,1365982.0,1010057.0,22173890.0
+2014,46,"Comércio por atacado, exceto veículos automotores e motocicletas",264103.0,2039427.0,1646706.0,47839635.0
+2014,47,Comércio varejista,1523554.0,8722176.0,6665110.0,111414210.0
+2014,49,Transporte terrestre,192758.0,2004184.0,1737077.0,43197245.0
+2014,50,Transporte aquaviário,1595.0,46756.0,44461.0,2811708.0
+2014,51,Transporte aéreo,483.0,72365.0,71668.0,4992816.0
+2014,52,Armazenamento e atividades auxiliares dos transportes,31104.0,511430.0,462903.0,14861468.0
+2014,53,Correio e outras atividades de entrega,10360.0,208672.0,194533.0,6935338.0
+2014,55,Alojamento,35363.0,401365.0,349367.0,5767214.0
+2014,56,Alimentação,280171.0,1941781.0,1567094.0,22398303.0
+2014,58,Edição e edição integrada à impressão,16378.0,124351.0,100394.0,4088576.0
+2014,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",15245.0,52189.0,30197.0,794210.0
+2014,60,Atividades de rádio e de televisão,5316.0,103341.0,95761.0,5698713.0
+2014,61,Telecomunicações,9486.0,186226.0,172282.0,9472047.0
+2014,62,Atividades dos serviços de tecnologia da informação,68969.0,479094.0,369165.0,20975660.0
+2014,63,Atividades de prestação de serviços de informação,28419.0,143793.0,101950.0,5003470.0
+2014,64,Atividades de serviços financeiros,42350.0,717902.0,649499.0,50902141.0
+2014,65,"Seguros, resseguros, previdência complementar e planos de saúde",2032.0,225813.0,219837.0,8773759.0
+2014,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",32628.0,170896.0,115831.0,6402472.0
+2014,68,Atividades imobiliárias,72012.0,272697.0,147557.0,3891968.0
+2014,69,"Atividades jurídicas, de contabilidade e de auditoria",86357.0,520918.0,378075.0,9103945.0
+2014,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,42556.0,157842.0,90042.0,5082832.0
+2014,71,Serviços de arquitetura e engenharia; testes e análises técnicas,59507.0,368791.0,273911.0,12443448.0
+2014,72,Pesquisa e desenvolvimento científico,1417.0,43406.0,41383.0,3863236.0
+2014,73,Publicidade e pesquisa de mercado,34283.0,154718.0,106123.0,3570703.0
+2014,74,"Outras atividades profissionais, científicas e técnicas",36105.0,142919.0,89475.0,3297071.0
+2014,75,Atividades veterinárias,4238.0,13331.0,6784.0,115838.0
+2014,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,47458.0,325160.0,256873.0,6365963.0
+2014,78,"Seleção, agenciamento e locação de mão-de-obra",7580.0,704183.0,692876.0,11724457.0
+2014,79,"Agências de viagens, operadores turísticos e serviços de reservas",20052.0,108092.0,76521.0,2155032.0
+2014,79.11-2,Agências de viagens,17723.0,96938.0,68668.0,1936478.0
+2014,79.12-1,Operadores turísticos,880.0,3919.0,2615.0,82357.0
+2014,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,1449.0,7235.0,5238.0,136196.0
+2014,80,"Atividades de vigilância, segurança e investigação",10042.0,759008.0,745101.0,16308080.0
+2014,81,Serviços para edifícios e atividades paisagísticas,194513.0,1858981.0,1678998.0,26368170.0
+2014,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",171708.0,1302998.0,1054893.0,18776962.0
+2014,84,"Administração pública, defesa e seguridade social",18025.0,7800010.0,7799580.0,338169073.0
+2014,85,Educação,128789.0,3191959.0,3022787.0,117459094.0
+2014,86,Atividades de atenção à saúde humana,148880.0,2382602.0,2099045.0,65037566.0
+2014,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",8432.0,105787.0,97448.0,1874707.0
+2014,88,Serviços de assistência social sem alojamento,3690.0,123142.0,120766.0,3050699.0
+2014,90,"Atividades artísticas, criativas e de espetáculos",16892.0,43007.0,19243.0,487804.0
+2014,91,Atividades ligadas ao patrimônio cultural e ambiental,866.0,7698.0,6881.0,386488.0
+2014,92,Atividades de exploração de jogos de azar e apostas,214.0,1240.0,970.0,22407.0
+2014,93,Atividades esportivas e de recreação e lazer,48781.0,285373.0,227200.0,5127904.0
+2014,94,Atividades de organizações associativas,219167.0,946244.0,813164.0,18753660.0
+2014,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,48004.0,195388.0,128975.0,2597584.0
+2014,96,Outras atividades de serviços pessoais,58411.0,295551.0,213947.0,3028480.0
+2014,99,Organismos internacionais e outras instituições extraterritoriais,269.0,2245.0,2159.0,115409.0
+2015,01,"Agricultura, pecuária e serviços relacionados",91108.0,473390.0,360950.0,8343271.0
+2015,02,Produção florestal,8062.0,92594.0,80840.0,1900150.0
+2015,03,Pesca e aquicultura,3278.0,15573.0,11221.0,198911.0
+2015,05,Extração de carvão mineral,60.0,4834.0,4751.0,275290.0
+2015,06,Extração de petróleo e gás natural,152.0,3774.0,3599.0,953430.0
+2015,07,Extração de minerais metálicos,712.0,85173.0,84019.0,4077660.0
+2015,08,Extração de minerais não-metálicos,9115.0,97714.0,82703.0,2262221.0
+2015,09,Atividades de apoio à extração de minerais,445.0,37547.0,36996.0,4524088.0
+2015,10,Fabricação de produtos alimentícios,53007.0,1762689.0,1684561.0,45409034.0
+2015,11,Fabricação de bebidas,3874.0,182052.0,175735.0,5881056.0
+2015,12,Fabricação de produtos do fumo,225.0,18144.0,17870.0,993675.0
+2015,13,Fabricação de produtos têxteis,12558.0,272421.0,254062.0,6316347.0
+2015,14,Confecção de artigos do vestuário e acessórios,67504.0,735159.0,639999.0,11313875.0
+2015,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",15089.0,365616.0,344889.0,6505504.0
+2015,16,Fabricação de produtos de madeira,18567.0,215394.0,188287.0,4118461.0
+2015,17,"Fabricação de celulose, papel e produtos de papel",5079.0,194720.0,187024.0,7605647.0
+2015,18,Impressão e reprodução de gravações,22317.0,140000.0,107596.0,3173137.0
+2015,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",572.0,214606.0,213737.0,19038847.0
+2015,20,Fabricação de produtos químicos,9729.0,319985.0,304720.0,17891112.0
+2015,21,Fabricação de produtos farmoquímicos e farmacêuticos,724.0,107238.0,106134.0,7965817.0
+2015,22,Fabricação de produtos de borracha e de material plástico,16053.0,416842.0,391818.0,12820130.0
+2015,23,Fabricação de produtos de minerais não-metálicos,31998.0,501471.0,453805.0,13036047.0
+2015,24,Metalurgia,4034.0,226955.0,220617.0,12532654.0
+2015,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",49758.0,531681.0,458812.0,14361641.0
+2015,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4122.0,143031.0,136516.0,6474892.0
+2015,27,"Fabricação de máquinas, aparelhos e materiais elétricos",5136.0,230674.0,222664.0,10062791.0
+2015,28,Fabricação de máquinas e equipamentos,16705.0,397771.0,371203.0,18385398.0
+2015,29,"Fabricação de veículos automotores, reboques e carrocerias",6879.0,448474.0,438207.0,26073464.0
+2015,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1520.0,114449.0,112304.0,6438244.0
+2015,31,Fabricação de móveis,26332.0,297767.0,259440.0,5907264.0
+2015,32,Fabricação de produtos diversos,15797.0,185468.0,162769.0,4437652.0
+2015,33,"Manutenção, reparação e instalação de máquinas e equipamentos",34476.0,243610.0,195481.0,6918992.0
+2015,35,"Eletricidade, gás e outras utilidades",2555.0,125107.0,120462.0,10739147.0
+2015,36,"Captação, tratamento e distribuição de água",1321.0,135536.0,134293.0,7807197.0
+2015,37,Esgoto e atividades relacionadas,1398.0,16675.0,14805.0,530713.0
+2015,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",8247.0,239985.0,228270.0,5667750.0
+2015,39,Descontaminação e outros serviços de gestão de resíduos,119.0,1688.0,1502.0,53147.0
+2015,41,Construção de edifícios,114283.0,1179968.0,994509.0,25004773.0
+2015,42,Obras de infraestrutura,21862.0,838868.0,806921.0,30949178.0
+2015,43,Serviços especializados para construção,111281.0,846331.0,695456.0,17401075.0
+2015,45,Comércio e reparação de veículos automotores e motocicletas,254885.0,1306141.0,955765.0,22653287.0
+2015,46,"Comércio por atacado, exceto veículos automotores e motocicletas",264458.0,1990509.0,1600569.0,50670399.0
+2015,47,Comércio varejista,1486026.0,8511754.0,6516189.0,120567883.0
+2015,49,Transporte terrestre,191923.0,1946955.0,1683077.0,46676673.0
+2015,50,Transporte aquaviário,1605.0,46576.0,44303.0,3275436.0
+2015,51,Transporte aéreo,451.0,68767.0,68140.0,5152734.0
+2015,52,Armazenamento e atividades auxiliares dos transportes,31745.0,489687.0,440951.0,15711501.0
+2015,53,Correio e outras atividades de entrega,10027.0,204866.0,191283.0,7089727.0
+2015,55,Alojamento,35430.0,401419.0,349628.0,6339718.0
+2015,56,Alimentação,281692.0,1924497.0,1548473.0,25306821.0
+2015,58,Edição e edição integrada à impressão,15533.0,113337.0,90620.0,3931279.0
+2015,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",15363.0,52745.0,30392.0,885888.0
+2015,60,Atividades de rádio e de televisão,5303.0,101776.0,94108.0,6041208.0
+2015,61,Telecomunicações,10249.0,205059.0,190136.0,9847899.0
+2015,62,Atividades dos serviços de tecnologia da informação,64967.0,479219.0,375636.0,22680715.0
+2015,63,Atividades de prestação de serviços de informação,27570.0,172254.0,131406.0,6409087.0
+2015,64,Atividades de serviços financeiros,44483.0,705769.0,633469.0,58485107.0
+2015,65,"Seguros, resseguros, previdência complementar e planos de saúde",1983.0,234427.0,228513.0,9969536.0
+2015,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",35123.0,174543.0,115666.0,6587690.0
+2015,68,Atividades imobiliárias,79237.0,285772.0,146312.0,4230569.0
+2015,69,"Atividades jurídicas, de contabilidade e de auditoria",92217.0,543756.0,390670.0,10375416.0
+2015,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,42463.0,154862.0,86605.0,5118951.0
+2015,71,Serviços de arquitetura e engenharia; testes e análises técnicas,61506.0,340699.0,242625.0,11216289.0
+2015,72,Pesquisa e desenvolvimento científico,1502.0,44177.0,41922.0,4339634.0
+2015,73,Publicidade e pesquisa de mercado,35680.0,149301.0,99140.0,3570692.0
+2015,74,"Outras atividades profissionais, científicas e técnicas",36436.0,143920.0,90066.0,3478900.0
+2015,75,Atividades veterinárias,5005.0,16759.0,9042.0,162771.0
+2015,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,47079.0,309183.0,241956.0,6574296.0
+2015,78,"Seleção, agenciamento e locação de mão-de-obra",6945.0,657430.0,647092.0,12206917.0
+2015,79,"Agências de viagens, operadores turísticos e serviços de reservas",19914.0,103436.0,72127.0,2258646.0
+2015,79.11-2,Agências de viagens,17525.0,91846.0,63999.0,2002742.0
+2015,79.12-1,Operadores turísticos,946.0,4067.0,2696.0,88957.0
+2015,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,1443.0,7523.0,5432.0,166947.0
+2015,80,"Atividades de vigilância, segurança e investigação",10050.0,731832.0,718133.0,17074474.0
+2015,81,Serviços para edifícios e atividades paisagísticas,202381.0,1839772.0,1653427.0,29236942.0
+2015,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",174481.0,1248314.0,997752.0,19846948.0
+2015,84,"Administração pública, defesa e seguridade social",18290.0,7779399.0,7779005.0,366981652.0
+2015,85,Educação,168039.0,3180215.0,2995029.0,129313246.0
+2015,86,Atividades de atenção à saúde humana,162089.0,2451246.0,2142671.0,72525580.0
+2015,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",8641.0,114885.0,105968.0,2228214.0
+2015,88,Serviços de assistência social sem alojamento,3723.0,139715.0,137399.0,3725279.0
+2015,90,"Atividades artísticas, criativas e de espetáculos",16946.0,42664.0,18845.0,525498.0
+2015,91,Atividades ligadas ao patrimônio cultural e ambiental,836.0,7680.0,6945.0,411298.0
+2015,92,Atividades de exploração de jogos de azar e apostas,126.0,1039.0,859.0,23460.0
+2015,93,Atividades esportivas e de recreação e lazer,49717.0,293923.0,233969.0,5591518.0
+2015,94,Atividades de organizações associativas,191135.0,892299.0,769284.0,19393557.0
+2015,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,46599.0,183934.0,119874.0,2652665.0
+2015,96,Outras atividades de serviços pessoais,58803.0,291670.0,210119.0,3351034.0
+2015,99,Organismos internacionais e outras instituições extraterritoriais,274.0,2539.0,2443.0,146644.0
+2016,01,"Agricultura, pecuária e serviços relacionados",90349.0,460814.0,349041.0,9254929.0
+2016,02,Produção florestal,7954.0,85712.0,74098.0,1647485.0
+2016,03,Pesca e aquicultura,3366.0,14983.0,10548.0,222684.0
+2016,05,Extração de carvão mineral,54.0,4288.0,4208.0,209556.0
+2016,06,Extração de petróleo e gás natural,170.0,3732.0,3491.0,1005442.0
+2016,07,Extração de minerais metálicos,670.0,82146.0,81003.0,4590066.0
+2016,08,Extração de minerais não-metálicos,8956.0,92500.0,77730.0,2281044.0
+2016,09,Atividades de apoio à extração de minerais,465.0,29095.0,28508.0,3459216.0
+2016,10,Fabricação de produtos alimentícios,52922.0,1760587.0,1682521.0,49435717.0
+2016,11,Fabricação de bebidas,3995.0,176906.0,170373.0,6287562.0
+2016,12,Fabricação de produtos do fumo,238.0,18620.0,18338.0,1053134.0
+2016,13,Fabricação de produtos têxteis,11910.0,258964.0,241514.0,6285369.0
+2016,14,Confecção de artigos do vestuário e acessórios,62965.0,690265.0,601346.0,11277887.0
+2016,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",14048.0,365317.0,346130.0,6856888.0
+2016,16,Fabricação de produtos de madeira,17612.0,198259.0,172428.0,4076911.0
+2016,17,"Fabricação de celulose, papel e produtos de papel",4945.0,194816.0,187443.0,8371600.0
+2016,18,Impressão e reprodução de gravações,21386.0,131145.0,100134.0,3036315.0
+2016,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",516.0,176708.0,175938.0,18444322.0
+2016,20,Fabricação de produtos químicos,9582.0,317127.0,302061.0,18814370.0
+2016,21,Fabricação de produtos farmoquímicos e farmacêuticos,709.0,107339.0,106221.0,8711102.0
+2016,22,Fabricação de produtos de borracha e de material plástico,15796.0,400440.0,376071.0,12798400.0
+2016,23,Fabricação de produtos de minerais não-metálicos,31062.0,455362.0,408617.0,12625696.0
+2016,24,Metalurgia,3801.0,210441.0,204403.0,12058992.0
+2016,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",47903.0,480035.0,409994.0,13420473.0
+2016,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4073.0,133674.0,127220.0,6230847.0
+2016,27,"Fabricação de máquinas, aparelhos e materiais elétricos",5065.0,218623.0,210798.0,10096368.0
+2016,28,Fabricação de máquinas e equipamentos,16484.0,365183.0,339005.0,17828479.0
+2016,29,"Fabricação de veículos automotores, reboques e carrocerias",6688.0,420199.0,410209.0,25039023.0
+2016,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1468.0,94642.0,92591.0,6082424.0
+2016,31,Fabricação de móveis,25391.0,272822.0,236031.0,5734736.0
+2016,32,Fabricação de produtos diversos,15766.0,180023.0,157220.0,4584176.0
+2016,33,"Manutenção, reparação e instalação de máquinas e equipamentos",34764.0,226160.0,177993.0,6478634.0
+2016,35,"Eletricidade, gás e outras utilidades",2374.0,133618.0,128734.0,12363530.0
+2016,36,"Captação, tratamento e distribuição de água",1583.0,141427.0,140142.0,8849275.0
+2016,37,Esgoto e atividades relacionadas,1401.0,16884.0,15024.0,592271.0
+2016,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",8215.0,225409.0,213734.0,6072593.0
+2016,39,Descontaminação e outros serviços de gestão de resíduos,105.0,2545.0,2363.0,65448.0
+2016,41,Construção de edifícios,112352.0,970235.0,787799.0,21347586.0
+2016,42,Obras de infraestrutura,21024.0,625708.0,595112.0,23569760.0
+2016,43,Serviços especializados para construção,107577.0,746588.0,601412.0,16566173.0
+2016,45,Comércio e reparação de veículos automotores e motocicletas,247490.0,1250227.0,910532.0,22973120.0
+2016,46,"Comércio por atacado, exceto veículos automotores e motocicletas",262862.0,1908046.0,1524292.0,52879414.0
+2016,47,Comércio varejista,1427856.0,8286933.0,6364333.0,128410438.0
+2016,49,Transporte terrestre,184919.0,1854291.0,1601219.0,48020497.0
+2016,50,Transporte aquaviário,1593.0,44469.0,42239.0,3299474.0
+2016,51,Transporte aéreo,574.0,65640.0,64950.0,4555636.0
+2016,52,Armazenamento e atividades auxiliares dos transportes,31816.0,483062.0,433738.0,16253342.0
+2016,53,Correio e outras atividades de entrega,9447.0,192057.0,179375.0,7406405.0
+2016,55,Alojamento,35277.0,388681.0,336799.0,6775220.0
+2016,56,Alimentação,275954.0,1892919.0,1523410.0,26688068.0
+2016,58,Edição e edição integrada à impressão,14656.0,97409.0,75983.0,3656500.0
+2016,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",15306.0,51697.0,29573.0,961018.0
+2016,60,Atividades de rádio e de televisão,5328.0,98150.0,90269.0,5997157.0
+2016,61,Telecomunicações,11067.0,204084.0,188262.0,9813472.0
+2016,62,Atividades dos serviços de tecnologia da informação,64285.0,474057.0,371973.0,24447048.0
+2016,63,Atividades de prestação de serviços de informação,27177.0,168120.0,127759.0,6833546.0
+2016,64,Atividades de serviços financeiros,47645.0,704506.0,626813.0,58497820.0
+2016,65,"Seguros, resseguros, previdência complementar e planos de saúde",2019.0,243320.0,237479.0,11168837.0
+2016,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",36959.0,176377.0,114336.0,6922738.0
+2016,68,Atividades imobiliárias,84333.0,294146.0,145710.0,4439375.0
+2016,69,"Atividades jurídicas, de contabilidade e de auditoria",99295.0,548558.0,385278.0,11122498.0
+2016,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,41946.0,153365.0,85828.0,5257533.0
+2016,71,Serviços de arquitetura e engenharia; testes e análises técnicas,62349.0,305072.0,206294.0,10081531.0
+2016,72,Pesquisa e desenvolvimento científico,1609.0,41292.0,38899.0,4602290.0
+2016,73,Publicidade e pesquisa de mercado,37832.0,147863.0,95493.0,3800609.0
+2016,74,"Outras atividades profissionais, científicas e técnicas",36886.0,143463.0,88863.0,3735181.0
+2016,75,Atividades veterinárias,5786.0,19877.0,11044.0,216842.0
+2016,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,45596.0,288644.0,223447.0,6709114.0
+2016,78,"Seleção, agenciamento e locação de mão-de-obra",6444.0,599913.0,590593.0,11995217.0
+2016,79,"Agências de viagens, operadores turísticos e serviços de reservas",19407.0,97446.0,67016.0,2315415.0
+2016,79.11-2,Agências de viagens,16980.0,86337.0,59369.0,2060085.0
+2016,79.12-1,Operadores turísticos,969.0,4098.0,2702.0,89245.0
+2016,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,1458.0,7011.0,4945.0,166085.0
+2016,80,"Atividades de vigilância, segurança e investigação",10236.0,681835.0,668046.0,18114443.0
+2016,81,Serviços para edifícios e atividades paisagísticas,208994.0,1807265.0,1621053.0,31505070.0
+2016,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",175521.0,1238550.0,989817.0,20635172.0
+2016,84,"Administração pública, defesa e seguridade social",18210.0,7540328.0,7539983.0,393090836.0
+2016,85,Educação,172472.0,3194388.0,3005253.0,138349851.0
+2016,86,Atividades de atenção à saúde humana,175532.0,2395207.0,2062217.0,74350944.0
+2016,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",9222.0,121642.0,112239.0,2424741.0
+2016,88,Serviços de assistência social sem alojamento,5460.0,181472.0,178289.0,5139272.0
+2016,90,"Atividades artísticas, criativas e de espetáculos",16328.0,44257.0,21120.0,627329.0
+2016,91,Atividades ligadas ao patrimônio cultural e ambiental,878.0,9042.0,8190.0,513470.0
+2016,92,Atividades de exploração de jogos de azar e apostas,131.0,431.0,271.0,9517.0
+2016,93,Atividades esportivas e de recreação e lazer,50491.0,293586.0,233295.0,6381886.0
+2016,94,Atividades de organizações associativas,185971.0,733728.0,614403.0,17395933.0
+2016,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,43725.0,170908.0,110753.0,2699287.0
+2016,96,Outras atividades de serviços pessoais,57747.0,282846.0,202753.0,3635908.0
+2016,99,Organismos internacionais e outras instituições extraterritoriais,280.0,2689.0,2592.0,171410.0
+2017,01,"Agricultura, pecuária e serviços relacionados",89332.0,472992.0,361414.0,9826865.0
+2017,02,Produção florestal,7862.0,80873.0,69545.0,1623201.0
+2017,03,Pesca e aquicultura,2920.0,15080.0,11223.0,219653.0
+2017,05,Extração de carvão mineral,47.0,4115.0,4029.0,210770.0
+2017,06,Extração de petróleo e gás natural,114.0,3395.0,3215.0,861186.0
+2017,07,Extração de minerais metálicos,666.0,83992.0,82851.0,4703693.0
+2017,08,Extração de minerais não-metálicos,8813.0,86784.0,72074.0,2229755.0
+2017,09,Atividades de apoio à extração de minerais,435.0,27912.0,27376.0,3157282.0
+2017,10,Fabricação de produtos alimentícios,52640.0,1783027.0,1706048.0,51764546.0
+2017,11,Fabricação de bebidas,4220.0,172698.0,165830.0,6718067.0
+2017,12,Fabricação de produtos do fumo,221.0,18471.0,18222.0,1160923.0
+2017,13,Fabricação de produtos têxteis,11485.0,264287.0,247645.0,6858484.0
+2017,14,Confecção de artigos do vestuário e acessórios,59380.0,678075.0,594748.0,11725540.0
+2017,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",12898.0,355130.0,337502.0,7136811.0
+2017,16,Fabricação de produtos de madeira,16865.0,194669.0,170198.0,4204511.0
+2017,17,"Fabricação de celulose, papel e produtos de papel",4874.0,193797.0,186547.0,9017249.0
+2017,18,Impressão e reprodução de gravações,20278.0,125796.0,96674.0,3094620.0
+2017,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",491.0,171514.0,170732.0,17935892.0
+2017,20,Fabricação de produtos químicos,9713.0,315527.0,300452.0,19563484.0
+2017,21,Fabricação de produtos farmoquímicos e farmacêuticos,712.0,109252.0,108152.0,9220915.0
+2017,22,Fabricação de produtos de borracha e de material plástico,15601.0,403456.0,379719.0,13624415.0
+2017,23,Fabricação de produtos de minerais não-metálicos,30177.0,440116.0,394906.0,12608069.0
+2017,24,Metalurgia,3683.0,207928.0,202199.0,12202642.0
+2017,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",46336.0,463014.0,395467.0,13591037.0
+2017,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",3961.0,136339.0,130119.0,6348894.0
+2017,27,"Fabricação de máquinas, aparelhos e materiais elétricos",5068.0,210117.0,202428.0,9921982.0
+2017,28,Fabricação de máquinas e equipamentos,16216.0,354795.0,329282.0,18001033.0
+2017,29,"Fabricação de veículos automotores, reboques e carrocerias",6623.0,434590.0,424756.0,26158243.0
+2017,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1461.0,91451.0,89402.0,5768431.0
+2017,31,Fabricação de móveis,24472.0,270933.0,235733.0,5891186.0
+2017,32,Fabricação de produtos diversos,15700.0,174355.0,151773.0,4536342.0
+2017,33,"Manutenção, reparação e instalação de máquinas e equipamentos",35289.0,231223.0,182945.0,6865300.0
+2017,35,"Eletricidade, gás e outras utilidades",2630.0,129756.0,124678.0,12675619.0
+2017,36,"Captação, tratamento e distribuição de água",1853.0,148499.0,147076.0,9784167.0
+2017,37,Esgoto e atividades relacionadas,1340.0,14973.0,13197.0,490594.0
+2017,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",8421.0,220932.0,209097.0,5677836.0
+2017,39,Descontaminação e outros serviços de gestão de resíduos,98.0,1962.0,1818.0,72614.0
+2017,41,Construção de edifícios,113530.0,903246.0,700043.0,18539839.0
+2017,42,Obras de infraestrutura,20892.0,595728.0,563554.0,20109605.0
+2017,43,Serviços especializados para construção,104440.0,714801.0,571287.0,15628307.0
+2017,45,Comércio e reparação de veículos automotores e motocicletas,242452.0,1236541.0,905673.0,23733643.0
+2017,46,"Comércio por atacado, exceto veículos automotores e motocicletas",262280.0,1905737.0,1525878.0,54949111.0
+2017,47,Comércio varejista,1381407.0,8230164.0,6376141.0,135502401.0
+2017,49,Transporte terrestre,181511.0,1841156.0,1594951.0,49229911.0
+2017,50,Transporte aquaviário,1585.0,43500.0,41274.0,3422484.0
+2017,51,Transporte aéreo,543.0,65597.0,64983.0,4403243.0
+2017,52,Armazenamento e atividades auxiliares dos transportes,31859.0,468231.0,419553.0,16087127.0
+2017,53,Correio e outras atividades de entrega,8967.0,182736.0,170708.0,7379487.0
+2017,55,Alojamento,35125.0,383948.0,332392.0,7115820.0
+2017,56,Alimentação,270246.0,1876322.0,1515414.0,28522884.0
+2017,58,Edição e edição integrada à impressão,13939.0,91889.0,71621.0,3539316.0
+2017,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",15620.0,52197.0,29435.0,995203.0
+2017,60,Atividades de rádio e de televisão,5684.0,97442.0,89545.0,6298931.0
+2017,61,Telecomunicações,12101.0,212043.0,194750.0,10010674.0
+2017,62,Atividades dos serviços de tecnologia da informação,64599.0,475487.0,373475.0,25955445.0
+2017,63,Atividades de prestação de serviços de informação,27283.0,154132.0,113705.0,7124945.0
+2017,64,Atividades de serviços financeiros,50025.0,700165.0,617567.0,59693740.0
+2017,65,"Seguros, resseguros, previdência complementar e planos de saúde",2142.0,230840.0,224739.0,11343926.0
+2017,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",38848.0,182732.0,118229.0,7558504.0
+2017,68,Atividades imobiliárias,90873.0,308988.0,148496.0,4689859.0
+2017,69,"Atividades jurídicas, de contabilidade e de auditoria",108189.0,560732.0,386802.0,11632690.0
+2017,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,42360.0,156758.0,88893.0,5308477.0
+2017,71,Serviços de arquitetura e engenharia; testes e análises técnicas,64310.0,313696.0,211863.0,9079499.0
+2017,72,Pesquisa e desenvolvimento científico,1813.0,45360.0,42698.0,5107152.0
+2017,73,Publicidade e pesquisa de mercado,41285.0,154980.0,99181.0,3942484.0
+2017,74,"Outras atividades profissionais, científicas e técnicas",37963.0,153440.0,97920.0,4307885.0
+2017,75,Atividades veterinárias,6540.0,22869.0,13073.0,266508.0
+2017,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,44518.0,283868.0,220752.0,6969749.0
+2017,78,"Seleção, agenciamento e locação de mão-de-obra",6095.0,585062.0,576216.0,11935098.0
+2017,79,"Agências de viagens, operadores turísticos e serviços de reservas",19309.0,95623.0,65818.0,2416070.0
+2017,79.11-2,Agências de viagens,16747.0,84233.0,58087.0,2128237.0
+2017,79.12-1,Operadores turísticos,1062.0,4283.0,2750.0,108044.0
+2017,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,1500.0,7107.0,4981.0,179789.0
+2017,80,"Atividades de vigilância, segurança e investigação",10351.0,662247.0,648500.0,17986404.0
+2017,81,Serviços para edifícios e atividades paisagísticas,214559.0,1817469.0,1626703.0,33261511.0
+2017,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",180199.0,1283814.0,1031909.0,22917795.0
+2017,84,"Administração pública, defesa e seguridade social",18138.0,7717612.0,7717407.0,410473073.0
+2017,85,Educação,178855.0,3448103.0,3252691.0,152433017.0
+2017,86,Atividades de atenção à saúde humana,194343.0,2787080.0,2424054.0,89869176.0
+2017,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",10560.0,136162.0,125261.0,2839720.0
+2017,88,Serviços de assistência social sem alojamento,6206.0,197150.0,193476.0,5835610.0
+2017,90,"Atividades artísticas, criativas e de espetáculos",16176.0,42988.0,20258.0,658184.0
+2017,91,Atividades ligadas ao patrimônio cultural e ambiental,871.0,8863.0,8011.0,520215.0
+2017,92,Atividades de exploração de jogos de azar e apostas,53.0,138.0,68.0,1226.0
+2017,93,Atividades esportivas e de recreação e lazer,51513.0,303728.0,241987.0,6624452.0
+2017,94,Atividades de organizações associativas,177306.0,671475.0,555182.0,16545376.0
+2017,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,41605.0,166168.0,109129.0,2736052.0
+2017,96,Outras atividades de serviços pessoais,56857.0,275694.0,197371.0,3784805.0
+2017,99,Organismos internacionais e outras instituições extraterritoriais,289.0,2725.0,2604.0,179453.0
+2018,01,"Agricultura, pecuária e serviços relacionados",88272.0,469022.0,357699.0,9792659.0
+2018,02,Produção florestal,7907.0,83053.0,71534.0,1596379.0
+2018,03,Pesca e aquicultura,2522.0,14080.0,10545.0,218043.0
+2018,05,Extração de carvão mineral,42.0,3829.0,3763.0,204482.0
+2018,06,Extração de petróleo e gás natural,115.0,3627.0,3475.0,1101242.0
+2018,07,Extração de minerais metálicos,669.0,84578.0,83459.0,4999912.0
+2018,08,Extração de minerais não-metálicos,8425.0,84583.0,70558.0,2187157.0
+2018,09,Atividades de apoio à extração de minerais,479.0,25290.0,24711.0,3124014.0
+2018,10,Fabricação de produtos alimentícios,52412.0,1784216.0,1707451.0,52167341.0
+2018,11,Fabricação de bebidas,4523.0,179776.0,172249.0,7079104.0
+2018,12,Fabricação de produtos do fumo,227.0,18063.0,17789.0,1187927.0
+2018,13,Fabricação de produtos têxteis,10923.0,258617.0,242895.0,6921725.0
+2018,14,Confecção de artigos do vestuário e acessórios,54448.0,641503.0,565515.0,11624934.0
+2018,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",11690.0,343188.0,327356.0,7131387.0
+2018,16,Fabricação de produtos de madeira,15366.0,191801.0,169360.0,4312077.0
+2018,17,"Fabricação de celulose, papel e produtos de papel",4727.0,193309.0,186468.0,9171673.0
+2018,18,Impressão e reprodução de gravações,19193.0,123840.0,96669.0,3130390.0
+2018,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",511.0,183711.0,182992.0,18864234.0
+2018,20,Fabricação de produtos químicos,9498.0,311513.0,297082.0,20268392.0
+2018,21,Fabricação de produtos farmoquímicos e farmacêuticos,628.0,110157.0,109214.0,9608150.0
+2018,22,Fabricação de produtos de borracha e de material plástico,15261.0,404790.0,381976.0,13874911.0
+2018,23,Fabricação de produtos de minerais não-metálicos,28636.0,422896.0,379748.0,12666663.0
+2018,24,Metalurgia,3449.0,215457.0,210085.0,12958229.0
+2018,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",44402.0,457663.0,393638.0,13715937.0
+2018,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",3868.0,137094.0,131078.0,6510545.0
+2018,27,"Fabricação de máquinas, aparelhos e materiais elétricos",4954.0,207538.0,200016.0,9926538.0
+2018,28,Fabricação de máquinas e equipamentos,15829.0,365514.0,340826.0,18291715.0
+2018,29,"Fabricação de veículos automotores, reboques e carrocerias",6565.0,448509.0,438883.0,27340576.0
+2018,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1459.0,78029.0,75989.0,5394757.0
+2018,31,Fabricação de móveis,23347.0,270897.0,237509.0,6132841.0
+2018,32,Fabricação de produtos diversos,15655.0,175470.0,153173.0,4689110.0
+2018,33,"Manutenção, reparação e instalação de máquinas e equipamentos",35809.0,240029.0,191309.0,7099723.0
+2018,35,"Eletricidade, gás e outras utilidades",2791.0,131624.0,126382.0,12561863.0
+2018,36,"Captação, tratamento e distribuição de água",2093.0,151366.0,149852.0,10163877.0
+2018,37,Esgoto e atividades relacionadas,1312.0,16063.0,14328.0,489732.0
+2018,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",8430.0,242910.0,231084.0,6199031.0
+2018,39,Descontaminação e outros serviços de gestão de resíduos,114.0,1786.0,1620.0,50897.0
+2018,41,Construção de edifícios,116634.0,899302.0,691050.0,17759551.0
+2018,42,Obras de infraestrutura,20153.0,608413.0,577900.0,20098753.0
+2018,43,Serviços especializados para construção,100192.0,695219.0,559006.0,15289622.0
+2018,45,Comércio e reparação de veículos automotores e motocicletas,232312.0,1227427.0,910785.0,24601132.0
+2018,46,"Comércio por atacado, exceto veículos automotores e motocicletas",260326.0,1872763.0,1498040.0,56732402.0
+2018,47,Comércio varejista,1299286.0,8177683.0,6429420.0,140099464.0
+2018,49,Transporte terrestre,175487.0,1837845.0,1601119.0,51368822.0
+2018,50,Transporte aquaviário,1598.0,42699.0,40432.0,3432571.0
+2018,51,Transporte aéreo,519.0,65694.0,65118.0,5902040.0
+2018,52,Armazenamento e atividades auxiliares dos transportes,31812.0,485505.0,436995.0,16654019.0
+2018,53,Correio e outras atividades de entrega,8426.0,180004.0,168849.0,7290369.0
+2018,55,Alojamento,34726.0,387909.0,336977.0,7277329.0
+2018,56,Alimentação,257594.0,1874222.0,1529598.0,29846718.0
+2018,58,Edição e edição integrada à impressão,12897.0,84852.0,66025.0,3488501.0
+2018,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",16054.0,52897.0,29456.0,1010626.0
+2018,60,Atividades de rádio e de televisão,5351.0,95688.0,87985.0,6385270.0
+2018,61,Telecomunicações,13423.0,229007.0,210027.0,10229518.0
+2018,62,Atividades dos serviços de tecnologia da informação,66686.0,499044.0,394453.0,27397880.0
+2018,63,Atividades de prestação de serviços de informação,26444.0,153100.0,114068.0,7394756.0
+2018,64,Atividades de serviços financeiros,55119.0,716079.0,624607.0,69007856.0
+2018,65,"Seguros, resseguros, previdência complementar e planos de saúde",2208.0,251013.0,244878.0,12225377.0
+2018,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",41792.0,195347.0,127168.0,8547731.0
+2018,68,Atividades imobiliárias,98096.0,328170.0,154492.0,4884657.0
+2018,69,"Atividades jurídicas, de contabilidade e de auditoria",118401.0,589849.0,403967.0,12209977.0
+2018,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,43871.0,161849.0,92390.0,5718600.0
+2018,71,Serviços de arquitetura e engenharia; testes e análises técnicas,68596.0,329097.0,221850.0,9206346.0
+2018,72,Pesquisa e desenvolvimento científico,1871.0,48226.0,45493.0,5530775.0
+2018,73,Publicidade e pesquisa de mercado,43140.0,165792.0,108058.0,4249761.0
+2018,74,"Outras atividades profissionais, científicas e técnicas",39052.0,162564.0,105632.0,4423826.0
+2018,75,Atividades veterinárias,7605.0,26608.0,15394.0,317930.0
+2018,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,43035.0,283913.0,222949.0,7030072.0
+2018,78,"Seleção, agenciamento e locação de mão-de-obra",5628.0,623921.0,616067.0,13159956.0
+2018,79,"Agências de viagens, operadores turísticos e serviços de reservas",19275.0,97297.0,67840.0,2627336.0
+2018,79.11-2,Agências de viagens,16634.0,85172.0,59487.0,2300067.0
+2018,79.12-1,Operadores turísticos,1161.0,4798.0,3075.0,101791.0
+2018,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,1480.0,7327.0,5278.0,225479.0
+2018,80,"Atividades de vigilância, segurança e investigação",10395.0,655338.0,641621.0,18261489.0
+2018,81,Serviços para edifícios e atividades paisagísticas,219942.0,1858178.0,1668597.0,34711266.0
+2018,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",184395.0,1338320.0,1083412.0,24520300.0
+2018,84,"Administração pública, defesa e seguridade social",18753.0,7705804.0,7705595.0,430703155.0
+2018,85,Educação,174553.0,3479191.0,3281377.0,158413078.0
+2018,86,Atividades de atenção à saúde humana,217729.0,2914193.0,2507943.0,94349999.0
+2018,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",10669.0,142577.0,131243.0,3055094.0
+2018,88,Serviços de assistência social sem alojamento,6342.0,200936.0,197363.0,5998495.0
+2018,90,"Atividades artísticas, criativas e de espetáculos",15708.0,41480.0,19828.0,646719.0
+2018,91,Atividades ligadas ao patrimônio cultural e ambiental,834.0,8742.0,7945.0,492560.0
+2018,92,Atividades de exploração de jogos de azar e apostas,52.0,105.0,44.0,1094.0
+2018,93,Atividades esportivas e de recreação e lazer,53023.0,317483.0,253749.0,7120496.0
+2018,94,Atividades de organizações associativas,156381.0,598501.0,499202.0,15251363.0
+2018,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,38845.0,158429.0,105307.0,2841234.0
+2018,96,Outras atividades de serviços pessoais,55816.0,271180.0,194041.0,3874272.0
+2018,99,Organismos internacionais e outras instituições extraterritoriais,264.0,2741.0,2642.0,188587.0
+2019,01,"Agricultura, pecuária e serviços relacionados",90083.0,477052.0,362905.0,10032926.0
+2019,02,Produção florestal,8497.0,83611.0,71469.0,1602648.0
+2019,03,Pesca e aquicultura,2752.0,14263.0,10423.0,207697.0
+2019,05,Extração de carvão mineral,48.0,3619.0,3548.0,198620.0
+2019,06,Extração de petróleo e gás natural,172.0,4625.0,4392.0,1221201.0
+2019,07,Extração de minerais metálicos,862.0,89922.0,88531.0,4939756.0
+2019,08,Extração de minerais não-metálicos,9097.0,85233.0,70398.0,2199629.0
+2019,09,Atividades de apoio à extração de minerais,566.0,25119.0,24464.0,3004295.0
+2019,10,Fabricação de produtos alimentícios,54398.0,1704116.0,1625615.0,50403363.0
+2019,11,Fabricação de bebidas,5326.0,182632.0,174060.0,7568700.0
+2019,12,Fabricação de produtos do fumo,253.0,15974.0,15706.0,1186447.0
+2019,13,Fabricação de produtos têxteis,10930.0,256691.0,241123.0,6977368.0
+2019,14,Confecção de artigos do vestuário e acessórios,53296.0,624944.0,551808.0,11709458.0
+2019,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",11461.0,334317.0,318920.0,7173903.0
+2019,16,Fabricação de produtos de madeira,15574.0,186188.0,163887.0,4283250.0
+2019,17,"Fabricação de celulose, papel e produtos de papel",4913.0,196689.0,189747.0,9463526.0
+2019,18,Impressão e reprodução de gravações,19070.0,121525.0,95029.0,3090064.0
+2019,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",596.0,268299.0,267522.0,22899339.0
+2019,20,Fabricação de produtos químicos,10038.0,312695.0,297519.0,20618508.0
+2019,21,Fabricação de produtos farmoquímicos e farmacêuticos,672.0,112552.0,111559.0,10126699.0
+2019,22,Fabricação de produtos de borracha e de material plástico,15940.0,397273.0,374212.0,14149608.0
+2019,23,Fabricação de produtos de minerais não-metálicos,28914.0,413046.0,370333.0,12073039.0
+2019,24,Metalurgia,3543.0,218280.0,212997.0,13224429.0
+2019,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",44448.0,466648.0,403425.0,14082192.0
+2019,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",3979.0,126771.0,120707.0,6848267.0
+2019,27,"Fabricação de máquinas, aparelhos e materiais elétricos",5246.0,213694.0,205879.0,9890582.0
+2019,28,Fabricação de máquinas e equipamentos,16576.0,366951.0,341884.0,18824825.0
+2019,29,"Fabricação de veículos automotores, reboques e carrocerias",6796.0,444802.0,435155.0,27463899.0
+2019,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1569.0,75483.0,73351.0,5125622.0
+2019,31,Fabricação de móveis,23194.0,268563.0,235819.0,6272322.0
+2019,32,Fabricação de produtos diversos,16158.0,179946.0,157174.0,5074698.0
+2019,33,"Manutenção, reparação e instalação de máquinas e equipamentos",37665.0,258641.0,208204.0,7680991.0
+2019,35,"Eletricidade, gás e outras utilidades",4970.0,138346.0,131888.0,12593420.0
+2019,36,"Captação, tratamento e distribuição de água",2203.0,156304.0,154692.0,10462905.0
+2019,37,Esgoto e atividades relacionadas,1358.0,15208.0,13468.0,441873.0
+2019,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",8830.0,248593.0,236458.0,6681329.0
+2019,39,Descontaminação e outros serviços de gestão de resíduos,134.0,1756.0,1579.0,41208.0
+2019,41,Construção de edifícios,147261.0,925979.0,687885.0,17806097.0
+2019,42,Obras de infraestrutura,21990.0,634156.0,602756.0,21597209.0
+2019,43,Serviços especializados para construção,102174.0,731077.0,594635.0,16140621.0
+2019,45,Comércio e reparação de veículos automotores e motocicletas,235202.0,1244185.0,928481.0,25753206.0
+2019,46,"Comércio por atacado, exceto veículos automotores e motocicletas",290884.0,1926264.0,1524894.0,59780601.0
+2019,47,Comércio varejista,1267717.0,8179673.0,6487222.0,144711614.0
+2019,49,Transporte terrestre,181633.0,1872420.0,1630733.0,53782777.0
+2019,50,Transporte aquaviário,1697.0,41562.0,39270.0,3298385.0
+2019,51,Transporte aéreo,575.0,62954.0,62307.0,5610809.0
+2019,52,Armazenamento e atividades auxiliares dos transportes,33328.0,491806.0,442563.0,17086728.0
+2019,53,Correio e outras atividades de entrega,8130.0,172736.0,162031.0,7110355.0
+2019,55,Alojamento,35270.0,388865.0,337813.0,7535958.0
+2019,56,Alimentação,255338.0,1919665.0,1581892.0,31054165.0
+2019,58,Edição e edição integrada à impressão,12789.0,84615.0,66282.0,3215159.0
+2019,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",17386.0,53813.0,29083.0,1039420.0
+2019,60,Atividades de rádio e de televisão,5806.0,93222.0,85107.0,6424977.0
+2019,61,Telecomunicações,15714.0,250974.0,229458.0,10973381.0
+2019,62,Atividades dos serviços de tecnologia da informação,78854.0,545275.0,428331.0,30481805.0
+2019,63,Atividades de prestação de serviços de informação,27891.0,157463.0,117661.0,7902740.0
+2019,64,Atividades de serviços financeiros,83307.0,832215.0,713545.0,63483135.0
+2019,65,"Seguros, resseguros, previdência complementar e planos de saúde",2374.0,262620.0,256456.0,12827266.0
+2019,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",47777.0,214260.0,138927.0,10187843.0
+2019,68,Atividades imobiliárias,131408.0,375084.0,161650.0,5125084.0
+2019,69,"Atividades jurídicas, de contabilidade e de auditoria",135455.0,596510.0,394878.0,12574579.0
+2019,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,56379.0,182354.0,99880.0,6034831.0
+2019,71,Serviços de arquitetura e engenharia; testes e análises técnicas,84920.0,379249.0,253855.0,10040335.0
+2019,72,Pesquisa e desenvolvimento científico,2327.0,44938.0,41696.0,5440559.0
+2019,73,Publicidade e pesquisa de mercado,48909.0,184624.0,120722.0,4557053.0
+2019,74,"Outras atividades profissionais, científicas e técnicas",46472.0,184009.0,119511.0,5339279.0
+2019,75,Atividades veterinárias,9578.0,31401.0,17921.0,368735.0
+2019,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,45305.0,299963.0,237493.0,7652993.0
+2019,78,"Seleção, agenciamento e locação de mão-de-obra",6485.0,689886.0,681412.0,13909787.0
+2019,79,"Agências de viagens, operadores turísticos e serviços de reservas",19969.0,99528.0,69793.0,2714612.0
+2019,79.11-2,Agências de viagens,17201.0,86607.0,60735.0,2333760.0
+2019,79.12-1,Operadores turísticos,1230.0,4950.0,3208.0,115269.0
+2019,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,1538.0,7971.0,5850.0,265584.0
+2019,80,"Atividades de vigilância, segurança e investigação",11147.0,665133.0,651054.0,18084072.0
+2019,81,Serviços para edifícios e atividades paisagísticas,225320.0,1858901.0,1672164.0,35446525.0
+2019,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",206523.0,1453701.0,1176419.0,27037791.0
+2019,84,"Administração pública, defesa e seguridade social",18942.0,7755929.0,7755682.0,454851566.0
+2019,85,Educação,190268.0,3450335.0,3241702.0,163224718.0
+2019,86,Atividades de atenção à saúde humana,261826.0,3054979.0,2598973.0,99538984.0
+2019,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",11552.0,149920.0,137828.0,3228650.0
+2019,88,Serviços de assistência social sem alojamento,6599.0,197998.0,194220.0,5939308.0
+2019,90,"Atividades artísticas, criativas e de espetáculos",15814.0,39052.0,17769.0,637092.0
+2019,91,Atividades ligadas ao patrimônio cultural e ambiental,851.0,10134.0,9334.0,514112.0
+2019,92,Atividades de exploração de jogos de azar e apostas,62.0,116.0,44.0,896.0
+2019,93,Atividades esportivas e de recreação e lazer,57363.0,320628.0,253138.0,7799478.0
+2019,94,Atividades de organizações associativas,159762.0,592055.0,493025.0,15854297.0
+2019,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,37486.0,153872.0,103276.0,2837665.0
+2019,96,Outras atividades de serviços pessoais,55036.0,271042.0,195548.0,4029165.0
+2019,99,Organismos internacionais e outras instituições extraterritoriais,267.0,2774.0,2677.0,203493.0
+2020,01,"Agricultura, pecuária e serviços relacionados",91550.0,487440.0,366456.0,10315278.0
+2020,02,Produção florestal,8447.0,80893.0,68448.0,1581952.0
+2020,03,Pesca e aquicultura,3025.0,14114.0,9945.0,207952.0
+2020,05,Extração de carvão mineral,47.0,3526.0,3452.0,194246.0
+2020,06,Extração de petróleo e gás natural,159.0,4973.0,4761.0,1451591.0
+2020,07,Extração de minerais metálicos,965.0,97164.0,95643.0,5566960.0
+2020,08,Extração de minerais não-metálicos,9071.0,87245.0,72300.0,2306181.0
+2020,09,Atividades de apoio à extração de minerais,651.0,24355.0,23557.0,3354283.0
+2020,10,Fabricação de produtos alimentícios,56182.0,1825414.0,1744986.0,55513770.0
+2020,11,Fabricação de bebidas,5617.0,178121.0,168963.0,7463563.0
+2020,12,Fabricação de produtos do fumo,295.0,17153.0,16830.0,1221696.0
+2020,13,Fabricação de produtos têxteis,11190.0,259686.0,244028.0,6427035.0
+2020,14,Confecção de artigos do vestuário e acessórios,52152.0,560634.0,490262.0,9405242.0
+2020,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",10945.0,306867.0,292326.0,5804897.0
+2020,16,Fabricação de produtos de madeira,15462.0,192380.0,170453.0,4277869.0
+2020,17,"Fabricação de celulose, papel e produtos de papel",4996.0,200937.0,193911.0,9390814.0
+2020,18,Impressão e reprodução de gravações,18908.0,111409.0,85637.0,2632336.0
+2020,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",618.0,184036.0,183125.0,18895114.0
+2020,20,Fabricação de produtos químicos,10532.0,323625.0,307900.0,21026058.0
+2020,21,Fabricação de produtos farmoquímicos e farmacêuticos,663.0,118013.0,117079.0,10408587.0
+2020,22,Fabricação de produtos de borracha e de material plástico,16128.0,406453.0,383162.0,13933904.0
+2020,23,Fabricação de produtos de minerais não-metálicos,29035.0,422613.0,380201.0,12113751.0
+2020,24,Metalurgia,3497.0,221952.0,216732.0,12929239.0
+2020,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",45933.0,476758.0,412360.0,13958803.0
+2020,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",3909.0,123248.0,117406.0,6546406.0
+2020,27,"Fabricação de máquinas, aparelhos e materiais elétricos",5340.0,222393.0,214569.0,10429290.0
+2020,28,Fabricação de máquinas e equipamentos,16694.0,380941.0,355838.0,18908387.0
+2020,29,"Fabricação de veículos automotores, reboques e carrocerias",6901.0,437089.0,427350.0,24477689.0
+2020,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1595.0,74085.0,71936.0,4468984.0
+2020,31,Fabricação de móveis,23909.0,275409.0,242320.0,6037665.0
+2020,32,Fabricação de produtos diversos,17255.0,179800.0,155870.0,4652495.0
+2020,33,"Manutenção, reparação e instalação de máquinas e equipamentos",41094.0,267842.0,214197.0,7297812.0
+2020,35,"Eletricidade, gás e outras utilidades",6083.0,139384.0,128560.0,11978409.0
+2020,36,"Captação, tratamento e distribuição de água",2257.0,148106.0,146385.0,10486759.0
+2020,37,Esgoto e atividades relacionadas,1459.0,15449.0,13602.0,441429.0
+2020,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",9450.0,252495.0,239437.0,7126250.0
+2020,39,Descontaminação e outros serviços de gestão de resíduos,137.0,1977.0,1811.0,40491.0
+2020,41,Construção de edifícios,155200.0,957348.0,692131.0,17061146.0
+2020,42,Obras de infraestrutura,22340.0,697594.0,665627.0,22934480.0
+2020,43,Serviços especializados para construção,111765.0,753559.0,608291.0,16265128.0
+2020,45,Comércio e reparação de veículos automotores e motocicletas,243624.0,1201948.0,878944.0,24239878.0
+2020,46,"Comércio por atacado, exceto veículos automotores e motocicletas",297592.0,1951026.0,1539653.0,60725628.0
+2020,47,Comércio varejista,1287504.0,7996639.0,6300273.0,138415220.0
+2020,49,Transporte terrestre,185234.0,1810036.0,1566691.0,49334262.0
+2020,50,Transporte aquaviário,1753.0,40792.0,38393.0,3469275.0
+2020,51,Transporte aéreo,592.0,53660.0,52985.0,4247944.0
+2020,52,Armazenamento e atividades auxiliares dos transportes,33483.0,469773.0,420671.0,16433306.0
+2020,53,Correio e outras atividades de entrega,8325.0,175152.0,164405.0,6861350.0
+2020,55,Alojamento,34675.0,322497.0,271762.0,5446067.0
+2020,56,Alimentação,250600.0,1604531.0,1274699.0,22465117.0
+2020,58,Edição e edição integrada à impressão,13089.0,70916.0,52665.0,2804818.0
+2020,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",18667.0,49466.0,23464.0,875856.0
+2020,60,Atividades de rádio e de televisão,5645.0,87341.0,79367.0,6329750.0
+2020,61,Telecomunicações,17717.0,273166.0,249357.0,11428033.0
+2020,62,Atividades dos serviços de tecnologia da informação,87360.0,572855.0,444363.0,33249319.0
+2020,63,Atividades de prestação de serviços de informação,28062.0,155262.0,115093.0,8825184.0
+2020,64,Atividades de serviços financeiros,93977.0,794814.0,635881.0,65080407.0
+2020,65,"Seguros, resseguros, previdência complementar e planos de saúde",2307.0,282112.0,275707.0,14354669.0
+2020,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",50316.0,229604.0,148792.0,13442246.0
+2020,68,Atividades imobiliárias,144406.0,411995.0,160627.0,5057839.0
+2020,69,"Atividades jurídicas, de contabilidade e de auditoria",141798.0,600357.0,389538.0,12080315.0
+2020,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,60419.0,184087.0,92695.0,6023640.0
+2020,71,Serviços de arquitetura e engenharia; testes e análises técnicas,92372.0,388474.0,252953.0,10059456.0
+2020,72,Pesquisa e desenvolvimento científico,2502.0,45096.0,41275.0,5480984.0
+2020,73,Publicidade e pesquisa de mercado,59375.0,196949.0,121590.0,4174224.0
+2020,74,"Outras atividades profissionais, científicas e técnicas",51976.0,188670.0,115148.0,5092757.0
+2020,75,Atividades veterinárias,11280.0,36522.0,20645.0,426409.0
+2020,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,46019.0,294457.0,230213.0,7580745.0
+2020,78,"Seleção, agenciamento e locação de mão-de-obra",6662.0,818593.0,809849.0,15076377.0
+2020,79,"Agências de viagens, operadores turísticos e serviços de reservas",19347.0,75690.0,47132.0,1886008.0
+2020,79.11-2,Agências de viagens,16607.0,65067.0,40319.0,1571130.0
+2020,79.12-1,Operadores turísticos,1245.0,4014.0,2244.0,69029.0
+2020,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,1495.0,6609.0,4569.0,245849.0
+2020,80,"Atividades de vigilância, segurança e investigação",11739.0,660207.0,645454.0,17979262.0
+2020,81,Serviços para edifícios e atividades paisagísticas,229475.0,1812268.0,1626603.0,34243091.0
+2020,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",219323.0,1500788.0,1208713.0,27297488.0
+2020,84,"Administração pública, defesa e seguridade social",18803.0,7522017.0,7521816.0,462611058.0
+2020,85,Educação,194826.0,3404952.0,3190345.0,159444817.0
+2020,86,Atividades de atenção à saúde humana,288886.0,3256148.0,2742061.0,106758175.0
+2020,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",11955.0,152259.0,139307.0,3330432.0
+2020,88,Serviços de assistência social sem alojamento,6569.0,192729.0,188911.0,5687338.0
+2020,90,"Atividades artísticas, criativas e de espetáculos",15752.0,35524.0,14586.0,497499.0
+2020,91,Atividades ligadas ao patrimônio cultural e ambiental,837.0,8975.0,8157.0,462352.0
+2020,92,Atividades de exploração de jogos de azar e apostas,66.0,692.0,622.0,18142.0
+2020,93,Atividades esportivas e de recreação e lazer,56036.0,277265.0,210841.0,5890166.0
+2020,94,Atividades de organizações associativas,164444.0,550969.0,452001.0,14511470.0
+2020,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,38602.0,148740.0,97690.0,2591229.0
+2020,96,Outras atividades de serviços pessoais,58383.0,255510.0,177061.0,3491279.0
+2020,99,Organismos internacionais e outras instituições extraterritoriais,261.0,2805.0,2721.0,217918.0
+2021,01,"Agricultura, pecuária e serviços relacionados",94016.0,520320.0,392719.0,11554340.0
+2021,02,Produção florestal,9062.0,89402.0,76105.0,1833638.0
+2021,03,Pesca e aquicultura,3090.0,14910.0,10611.0,234088.0
+2021,05,Extração de carvão mineral,51.0,3727.0,3660.0,217731.0
+2021,06,Extração de petróleo e gás natural,172.0,5991.0,5760.0,1671906.0
+2021,07,Extração de minerais metálicos,1104.0,100617.0,98737.0,7317950.0
+2021,08,Extração de minerais não-metálicos,9455.0,91852.0,76476.0,2647517.0
+2021,09,Atividades de apoio à extração de minerais,730.0,28096.0,27202.0,3706341.0
+2021,10,Fabricação de produtos alimentícios,58077.0,1862827.0,1779900.0,61373693.0
+2021,11,Fabricação de bebidas,6076.0,184462.0,174510.0,8282094.0
+2021,12,Fabricação de produtos do fumo,298.0,17040.0,16705.0,1246863.0
+2021,13,Fabricação de produtos têxteis,11574.0,272152.0,256108.0,7737904.0
+2021,14,Confecção de artigos do vestuário e acessórios,52773.0,608841.0,538535.0,11659951.0
+2021,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",10827.0,333239.0,318886.0,7093601.0
+2021,16,Fabricação de produtos de madeira,15935.0,210089.0,187705.0,5291611.0
+2021,17,"Fabricação de celulose, papel e produtos de papel",5225.0,205356.0,198070.0,10464661.0
+2021,18,Impressão e reprodução de gravações,18827.0,111712.0,86389.0,2886335.0
+2021,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",644.0,195836.0,194901.0,18816317.0
+2021,20,Fabricação de produtos químicos,10849.0,336075.0,319902.0,23834006.0
+2021,21,Fabricação de produtos farmoquímicos e farmacêuticos,658.0,115604.0,114562.0,10507474.0
+2021,22,Fabricação de produtos de borracha e de material plástico,16686.0,415810.0,391919.0,15714643.0
+2021,23,Fabricação de produtos de minerais não-metálicos,30647.0,460834.0,416751.0,14700288.0
+2021,24,Metalurgia,3552.0,236463.0,231117.0,14875799.0
+2021,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",48457.0,510107.0,443377.0,16520160.0
+2021,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",3923.0,130564.0,124619.0,7089048.0
+2021,27,"Fabricação de máquinas, aparelhos e materiais elétricos",5549.0,234117.0,225900.0,12074216.0
+2021,28,Fabricação de máquinas e equipamentos,17151.0,426394.0,400708.0,22814315.0
+2021,29,"Fabricação de veículos automotores, reboques e carrocerias",7201.0,450185.0,440195.0,27790272.0
+2021,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",1635.0,81172.0,78996.0,5277178.0
+2021,31,Fabricação de móveis,25215.0,284763.0,250522.0,6992851.0
+2021,32,Fabricação de produtos diversos,18255.0,190554.0,165369.0,5554369.0
+2021,33,"Manutenção, reparação e instalação de máquinas e equipamentos",44671.0,295987.0,238656.0,8727450.0
+2021,35,"Eletricidade, gás e outras utilidades",7310.0,147347.0,133486.0,13007532.0
+2021,36,"Captação, tratamento e distribuição de água",2331.0,151332.0,149448.0,11146620.0
+2021,37,Esgoto e atividades relacionadas,1549.0,16750.0,14851.0,514170.0
+2021,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",10516.0,273271.0,258907.0,7779875.0
+2021,39,Descontaminação e outros serviços de gestão de resíduos,143.0,1935.0,1767.0,54709.0
+2021,41,Construção de edifícios,169181.0,1052039.0,760529.0,20266848.0
+2021,42,Obras de infraestrutura,23268.0,709274.0,676680.0,25831177.0
+2021,43,Serviços especializados para construção,121050.0,825793.0,670968.0,19041345.0
+2021,45,Comércio e reparação de veículos automotores e motocicletas,253745.0,1265651.0,933156.0,29065545.0
+2021,46,"Comércio por atacado, exceto veículos automotores e motocicletas",312906.0,2063758.0,1636813.0,71510921.0
+2021,47,Comércio varejista,1324926.0,8303800.0,6577382.0,159249234.0
+2021,49,Transporte terrestre,190136.0,1873726.0,1627357.0,55295884.0
+2021,50,Transporte aquaviário,1840.0,44505.0,41934.0,4102835.0
+2021,51,Transporte aéreo,594.0,56594.0,55938.0,4618302.0
+2021,52,Armazenamento e atividades auxiliares dos transportes,34248.0,504860.0,455207.0,18635126.0
+2021,53,Correio e outras atividades de entrega,8398.0,173654.0,163016.0,7413085.0
+2021,55,Alojamento,35072.0,353641.0,302515.0,6435971.0
+2021,56,Alimentação,252856.0,1693411.0,1364747.0,25851386.0
+2021,58,Edição e edição integrada à impressão,13666.0,70169.0,51456.0,2938605.0
+2021,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",19917.0,51537.0,24444.0,959371.0
+2021,60,Atividades de rádio e de televisão,5851.0,87252.0,78886.0,6726393.0
+2021,61,Telecomunicações,19320.0,294555.0,268344.0,12384591.0
+2021,62,Atividades dos serviços de tecnologia da informação,104097.0,675814.0,528896.0,41998023.0
+2021,63,Atividades de prestação de serviços de informação,29455.0,169140.0,127798.0,9922682.0
+2021,64,Atividades de serviços financeiros,102535.0,833094.0,648499.0,69034367.0
+2021,65,"Seguros, resseguros, previdência complementar e planos de saúde",2497.0,303681.0,296961.0,16330354.0
+2021,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",54093.0,269522.0,183758.0,18728609.0
+2021,68,Atividades imobiliárias,164446.0,469651.0,182702.0,6052222.0
+2021,69,"Atividades jurídicas, de contabilidade e de auditoria",152134.0,629649.0,406551.0,14037676.0
+2021,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,66928.0,213823.0,113897.0,7686230.0
+2021,71,Serviços de arquitetura e engenharia; testes e análises técnicas,105183.0,443330.0,293261.0,12394811.0
+2021,72,Pesquisa e desenvolvimento científico,2841.0,48759.0,44414.0,5924801.0
+2021,73,Publicidade e pesquisa de mercado,70987.0,224176.0,136253.0,5021720.0
+2021,74,"Outras atividades profissionais, científicas e técnicas",59890.0,222117.0,139168.0,6665999.0
+2021,75,Atividades veterinárias,14450.0,45783.0,26195.0,565809.0
+2021,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,48872.0,329439.0,261385.0,9153201.0
+2021,78,"Seleção, agenciamento e locação de mão-de-obra",7095.0,794421.0,785018.0,18490227.0
+2021,79,"Agências de viagens, operadores turísticos e serviços de reservas",18980.0,74841.0,47504.0,1880852.0
+2021,79.11-2,Agências de viagens,16160.0,63698.0,40263.0,1548021.0
+2021,79.12-1,Operadores turísticos,1276.0,4552.0,2764.0,86512.0
+2021,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,1544.0,6591.0,4477.0,246318.0
+2021,80,"Atividades de vigilância, segurança e investigação",12316.0,660000.0,644806.0,19020803.0
+2021,81,Serviços para edifícios e atividades paisagísticas,232974.0,1866990.0,1690078.0,37869997.0
+2021,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",242337.0,1657219.0,1341927.0,32297940.0
+2021,84,"Administração pública, defesa e seguridade social",18905.0,7782437.0,7782181.0,475042541.0
+2021,85,Educação,205013.0,3433226.0,3206108.0,168276450.0
+2021,86,Atividades de atenção à saúde humana,333848.0,3466617.0,2893046.0,119974909.0
+2021,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",12595.0,161354.0,147647.0,3756885.0
+2021,88,Serviços de assistência social sem alojamento,6928.0,220480.0,216416.0,6565451.0
+2021,90,"Atividades artísticas, criativas e de espetáculos",16235.0,34838.0,13657.0,500591.0
+2021,91,Atividades ligadas ao patrimônio cultural e ambiental,909.0,10685.0,9706.0,515738.0
+2021,92,Atividades de exploração de jogos de azar e apostas,95.0,680.0,573.0,18435.0
+2021,93,Atividades esportivas e de recreação e lazer,59420.0,290047.0,219470.0,6883460.0
+2021,94,Atividades de organizações associativas,160082.0,494365.0,397886.0,13553440.0
+2021,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,39113.0,150827.0,100056.0,2822396.0
+2021,96,Outras atividades de serviços pessoais,61879.0,276255.0,194520.0,4298699.0
+2021,99,Organismos internacionais e outras instituições extraterritoriais,259.0,2800.0,2717.0,234573.0
+2022,01,"Agricultura, pecuária e serviços relacionados",519408.0,992579.0,414614.0,13385304.0
+2022,02,Produção florestal,21414.0,114723.0,86492.0,2307028.0
+2022,03,Pesca e aquicultura,13038.0,25387.0,10303.0,247819.0
+2022,05,Extração de carvão mineral,89.0,3882.0,3742.0,261465.0
+2022,06,Extração de petróleo e gás natural,475.0,8726.0,8121.0,2432643.0
+2022,07,Extração de minerais metálicos,2199.0,103193.0,98850.0,7929027.0
+2022,08,Extração de minerais não-metálicos,14946.0,106683.0,81968.0,3162815.0
+2022,09,Atividades de apoio à extração de minerais,1219.0,36306.0,34476.0,4781819.0
+2022,10,Fabricação de produtos alimentícios,87985.0,2045174.0,1919249.0,72998104.0
+2022,11,Fabricação de bebidas,8460.0,198357.0,183594.0,9421504.0
+2022,12,Fabricação de produtos do fumo,405.0,16419.0,15939.0,1345994.0
+2022,13,Fabricação de produtos têxteis,15369.0,272932.0,251520.0,8683214.0
+2022,14,Confecção de artigos do vestuário e acessórios,75903.0,648314.0,550299.0,13626629.0
+2022,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",15424.0,364037.0,344192.0,8819640.0
+2022,16,Fabricação de produtos de madeira,22688.0,217092.0,185075.0,6129778.0
+2022,17,"Fabricação de celulose, papel e produtos de papel",6598.0,218497.0,209132.0,12094196.0
+2022,18,Impressão e reprodução de gravações,27521.0,128397.0,90659.0,3356693.0
+2022,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",855.0,173829.0,172442.0,19295948.0
+2022,20,Fabricação de produtos químicos,15207.0,364072.0,341186.0,27772247.0
+2022,21,Fabricação de produtos farmoquímicos e farmacêuticos,828.0,123455.0,122096.0,11841676.0
+2022,22,Fabricação de produtos de borracha e de material plástico,21088.0,429771.0,398748.0,17699446.0
+2022,23,Fabricação de produtos de minerais não-metálicos,41919.0,486257.0,426182.0,16735570.0
+2022,24,Metalurgia,4301.0,249749.0,243292.0,17410582.0
+2022,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",66255.0,557865.0,466419.0,18751301.0
+2022,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4950.0,134631.0,126867.0,7903145.0
+2022,27,"Fabricação de máquinas, aparelhos e materiais elétricos",7201.0,246094.0,235267.0,13873103.0
+2022,28,Fabricação de máquinas e equipamentos,20877.0,447726.0,415706.0,26485053.0
+2022,29,"Fabricação de veículos automotores, reboques e carrocerias",9337.0,475926.0,462628.0,31560195.0
+2022,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",2331.0,86153.0,82898.0,5773193.0
+2022,31,Fabricação de móveis,35273.0,301653.0,253552.0,7867943.0
+2022,32,Fabricação de produtos diversos,24932.0,213016.0,178352.0,6651996.0
+2022,33,"Manutenção, reparação e instalação de máquinas e equipamentos",66062.0,365758.0,278114.0,10621338.0
+2022,35,"Eletricidade, gás e outras utilidades",11802.0,161924.0,132208.0,14307956.0
+2022,36,"Captação, tratamento e distribuição de água",3131.0,156152.0,152456.0,12141745.0
+2022,37,Esgoto e atividades relacionadas,2335.0,19229.0,16201.0,658897.0
+2022,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",16242.0,298614.0,275106.0,9118667.0
+2022,39,Descontaminação e outros serviços de gestão de resíduos,195.0,2058.0,1792.0,59521.0
+2022,41,Construção de edifícios,259898.0,1215924.0,767677.0,23105251.0
+2022,42,Obras de infraestrutura,38684.0,745672.0,693390.0,27881101.0
+2022,43,Serviços especializados para construção,200315.0,1015146.0,757563.0,22615785.0
+2022,45,Comércio e reparação de veículos automotores e motocicletas,360003.0,1481640.0,1002172.0,33445469.0
+2022,46,"Comércio por atacado, exceto veículos automotores e motocicletas",478338.0,2403790.0,1739019.0,83480509.0
+2022,47,Comércio varejista,1903298.0,9269891.0,6791287.0,180942197.0
+2022,49,Transporte terrestre,276244.0,2122129.0,1750678.0,66540212.0
+2022,50,Transporte aquaviário,3354.0,48974.0,44242.0,4705893.0
+2022,51,Transporte aéreo,853.0,61295.0,60177.0,5856027.0
+2022,52,Armazenamento e atividades auxiliares dos transportes,49426.0,547829.0,474609.0,22010101.0
+2022,53,Correio e outras atividades de entrega,12632.0,189827.0,173230.0,8301272.0
+2022,55,Alojamento,46846.0,404920.0,333013.0,8479782.0
+2022,56,Alimentação,384121.0,2083082.0,1576907.0,33665504.0
+2022,58,Edição e edição integrada à impressão,20872.0,82191.0,51911.0,3119981.0
+2022,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",35677.0,78219.0,27872.0,1278585.0
+2022,60,Atividades de rádio e de televisão,9173.0,95735.0,79997.0,7015460.0
+2022,61,Telecomunicações,28942.0,314457.0,274617.0,14159624.0
+2022,62,Atividades dos serviços de tecnologia da informação,173646.0,830784.0,583428.0,52011868.0
+2022,63,Atividades de prestação de serviços de informação,47459.0,212768.0,142686.0,13445618.0
+2022,64,Atividades de serviços financeiros,181334.0,969931.0,656381.0,78893421.0
+2022,65,"Seguros, resseguros, previdência complementar e planos de saúde",4486.0,320658.0,309806.0,18159404.0
+2022,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",85119.0,337511.0,195515.0,22481033.0
+2022,68,Atividades imobiliárias,238019.0,660057.0,188899.0,7112452.0
+2022,69,"Atividades jurídicas, de contabilidade e de auditoria",243282.0,778992.0,437916.0,16322646.0
+2022,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,111426.0,322467.0,143650.0,11809919.0
+2022,71,Serviços de arquitetura e engenharia; testes e análises técnicas,167072.0,591612.0,350994.0,16132714.0
+2022,72,Pesquisa e desenvolvimento científico,4807.0,56169.0,47320.0,6690436.0
+2022,73,Publicidade e pesquisa de mercado,127047.0,320160.0,156272.0,6258725.0
+2022,74,"Outras atividades profissionais, científicas e técnicas",106457.0,303694.0,150793.0,8059178.0
+2022,75,Atividades veterinárias,23426.0,64806.0,32554.0,761815.0
+2022,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,82838.0,423363.0,302413.0,11507280.0
+2022,78,"Seleção, agenciamento e locação de mão-de-obra",11408.0,952368.0,937133.0,22112335.0
+2022,79,"Agências de viagens, operadores turísticos e serviços de reservas",31018.0,103631.0,57517.0,2509748.0
+2022,79.11-2,Agências de viagens,26480.0,88299.0,48777.0,2077873.0
+2022,79.12-1,Operadores turísticos,2118.0,6592.0,3496.0,130237.0
+2022,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,2420.0,8740.0,5244.0,301638.0
+2022,80,"Atividades de vigilância, segurança e investigação",21025.0,691754.0,664581.0,21313755.0
+2022,81,Serviços para edifícios e atividades paisagísticas,362142.0,1879745.0,1779531.0,42664540.0
+2022,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",417057.0,2049919.0,1473586.0,39165576.0
+2022,84,"Administração pública, defesa e seguridade social",43317.0,7873284.0,7871662.0,534965269.0
+2022,85,Educação,337943.0,3848437.0,3421408.0,190372742.0
+2022,86,Atividades de atenção à saúde humana,494641.0,3833536.0,2998005.0,131025073.0
+2022,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",21794.0,188701.0,159849.0,4190754.0
+2022,88,Serviços de assistência social sem alojamento,13931.0,266784.0,252167.0,8099127.0
+2022,90,"Atividades artísticas, criativas e de espetáculos",31975.0,62637.0,16760.0,704456.0
+2022,91,Atividades ligadas ao patrimônio cultural e ambiental,2165.0,13644.0,10817.0,576564.0
+2022,92,Atividades de exploração de jogos de azar e apostas,519.0,1154.0,547.0,19418.0
+2022,93,Atividades esportivas e de recreação e lazer,115050.0,409072.0,256425.0,8341554.0
+2022,94,Atividades de organizações associativas,476305.0,903102.0,445065.0,15302774.0
+2022,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,58109.0,173468.0,97309.0,2944333.0
+2022,96,Outras atividades de serviços pessoais,98936.0,344433.0,211561.0,5182913.0
+2022,99,Organismos internacionais e outras instituições extraterritoriais,548.0,2868.0,2751.0,247210.0
+2023,01,"Agricultura, pecuária e serviços relacionados",538123.0,1029208.0,430614.0,15804512.0
+2023,02,Produção florestal,22443.0,121403.0,92407.0,2833599.0
+2023,03,Pesca e aquicultura,13319.0,25754.0,10388.0,282960.0
+2023,05,Extração de carvão mineral,89.0,3674.0,3533.0,268314.0
+2023,06,Extração de petróleo e gás natural,469.0,10309.0,9743.0,2826510.0
+2023,07,Extração de minerais metálicos,2274.0,112519.0,108319.0,9350896.0
+2023,08,Extração de minerais não-metálicos,15171.0,107761.0,82981.0,3547517.0
+2023,09,Atividades de apoio à extração de minerais,1292.0,41109.0,39308.0,5942416.0
+2023,10,Fabricação de produtos alimentícios,90809.0,2136367.0,2008132.0,83325598.0
+2023,11,Fabricação de bebidas,8624.0,204776.0,189766.0,10300019.0
+2023,12,Fabricação de produtos do fumo,407.0,17754.0,17271.0,1466368.0
+2023,13,Fabricação de produtos têxteis,15890.0,272666.0,250784.0,9272941.0
+2023,14,Confecção de artigos do vestuário e acessórios,77190.0,629896.0,531580.0,14449740.0
+2023,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",15456.0,343118.0,323564.0,9271593.0
+2023,16,Fabricação de produtos de madeira,22881.0,209882.0,177892.0,6328223.0
+2023,17,"Fabricação de celulose, papel e produtos de papel",6702.0,225983.0,216693.0,13379027.0
+2023,18,Impressão e reprodução de gravações,28453.0,131126.0,92342.0,3727606.0
+2023,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",836.0,167624.0,166323.0,21520206.0
+2023,20,Fabricação de produtos químicos,15122.0,379927.0,357349.0,30146683.0
+2023,21,Fabricação de produtos farmoquímicos e farmacêuticos,838.0,123789.0,122451.0,12629695.0
+2023,22,Fabricação de produtos de borracha e de material plástico,21523.0,437984.0,406885.0,19252308.0
+2023,23,Fabricação de produtos de minerais não-metálicos,43311.0,485172.0,424265.0,17936448.0
+2023,24,Metalurgia,4316.0,249812.0,243530.0,18164583.0
+2023,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",69926.0,570465.0,474981.0,20664129.0
+2023,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",4971.0,126326.0,118602.0,8352953.0
+2023,27,"Fabricação de máquinas, aparelhos e materiais elétricos",7328.0,248800.0,237843.0,15066713.0
+2023,28,Fabricação de máquinas e equipamentos,21382.0,445718.0,413312.0,28712287.0
+2023,29,"Fabricação de veículos automotores, reboques e carrocerias",9864.0,474130.0,460246.0,33596516.0
+2023,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",2396.0,95085.0,91857.0,7172297.0
+2023,31,Fabricação de móveis,36697.0,303886.0,254474.0,8506207.0
+2023,32,Fabricação de produtos diversos,26192.0,210403.0,174428.0,6959660.0
+2023,33,"Manutenção, reparação e instalação de máquinas e equipamentos",72481.0,397674.0,302244.0,12852799.0
+2023,35,"Eletricidade, gás e outras utilidades",12640.0,163994.0,133125.0,15010717.0
+2023,36,"Captação, tratamento e distribuição de água",3292.0,154374.0,150484.0,13124708.0
+2023,37,Esgoto e atividades relacionadas,2453.0,21340.0,18216.0,693033.0
+2023,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",17967.0,314347.0,288857.0,10380861.0
+2023,39,Descontaminação e outros serviços de gestão de resíduos,201.0,2106.0,1841.0,64651.0
+2023,41,Construção de edifícios,274322.0,1252250.0,781488.0,25972770.0
+2023,42,Obras de infraestrutura,40832.0,797238.0,743653.0,32424748.0
+2023,43,Serviços especializados para construção,218513.0,1056336.0,779211.0,25422718.0
+2023,45,Comércio e reparação de veículos automotores e motocicletas,379015.0,1545101.0,1042871.0,37516625.0
+2023,46,"Comércio por atacado, exceto veículos automotores e motocicletas",499019.0,2495599.0,1804613.0,91887670.0
+2023,47,Comércio varejista,1961746.0,9450454.0,6910257.0,201456040.0
+2023,49,Transporte terrestre,285087.0,2221015.0,1840606.0,75494937.0
+2023,50,Transporte aquaviário,3472.0,51916.0,47151.0,5413911.0
+2023,51,Transporte aéreo,925.0,63206.0,62024.0,6781854.0
+2023,52,Armazenamento e atividades auxiliares dos transportes,52213.0,574825.0,499357.0,23659562.0
+2023,53,Correio e outras atividades de entrega,13277.0,189351.0,172215.0,10342267.0
+2023,55,Alojamento,48734.0,422881.0,349106.0,9864602.0
+2023,56,Alimentação,403673.0,2219082.0,1696229.0,40049427.0
+2023,58,Edição e edição integrada à impressão,22006.0,82689.0,50777.0,3288059.0
+2023,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",39322.0,83300.0,27582.0,1357743.0
+2023,60,Atividades de rádio e de televisão,9293.0,93554.0,77939.0,7235733.0
+2023,61,Telecomunicações,29778.0,315416.0,274671.0,14745322.0
+2023,62,Atividades dos serviços de tecnologia da informação,192688.0,882873.0,607197.0,59158956.0
+2023,63,Atividades de prestação de serviços de informação,49267.0,211728.0,138724.0,13882478.0
+2023,64,Atividades de serviços financeiros,204842.0,1047970.0,683461.0,86844577.0
+2023,65,"Seguros, resseguros, previdência complementar e planos de saúde",5045.0,357176.0,345926.0,20455696.0
+2023,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",90043.0,349898.0,197774.0,19499009.0
+2023,68,Atividades imobiliárias,262659.0,722350.0,197595.0,7999083.0
+2023,69,"Atividades jurídicas, de contabilidade e de auditoria",263687.0,817478.0,447785.0,17616229.0
+2023,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,123018.0,348784.0,150984.0,12834301.0
+2023,71,Serviços de arquitetura e engenharia; testes e análises técnicas,185857.0,650660.0,383579.0,19028774.0
+2023,72,Pesquisa e desenvolvimento científico,5381.0,57913.0,48124.0,7541121.0
+2023,73,Publicidade e pesquisa de mercado,148051.0,366188.0,175084.0,7005604.0
+2023,74,"Outras atividades profissionais, científicas e técnicas",117694.0,323107.0,153935.0,8421716.0
+2023,75,Atividades veterinárias,28204.0,73719.0,35181.0,917773.0
+2023,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,91841.0,476328.0,341183.0,13708532.0
+2023,78,"Seleção, agenciamento e locação de mão-de-obra",12430.0,1060857.0,1044816.0,26526720.0
+2023,79,"Agências de viagens, operadores turísticos e serviços de reservas",33382.0,110503.0,61083.0,2687164.0
+2023,79.11-2,Agências de viagens,28313.0,94081.0,52089.0,2225160.0
+2023,79.12-1,Operadores turísticos,2396.0,7441.0,3929.0,197629.0
+2023,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,2673.0,8981.0,5065.0,264375.0
+2023,80,"Atividades de vigilância, segurança e investigação",22574.0,735898.0,707395.0,23767367.0
+2023,81,Serviços para edifícios e atividades paisagísticas,371039.0,1937977.0,1838710.0,46879926.0
+2023,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",463860.0,2208958.0,1572334.0,45016644.0
+2023,84,"Administração pública, defesa e seguridade social",48241.0,8505878.0,8504191.0,593288115.0
+2023,85,Educação,359129.0,4222400.0,3759393.0,218848247.0
+2023,86,Atividades de atenção à saúde humana,574991.0,4081850.0,3124038.0,146489259.0
+2023,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",23211.0,201172.0,170724.0,4862969.0
+2023,88,Serviços de assistência social sem alojamento,15182.0,278173.0,262691.0,9438100.0
+2023,90,"Atividades artísticas, criativas e de espetáculos",35632.0,69413.0,18496.0,813181.0
+2023,91,Atividades ligadas ao patrimônio cultural e ambiental,2009.0,14683.0,11975.0,633043.0
+2023,92,Atividades de exploração de jogos de azar e apostas,568.0,1345.0,632.0,23646.0
+2023,93,Atividades esportivas e de recreação e lazer,124909.0,444020.0,278191.0,9954176.0
+2023,94,Atividades de organizações associativas,490402.0,954497.0,486346.0,17255443.0
+2023,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,59740.0,172151.0,93857.0,3042103.0
+2023,96,Outras atividades de serviços pessoais,108918.0,361504.0,216087.0,5757478.0
+2023,99,Organismos internacionais e outras instituições extraterritoriais,556.0,4203.0,4178.0,463599.0
+2024,01,"Agricultura, pecuária e serviços relacionados",555748.0,1062915.0,443027.0,17347302.0
+2024,02,Produção florestal,23062.0,127881.0,98313.0,3441818.0
+2024,03,Pesca e aquicultura,13512.0,26148.0,10642.0,300602.0
+2024,05,Extração de carvão mineral,79.0,3497.0,3380.0,279834.0
+2024,06,Extração de petróleo e gás natural,507.0,10801.0,10210.0,3185373.0
+2024,07,Extração de minerais metálicos,2398.0,112611.0,108296.0,9966902.0
+2024,08,Extração de minerais não-metálicos,15491.0,111591.0,86715.0,3976672.0
+2024,09,Atividades de apoio à extração de minerais,1490.0,45867.0,43885.0,7379215.0
+2024,10,Fabricação de produtos alimentícios,92087.0,2194724.0,2065982.0,91677142.0
+2024,11,Fabricação de bebidas,8686.0,209479.0,194895.0,11350941.0
+2024,12,Fabricação de produtos do fumo,436.0,18011.0,17491.0,1614771.0
+2024,13,Fabricação de produtos têxteis,16120.0,277256.0,255397.0,9903000.0
+2024,14,Confecção de artigos do vestuário e acessórios,76970.0,623908.0,526731.0,15295384.0
+2024,15,"Preparação de couros e fabricação de artefatos de couro, artigos para viagem e calçados",15086.0,338845.0,319913.0,9568210.0
+2024,16,Fabricação de produtos de madeira,22691.0,211546.0,180215.0,6784290.0
+2024,17,"Fabricação de celulose, papel e produtos de papel",6793.0,226928.0,217698.0,14281122.0
+2024,18,Impressão e reprodução de gravações,29397.0,134943.0,95792.0,4051144.0
+2024,19,"Fabricação de coque, de produtos derivados do petróleo e de biocombustíveis",862.0,168237.0,166886.0,23962970.0
+2024,20,Fabricação de produtos químicos,15199.0,389074.0,366600.0,32238644.0
+2024,21,Fabricação de produtos farmoquímicos e farmacêuticos,833.0,126979.0,125680.0,13428633.0
+2024,22,Fabricação de produtos de borracha e de material plástico,21661.0,463588.0,432645.0,21390939.0
+2024,23,Fabricação de produtos de minerais não-metálicos,43939.0,486159.0,425100.0,18874609.0
+2024,24,Metalurgia,4204.0,261179.0,255110.0,19640530.0
+2024,25,"Fabricação de produtos de metal, exceto máquinas e equipamentos",73298.0,587559.0,489315.0,22491918.0
+2024,26,"Fabricação de equipamentos de informática, produtos eletrônicos e ópticos",5032.0,130973.0,123337.0,8946284.0
+2024,27,"Fabricação de máquinas, aparelhos e materiais elétricos",7361.0,268624.0,257791.0,16856102.0
+2024,28,Fabricação de máquinas e equipamentos,21518.0,453572.0,421451.0,30338409.0
+2024,29,"Fabricação de veículos automotores, reboques e carrocerias",10299.0,503392.0,489056.0,35920620.0
+2024,30,"Fabricação de outros equipamentos de transporte, exceto veículos automotores",2417.0,99499.0,96292.0,7935489.0
+2024,31,Fabricação de móveis,37585.0,313904.0,263942.0,9363718.0
+2024,32,Fabricação de produtos diversos,27364.0,221336.0,184603.0,7636806.0
+2024,33,"Manutenção, reparação e instalação de máquinas e equipamentos",79546.0,420196.0,317953.0,14774028.0
+2024,35,"Eletricidade, gás e outras utilidades",12922.0,165547.0,134722.0,14921373.0
+2024,36,"Captação, tratamento e distribuição de água",3398.0,154722.0,150628.0,13400281.0
+2024,37,Esgoto e atividades relacionadas,2550.0,24112.0,20888.0,836750.0
+2024,38,"Coleta, tratamento e disposição de resíduos; recuperação de materiais",18430.0,322346.0,295281.0,11406558.0
+2024,39,Descontaminação e outros serviços de gestão de resíduos,198.0,1990.0,1724.0,78163.0
+2024,41,Construção de edifícios,287717.0,1264197.0,778931.0,28198570.0
+2024,42,Obras de infraestrutura,42513.0,822182.0,767007.0,36708001.0
+2024,43,Serviços especializados para construção,238129.0,1087644.0,790978.0,27008131.0
+2024,45,Comércio e reparação de veículos automotores e motocicletas,398024.0,1597269.0,1080088.0,42033674.0
+2024,46,"Comércio por atacado, exceto veículos automotores e motocicletas",517049.0,2558824.0,1864912.0,101154833.0
+2024,47,Comércio varejista,1993299.0,9482195.0,6941982.0,218010616.0
+2024,49,Transporte terrestre,291580.0,2253748.0,1871891.0,83856603.0
+2024,50,Transporte aquaviário,3642.0,54939.0,50012.0,6169678.0
+2024,51,Transporte aéreo,984.0,66088.0,64844.0,7930502.0
+2024,52,Armazenamento e atividades auxiliares dos transportes,55386.0,609841.0,531752.0,26707687.0
+2024,53,Correio e outras atividades de entrega,14048.0,191449.0,173666.0,10519588.0
+2024,55,Alojamento,50247.0,436499.0,361704.0,10916549.0
+2024,56,Alimentação,408530.0,2254438.0,1729887.0,45067315.0
+2024,58,Edição e edição integrada à impressão,23480.0,82197.0,49350.0,3330202.0
+2024,59,"Atividades cinematográficas, produção de vídeos e de programas de televisão; gravação de som e edição de música",43704.0,87744.0,28060.0,1415386.0
+2024,60,Atividades de rádio e de televisão,9291.0,92035.0,76966.0,7211392.0
+2024,61,Telecomunicações,30602.0,316181.0,275190.0,15476126.0
+2024,62,Atividades dos serviços de tecnologia da informação,215574.0,922088.0,623026.0,64135803.0
+2024,63,Atividades de prestação de serviços de informação,54343.0,219415.0,142199.0,15300661.0
+2024,64,Atividades de serviços financeiros,233821.0,1108695.0,692688.0,92683311.0
+2024,65,"Seguros, resseguros, previdência complementar e planos de saúde",4930.0,382083.0,370821.0,22820418.0
+2024,66,"Atividades auxiliares dos serviços financeiros, seguros, previdência complementar e planos de saúde",96522.0,359687.0,203821.0,21110994.0
+2024,68,Atividades imobiliárias,290070.0,759141.0,202102.0,8573575.0
+2024,69,"Atividades jurídicas, de contabilidade e de auditoria",274921.0,845905.0,455369.0,18910102.0
+2024,70,Atividades de sedes de empresas e de consultoria em gestão empresarial,132824.0,366866.0,161414.0,13799198.0
+2024,71,Serviços de arquitetura e engenharia; testes e análises técnicas,207487.0,684602.0,399628.0,21231793.0
+2024,72,Pesquisa e desenvolvimento científico,5956.0,59716.0,49245.0,7988270.0
+2024,73,Publicidade e pesquisa de mercado,171436.0,397705.0,182980.0,7636561.0
+2024,74,"Outras atividades profissionais, científicas e técnicas",131333.0,350340.0,167995.0,9598795.0
+2024,75,Atividades veterinárias,33584.0,80151.0,36186.0,990685.0
+2024,77,Aluguéis não-imobiliários e gestão de ativos intangíveis não-financeiros,103591.0,514820.0,365782.0,15906453.0
+2024,78,"Seleção, agenciamento e locação de mão-de-obra",12641.0,1071792.0,1055560.0,30178248.0
+2024,79,"Agências de viagens, operadores turísticos e serviços de reservas",36602.0,116766.0,64377.0,3047026.0
+2024,79.11-2,Agências de viagens,30905.0,98712.0,54451.0,2473820.0
+2024,79.12-1,Operadores turísticos,2750.0,7976.0,4089.0,231763.0
+2024,79.90-2,Serviços de reservas e outros serviços de turismo não especificados anteriormente,2947.0,10078.0,5837.0,341444.0
+2024,80,"Atividades de vigilância, segurança e investigação",23583.0,756975.0,727619.0,25302945.0
+2024,81,Serviços para edifícios e atividades paisagísticas,379677.0,1997946.0,1874849.0,51139528.0
+2024,82,"Serviços de escritório, de apoio administrativo e outros serviços prestados às empresas",511840.0,2365315.0,1683568.0,51299892.0
+2024,84,"Administração pública, defesa e seguridade social",49884.0,8794579.0,8792805.0,639083050.0
+2024,85,Educação,345149.0,4395200.0,3926332.0,236726606.0
+2024,86,Atividades de atenção à saúde humana,668002.0,4301388.0,3258848.0,161092578.0
+2024,87,"Atividades de atenção à saúde humana integradas com assistência social, prestadas em residências coletivas e particulares",24555.0,208182.0,176122.0,5434319.0
+2024,88,Serviços de assistência social sem alojamento,15510.0,293652.0,277875.0,10490144.0
+2024,90,"Atividades artísticas, criativas e de espetáculos",38985.0,74210.0,20471.0,902970.0
+2024,91,Atividades ligadas ao patrimônio cultural e ambiental,2090.0,15133.0,12336.0,693337.0
+2024,92,Atividades de exploração de jogos de azar e apostas,877.0,2573.0,1214.0,48751.0
+2024,93,Atividades esportivas e de recreação e lazer,133918.0,480280.0,304559.0,11497490.0
+2024,94,Atividades de organizações associativas,548664.0,1013442.0,537285.0,19660595.0
+2024,95,Reparação e manutenção de equipamentos de informática e comunicação e de objetos pessoais e domésticos,61824.0,168591.0,89543.0,3141195.0
+2024,96,Outras atividades de serviços pessoais,119004.0,370762.0,215655.0,6144838.0
+2024,99,Organismos internacionais e outras instituições extraterritoriais,519.0,4191.0,4184.0,530981.0

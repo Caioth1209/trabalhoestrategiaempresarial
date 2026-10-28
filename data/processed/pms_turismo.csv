@@ -1,0 +1,753 @@
+data,serie,ajuste,indice
+2011-01-01,receita nominal,sem ajuste,55.55473
+2011-01-01,volume,sem ajuste,110.23394
+2011-02-01,receita nominal,sem ajuste,47.14702
+2011-02-01,volume,sem ajuste,96.24682
+2011-03-01,receita nominal,sem ajuste,50.9173
+2011-03-01,volume,sem ajuste,97.49917
+2011-04-01,receita nominal,sem ajuste,51.05663
+2011-04-01,volume,sem ajuste,99.93434
+2011-05-01,receita nominal,sem ajuste,50.52044
+2011-05-01,volume,sem ajuste,101.51753
+2011-06-01,receita nominal,sem ajuste,51.17955
+2011-06-01,volume,sem ajuste,99.26483
+2011-07-01,receita nominal,sem ajuste,57.30755
+2011-07-01,volume,sem ajuste,109.19687
+2011-08-01,receita nominal,sem ajuste,54.02142
+2011-08-01,volume,sem ajuste,103.99024
+2011-09-01,receita nominal,sem ajuste,54.06897
+2011-09-01,volume,sem ajuste,98.40434
+2011-10-01,receita nominal,sem ajuste,56.49025
+2011-10-01,volume,sem ajuste,99.49196
+2011-11-01,receita nominal,sem ajuste,57.65154
+2011-11-01,volume,sem ajuste,100.01453
+2011-12-01,receita nominal,sem ajuste,65.72801
+2011-12-01,volume,sem ajuste,113.61405
+2012-01-01,receita nominal,sem ajuste,63.22642
+2012-01-01,volume,sem ajuste,105.09051
+2012-02-01,receita nominal,sem ajuste,54.61301
+2012-02-01,volume,sem ajuste,92.28318
+2012-03-01,receita nominal,sem ajuste,57.26415
+2012-03-01,volume,sem ajuste,96.8954
+2012-04-01,receita nominal,sem ajuste,55.91614
+2012-04-01,volume,sem ajuste,93.77104
+2012-05-01,receita nominal,sem ajuste,55.37207
+2012-05-01,volume,sem ajuste,95.58955
+2012-06-01,receita nominal,sem ajuste,56.60613
+2012-06-01,volume,sem ajuste,96.59028
+2012-07-01,receita nominal,sem ajuste,62.00498
+2012-07-01,volume,sem ajuste,104.1986
+2012-08-01,receita nominal,sem ajuste,59.09457
+2012-08-01,volume,sem ajuste,100.69383
+2012-09-01,receita nominal,sem ajuste,58.26927
+2012-09-01,volume,sem ajuste,98.13691
+2012-10-01,receita nominal,sem ajuste,61.57335
+2012-10-01,volume,sem ajuste,103.01381
+2012-11-01,receita nominal,sem ajuste,64.23344
+2012-11-01,volume,sem ajuste,103.76331
+2012-12-01,receita nominal,sem ajuste,73.64776
+2012-12-01,volume,sem ajuste,114.36742
+2013-01-01,receita nominal,sem ajuste,69.67426
+2013-01-01,volume,sem ajuste,105.348
+2013-02-01,receita nominal,sem ajuste,58.68671
+2013-02-01,volume,sem ajuste,90.6175
+2013-03-01,receita nominal,sem ajuste,63.60977
+2013-03-01,volume,sem ajuste,101.6551
+2013-04-01,receita nominal,sem ajuste,61.23105
+2013-04-01,volume,sem ajuste,100.02826
+2013-05-01,receita nominal,sem ajuste,61.70217
+2013-05-01,volume,sem ajuste,101.53737
+2013-06-01,receita nominal,sem ajuste,61.84282
+2013-06-01,volume,sem ajuste,99.30778
+2013-07-01,receita nominal,sem ajuste,70.67209
+2013-07-01,volume,sem ajuste,113.06756
+2013-08-01,receita nominal,sem ajuste,67.13092
+2013-08-01,volume,sem ajuste,107.1675
+2013-09-01,receita nominal,sem ajuste,65.85836
+2013-09-01,volume,sem ajuste,101.33656
+2013-10-01,receita nominal,sem ajuste,69.94463
+2013-10-01,volume,sem ajuste,107.37413
+2013-11-01,receita nominal,sem ajuste,70.99545
+2013-11-01,volume,sem ajuste,106.80876
+2013-12-01,receita nominal,sem ajuste,80.49613
+2013-12-01,volume,sem ajuste,116.12017
+2014-01-01,receita nominal,sem ajuste,76.96245
+2014-01-01,volume,sem ajuste,113.39984
+2014-02-01,receita nominal,sem ajuste,66.87189
+2014-02-01,volume,sem ajuste,104.19351
+2014-03-01,receita nominal,sem ajuste,70.28885
+2014-03-01,volume,sem ajuste,102.60642
+2014-04-01,receita nominal,sem ajuste,69.94818
+2014-04-01,volume,sem ajuste,102.06109
+2014-05-01,receita nominal,sem ajuste,68.97889
+2014-05-01,volume,sem ajuste,106.83264
+2014-06-01,receita nominal,sem ajuste,67.48645
+2014-06-01,volume,sem ajuste,95.81999
+2014-07-01,receita nominal,sem ajuste,72.16294
+2014-07-01,volume,sem ajuste,112.34809
+2014-08-01,receita nominal,sem ajuste,72.43964
+2014-08-01,volume,sem ajuste,110.07276
+2014-09-01,receita nominal,sem ajuste,72.59078
+2014-09-01,volume,sem ajuste,105.07391
+2014-10-01,receita nominal,sem ajuste,73.43219
+2014-10-01,volume,sem ajuste,106.18232
+2014-11-01,receita nominal,sem ajuste,73.38389
+2014-11-01,volume,sem ajuste,106.36954
+2014-12-01,receita nominal,sem ajuste,84.91565
+2014-12-01,volume,sem ajuste,113.60269
+2015-01-01,receita nominal,sem ajuste,83.06154
+2015-01-01,volume,sem ajuste,110.3029
+2015-02-01,receita nominal,sem ajuste,69.05357
+2015-02-01,volume,sem ajuste,96.8524
+2015-03-01,receita nominal,sem ajuste,70.79957
+2015-03-01,volume,sem ajuste,103.40154
+2015-04-01,receita nominal,sem ajuste,70.17451
+2015-04-01,volume,sem ajuste,99.83573
+2015-05-01,receita nominal,sem ajuste,68.43512
+2015-05-01,volume,sem ajuste,104.87939
+2015-06-01,receita nominal,sem ajuste,67.44499
+2015-06-01,volume,sem ajuste,95.63849
+2015-07-01,receita nominal,sem ajuste,74.86848
+2015-07-01,volume,sem ajuste,105.90371
+2015-08-01,receita nominal,sem ajuste,71.97283
+2015-08-01,volume,sem ajuste,110.17233
+2015-09-01,receita nominal,sem ajuste,70.56203
+2015-09-01,volume,sem ajuste,101.49579
+2015-10-01,receita nominal,sem ajuste,75.13201
+2015-10-01,volume,sem ajuste,106.43575
+2015-11-01,receita nominal,sem ajuste,72.61322
+2015-11-01,volume,sem ajuste,104.34821
+2015-12-01,receita nominal,sem ajuste,85.0387
+2015-12-01,volume,sem ajuste,111.82713
+2016-01-01,receita nominal,sem ajuste,84.39657
+2016-01-01,volume,sem ajuste,110.83104
+2016-02-01,receita nominal,sem ajuste,71.50979
+2016-02-01,volume,sem ajuste,98.12487
+2016-03-01,receita nominal,sem ajuste,71.61866
+2016-03-01,volume,sem ajuste,101.07118
+2016-04-01,receita nominal,sem ajuste,68.34218
+2016-04-01,volume,sem ajuste,96.21991
+2016-05-01,receita nominal,sem ajuste,66.05906
+2016-05-01,volume,sem ajuste,95.56729
+2016-06-01,receita nominal,sem ajuste,65.07908
+2016-06-01,volume,sem ajuste,95.479
+2016-07-01,receita nominal,sem ajuste,76.04739
+2016-07-01,volume,sem ajuste,105.63579
+2016-08-01,receita nominal,sem ajuste,73.82646
+2016-08-01,volume,sem ajuste,101.50324
+2016-09-01,receita nominal,sem ajuste,69.87924
+2016-09-01,volume,sem ajuste,98.89192
+2016-10-01,receita nominal,sem ajuste,72.93445
+2016-10-01,volume,sem ajuste,101.45432
+2016-11-01,receita nominal,sem ajuste,72.73534
+2016-11-01,volume,sem ajuste,101.66588
+2016-12-01,receita nominal,sem ajuste,85.80367
+2016-12-01,volume,sem ajuste,112.64585
+2017-01-01,receita nominal,sem ajuste,82.42793
+2017-01-01,volume,sem ajuste,102.01372
+2017-02-01,receita nominal,sem ajuste,70.741
+2017-02-01,volume,sem ajuste,89.23574
+2017-03-01,receita nominal,sem ajuste,74.77056
+2017-03-01,volume,sem ajuste,96.02524
+2017-04-01,receita nominal,sem ajuste,72.72342
+2017-04-01,volume,sem ajuste,90.26351
+2017-05-01,receita nominal,sem ajuste,71.27321
+2017-05-01,volume,sem ajuste,91.03563
+2017-06-01,receita nominal,sem ajuste,72.2057
+2017-06-01,volume,sem ajuste,90.50703
+2017-07-01,receita nominal,sem ajuste,80.29366
+2017-07-01,volume,sem ajuste,100.35135
+2017-08-01,receita nominal,sem ajuste,72.53428
+2017-08-01,volume,sem ajuste,93.38913
+2017-09-01,receita nominal,sem ajuste,74.54209
+2017-09-01,volume,sem ajuste,92.126
+2017-10-01,receita nominal,sem ajuste,76.78696
+2017-10-01,volume,sem ajuste,93.95177
+2017-11-01,receita nominal,sem ajuste,76.22463
+2017-11-01,volume,sem ajuste,95.27973
+2017-12-01,receita nominal,sem ajuste,89.13609
+2017-12-01,volume,sem ajuste,105.70522
+2018-01-01,receita nominal,sem ajuste,85.0945
+2018-01-01,volume,sem ajuste,102.05034
+2018-02-01,receita nominal,sem ajuste,70.39393
+2018-02-01,volume,sem ajuste,84.59682
+2018-03-01,receita nominal,sem ajuste,77.09855
+2018-03-01,volume,sem ajuste,95.23369
+2018-04-01,receita nominal,sem ajuste,74.64158
+2018-04-01,volume,sem ajuste,92.47074
+2018-05-01,receita nominal,sem ajuste,71.86424
+2018-05-01,volume,sem ajuste,92.60089
+2018-06-01,receita nominal,sem ajuste,71.41107
+2018-06-01,volume,sem ajuste,92.13499
+2018-07-01,receita nominal,sem ajuste,84.48146
+2018-07-01,volume,sem ajuste,100.21947
+2018-08-01,receita nominal,sem ajuste,79.60442
+2018-08-01,volume,sem ajuste,100.64212
+2018-09-01,receita nominal,sem ajuste,79.67221
+2018-09-01,volume,sem ajuste,97.26017
+2018-10-01,receita nominal,sem ajuste,81.86273
+2018-10-01,volume,sem ajuste,99.05533
+2018-11-01,receita nominal,sem ajuste,82.55379
+2018-11-01,volume,sem ajuste,98.66289
+2018-12-01,receita nominal,sem ajuste,96.53085
+2018-12-01,volume,sem ajuste,107.27009
+2019-01-01,receita nominal,sem ajuste,93.81084
+2019-01-01,volume,sem ajuste,105.96453
+2019-02-01,receita nominal,sem ajuste,75.56169
+2019-02-01,volume,sem ajuste,88.86328
+2019-03-01,receita nominal,sem ajuste,83.84898
+2019-03-01,volume,sem ajuste,97.17186
+2019-04-01,receita nominal,sem ajuste,80.55231
+2019-04-01,volume,sem ajuste,92.50398
+2019-05-01,receita nominal,sem ajuste,80.46003
+2019-05-01,volume,sem ajuste,97.27453
+2019-06-01,receita nominal,sem ajuste,80.28607
+2019-06-01,volume,sem ajuste,93.95768
+2019-07-01,receita nominal,sem ajuste,92.62496
+2019-07-01,volume,sem ajuste,104.75314
+2019-08-01,receita nominal,sem ajuste,83.46652
+2019-08-01,volume,sem ajuste,97.72822
+2019-09-01,receita nominal,sem ajuste,83.95273
+2019-09-01,volume,sem ajuste,98.27606
+2019-10-01,receita nominal,sem ajuste,88.5691
+2019-10-01,volume,sem ajuste,103.28324
+2019-11-01,receita nominal,sem ajuste,88.828
+2019-11-01,volume,sem ajuste,101.99657
+2019-12-01,receita nominal,sem ajuste,101.98204
+2019-12-01,volume,sem ajuste,111.78275
+2020-01-01,receita nominal,sem ajuste,98.07212
+2020-01-01,volume,sem ajuste,109.57627
+2020-02-01,receita nominal,sem ajuste,83.30063
+2020-02-01,volume,sem ajuste,94.50777
+2020-03-01,receita nominal,sem ajuste,59.21532
+2020-03-01,volume,sem ajuste,69.65598
+2020-04-01,receita nominal,sem ajuste,25.9737
+2020-04-01,volume,sem ajuste,30.31898
+2020-05-01,receita nominal,sem ajuste,27.81725
+2020-05-01,volume,sem ajuste,33.56954
+2020-06-01,receita nominal,sem ajuste,30.85908
+2020-06-01,volume,sem ajuste,38.86297
+2020-07-01,receita nominal,sem ajuste,36.04909
+2020-07-01,volume,sem ajuste,45.91072
+2020-08-01,receita nominal,sem ajuste,42.38055
+2020-08-01,volume,sem ajuste,54.0881
+2020-09-01,receita nominal,sem ajuste,47.5602
+2020-09-01,volume,sem ajuste,60.44412
+2020-10-01,receita nominal,sem ajuste,57.81776
+2020-10-01,volume,sem ajuste,68.71745
+2020-11-01,receita nominal,sem ajuste,60.74487
+2020-11-01,volume,sem ajuste,71.93037
+2020-12-01,receita nominal,sem ajuste,70.34844
+2020-12-01,volume,sem ajuste,78.47887
+2021-01-01,receita nominal,sem ajuste,65.86583
+2021-01-01,volume,sem ajuste,77.45676
+2021-02-01,receita nominal,sem ajuste,55.38357
+2021-02-01,volume,sem ajuste,65.0179
+2021-03-01,receita nominal,sem ajuste,46.95663
+2021-03-01,volume,sem ajuste,56.26201
+2021-04-01,receita nominal,sem ajuste,45.0798
+2021-04-01,volume,sem ajuste,52.31505
+2021-05-01,receita nominal,sem ajuste,54.88028
+2021-05-01,volume,sem ajuste,67.99261
+2021-06-01,receita nominal,sem ajuste,58.80062
+2021-06-01,volume,sem ajuste,74.83341
+2021-07-01,receita nominal,sem ajuste,70.79709
+2021-07-01,volume,sem ajuste,83.97415
+2021-08-01,receita nominal,sem ajuste,69.53541
+2021-08-01,volume,sem ajuste,83.2021
+2021-09-01,receita nominal,sem ajuste,73.5531
+2021-09-01,volume,sem ajuste,82.77918
+2021-10-01,receita nominal,sem ajuste,81.93379
+2021-10-01,volume,sem ajuste,86.33364
+2021-11-01,receita nominal,sem ajuste,85.32365
+2021-11-01,volume,sem ajuste,90.72113
+2021-12-01,receita nominal,sem ajuste,101.36529
+2021-12-01,volume,sem ajuste,103.25449
+2022-01-01,receita nominal,sem ajuste,92.91229
+2022-01-01,volume,sem ajuste,100.09075
+2022-02-01,receita nominal,sem ajuste,76.19969
+2022-02-01,volume,sem ajuste,83.67879
+2022-03-01,receita nominal,sem ajuste,89.52864
+2022-03-01,volume,sem ajuste,98.93772
+2022-04-01,receita nominal,sem ajuste,90.49872
+2022-04-01,volume,sem ajuste,97.37878
+2022-05-01,receita nominal,sem ajuste,94.82102
+2022-05-01,volume,sem ajuste,97.62735
+2022-06-01,receita nominal,sem ajuste,94.04335
+2022-06-01,volume,sem ajuste,94.12981
+2022-07-01,receita nominal,sem ajuste,109.95187
+2022-07-01,volume,sem ajuste,106.18594
+2022-08-01,receita nominal,sem ajuste,103.56388
+2022-08-01,volume,sem ajuste,102.09664
+2022-09-01,receita nominal,sem ajuste,104.7501
+2022-09-01,volume,sem ajuste,101.53643
+2022-10-01,receita nominal,sem ajuste,109.14625
+2022-10-01,volume,sem ajuste,100.56875
+2022-11-01,receita nominal,sem ajuste,108.29745
+2022-11-01,volume,sem ajuste,101.49561
+2022-12-01,receita nominal,sem ajuste,126.28673
+2022-12-01,volume,sem ajuste,116.27343
+2023-01-01,receita nominal,sem ajuste,123.47455
+2023-01-01,volume,sem ajuste,113.0347
+2023-02-01,receita nominal,sem ajuste,101.85733
+2023-02-01,volume,sem ajuste,95.74795
+2023-03-01,receita nominal,sem ajuste,111.19643
+2023-03-01,volume,sem ajuste,105.37878
+2023-04-01,receita nominal,sem ajuste,107.92302
+2023-04-01,volume,sem ajuste,99.10713
+2023-05-01,receita nominal,sem ajuste,109.30764
+2023-05-01,volume,sem ajuste,106.09605
+2023-06-01,receita nominal,sem ajuste,109.80069
+2023-06-01,volume,sem ajuste,103.34568
+2023-07-01,receita nominal,sem ajuste,125.38771
+2023-07-01,volume,sem ajuste,115.26651
+2023-08-01,receita nominal,sem ajuste,112.94573
+2023-08-01,volume,sem ajuste,107.81622
+2023-09-01,receita nominal,sem ajuste,117.70719
+2023-09-01,volume,sem ajuste,108.98293
+2023-10-01,receita nominal,sem ajuste,122.27886
+2023-10-01,volume,sem ajuste,108.1204
+2023-11-01,receita nominal,sem ajuste,124.70679
+2023-11-01,volume,sem ajuste,105.11874
+2023-12-01,receita nominal,sem ajuste,144.9577
+2023-12-01,volume,sem ajuste,118.95083
+2024-01-01,receita nominal,sem ajuste,137.26338
+2024-01-01,volume,sem ajuste,114.02378
+2024-02-01,receita nominal,sem ajuste,113.5086
+2024-02-01,volume,sem ajuste,96.28814
+2024-03-01,receita nominal,sem ajuste,123.01642
+2024-03-01,volume,sem ajuste,106.61354
+2024-04-01,receita nominal,sem ajuste,114.77217
+2024-04-01,volume,sem ajuste,102.90556
+2024-05-01,receita nominal,sem ajuste,117.57313
+2024-05-01,volume,sem ajuste,104.38645
+2024-06-01,receita nominal,sem ajuste,119.16984
+2024-06-01,volume,sem ajuste,107.52238
+2024-07-01,receita nominal,sem ajuste,136.64677
+2024-07-01,volume,sem ajuste,116.9242
+2024-08-01,receita nominal,sem ajuste,126.40938
+2024-08-01,volume,sem ajuste,110.70009
+2024-09-01,receita nominal,sem ajuste,128.27314
+2024-09-01,volume,sem ajuste,110.46545
+2024-10-01,receita nominal,sem ajuste,133.39045
+2024-10-01,volume,sem ajuste,117.44676
+2024-11-01,receita nominal,sem ajuste,138.7633
+2024-11-01,volume,sem ajuste,114.94866
+2024-12-01,receita nominal,sem ajuste,161.15897
+2024-12-01,volume,sem ajuste,130.94768
+2025-01-01,receita nominal,sem ajuste,150.64894
+2025-01-01,volume,sem ajuste,118.01949
+2025-02-01,receita nominal,sem ajuste,123.83755
+2025-02-01,volume,sem ajuste,103.29312
+2025-03-01,receita nominal,sem ajuste,138.39679
+2025-03-01,volume,sem ajuste,113.04
+2025-04-01,receita nominal,sem ajuste,133.01211
+2025-04-01,volume,sem ajuste,112.41805
+2025-05-01,receita nominal,sem ajuste,132.45808
+2025-05-01,volume,sem ajuste,114.72923
+2025-06-01,receita nominal,sem ajuste,130.35984
+2025-06-01,volume,sem ajuste,112.21925
+2025-07-01,receita nominal,sem ajuste,148.1378
+2025-07-01,volume,sem ajuste,120.80642
+2025-08-01,receita nominal,sem ajuste,141.23584
+2025-08-01,volume,sem ajuste,115.84838
+2025-09-01,receita nominal,sem ajuste,140.67035
+2025-09-01,volume,sem ajuste,115.83109
+2025-10-01,receita nominal,sem ajuste,147.74465
+2025-10-01,volume,sem ajuste,120.07461
+2025-11-01,receita nominal,sem ajuste,151.15308
+2025-11-01,volume,sem ajuste,118.37237
+2025-12-01,receita nominal,sem ajuste,171.7209
+2025-12-01,volume,sem ajuste,130.06679
+2026-01-01,receita nominal,sem ajuste,164.77614
+2026-01-01,volume,sem ajuste,124.76823
+2026-02-01,receita nominal,sem ajuste,139.04613
+2026-02-01,volume,sem ajuste,103.99948
+2026-03-01,receita nominal,sem ajuste,148.3299
+2026-03-01,volume,sem ajuste,108.80964
+2026-04-01,receita nominal,sem ajuste,145.52699
+2026-04-01,volume,sem ajuste,110.78016
+2026-05-01,receita nominal,sem ajuste,148.53723
+2026-05-01,volume,sem ajuste,113.04502
+2026-06-01,receita nominal,sem ajuste,141.91193
+2026-06-01,volume,sem ajuste,106.04111
+2026-07-01,receita nominal,sem ajuste,162.86434
+2026-07-01,volume,sem ajuste,118.71868
+2026-08-01,receita nominal,sem ajuste,155.15844
+2026-08-01,volume,sem ajuste,116.92573
+2011-01-01,receita nominal,com ajuste,50.10889
+2011-01-01,volume,com ajuste,104.95015
+2011-02-01,receita nominal,com ajuste,51.21545
+2011-02-01,volume,com ajuste,103.70801
+2011-03-01,receita nominal,com ajuste,52.16435
+2011-03-01,volume,com ajuste,100.29596
+2011-04-01,receita nominal,com ajuste,53.67733
+2011-04-01,volume,com ajuste,104.47762
+2011-05-01,receita nominal,com ajuste,54.19713
+2011-05-01,volume,com ajuste,104.0919
+2011-06-01,receita nominal,com ajuste,54.86159
+2011-06-01,volume,com ajuste,104.49217
+2011-07-01,receita nominal,com ajuste,55.05181
+2011-07-01,volume,com ajuste,103.24981
+2011-08-01,receita nominal,com ajuste,55.45618
+2011-08-01,volume,com ajuste,102.41985
+2011-09-01,receita nominal,com ajuste,56.43639
+2011-09-01,volume,com ajuste,101.38612
+2011-10-01,receita nominal,com ajuste,56.43503
+2011-10-01,volume,com ajuste,99.03123
+2011-11-01,receita nominal,com ajuste,56.46667
+2011-11-01,volume,com ajuste,99.32857
+2011-12-01,receita nominal,com ajuste,55.53044
+2011-12-01,volume,com ajuste,102.11407
+2012-01-01,receita nominal,com ajuste,57.49482
+2012-01-01,volume,com ajuste,99.82404
+2012-02-01,receita nominal,com ajuste,58.75227
+2012-02-01,volume,com ajuste,99.63597
+2012-03-01,receita nominal,com ajuste,58.4391
+2012-03-01,volume,com ajuste,99.61942
+2012-04-01,receita nominal,com ajuste,58.73318
+2012-04-01,volume,com ajuste,98.36321
+2012-05-01,receita nominal,com ajuste,59.12291
+2012-05-01,volume,com ajuste,97.96609
+2012-06-01,receita nominal,com ajuste,60.67121
+2012-06-01,volume,com ajuste,102.15518
+2012-07-01,receita nominal,com ajuste,59.61442
+2012-07-01,volume,com ajuste,98.21612
+2012-08-01,receita nominal,com ajuste,60.42669
+2012-08-01,volume,com ajuste,99.03158
+2012-09-01,receita nominal,com ajuste,60.86948
+2012-09-01,volume,com ajuste,101.07425
+2012-10-01,receita nominal,com ajuste,61.49381
+2012-10-01,volume,com ajuste,102.3785
+2012-11-01,receita nominal,com ajuste,63.09681
+2012-11-01,volume,com ajuste,103.0638
+2012-12-01,receita nominal,com ajuste,63.14578
+2012-12-01,volume,com ajuste,103.40203
+2013-01-01,receita nominal,com ajuste,63.25987
+2013-01-01,volume,com ajuste,99.89894
+2013-02-01,receita nominal,com ajuste,62.99519
+2013-02-01,volume,com ajuste,97.68445
+2013-03-01,receita nominal,com ajuste,64.8207
+2013-03-01,volume,com ajuste,104.23444
+2013-04-01,receita nominal,com ajuste,64.20146
+2013-04-01,volume,com ajuste,104.78245
+2013-05-01,receita nominal,com ajuste,65.61536
+2013-05-01,volume,com ajuste,103.84821
+2013-06-01,receita nominal,com ajuste,66.47436
+2013-06-01,volume,com ajuste,105.23127
+2013-07-01,receita nominal,com ajuste,68.1537
+2013-07-01,volume,com ajuste,107.23417
+2013-08-01,receita nominal,com ajuste,68.36379
+2013-08-01,volume,com ajuste,105.47081
+2013-09-01,receita nominal,com ajuste,68.66124
+2013-09-01,volume,com ajuste,104.04662
+2013-10-01,receita nominal,com ajuste,69.62562
+2013-10-01,volume,com ajuste,106.45684
+2013-11-01,receita nominal,com ajuste,70.23464
+2013-11-01,volume,com ajuste,105.93573
+2013-12-01,receita nominal,com ajuste,69.65716
+2013-12-01,volume,com ajuste,105.76957
+2014-01-01,receita nominal,com ajuste,69.6103
+2014-01-01,volume,com ajuste,107.87424
+2014-02-01,receita nominal,com ajuste,71.19941
+2014-02-01,volume,com ajuste,111.123
+2014-03-01,receita nominal,com ajuste,71.68808
+2014-03-01,volume,com ajuste,104.8123
+2014-04-01,receita nominal,com ajuste,72.9629
+2014-04-01,volume,com ajuste,106.96216
+2014-05-01,receita nominal,com ajuste,73.20715
+2014-05-01,volume,com ajuste,109.3001
+2014-06-01,receita nominal,com ajuste,72.77049
+2014-06-01,volume,com ajuste,101.93771
+2014-07-01,receita nominal,com ajuste,69.53343
+2014-07-01,volume,com ajuste,106.53513
+2014-08-01,receita nominal,com ajuste,73.57622
+2014-08-01,volume,com ajuste,108.54928
+2014-09-01,receita nominal,com ajuste,75.41734
+2014-09-01,volume,com ajuste,107.6028
+2014-10-01,receita nominal,com ajuste,72.92713
+2014-10-01,volume,com ajuste,105.04175
+2014-11-01,receita nominal,com ajuste,73.15963
+2014-11-01,volume,com ajuste,105.37119
+2014-12-01,receita nominal,com ajuste,73.65556
+2014-12-01,volume,com ajuste,103.7232
+2015-01-01,receita nominal,com ajuste,74.76981
+2015-01-01,volume,com ajuste,104.41441
+2015-02-01,receita nominal,com ajuste,73.4331
+2015-02-01,volume,com ajuste,103.82897
+2015-03-01,receita nominal,com ajuste,72.29276
+2015-03-01,volume,com ajuste,105.26598
+2015-04-01,receita nominal,com ajuste,73.29342
+2015-04-01,volume,com ajuste,104.84071
+2015-05-01,receita nominal,com ajuste,73.08946
+2015-05-01,volume,com ajuste,107.65664
+2015-06-01,receita nominal,com ajuste,73.24566
+2015-06-01,volume,com ajuste,101.69421
+2015-07-01,receita nominal,com ajuste,72.03954
+2015-07-01,volume,com ajuste,100.40474
+2015-08-01,receita nominal,com ajuste,73.16757
+2015-08-01,volume,com ajuste,108.851
+2015-09-01,receita nominal,com ajuste,73.24186
+2015-09-01,volume,com ajuste,103.603
+2015-10-01,receita nominal,com ajuste,74.41914
+2015-10-01,volume,com ajuste,105.22474
+2015-11-01,receita nominal,com ajuste,72.82966
+2015-11-01,volume,com ajuste,103.20292
+2015-12-01,receita nominal,com ajuste,73.30261
+2015-12-01,volume,com ajuste,102.21378
+2016-01-01,receita nominal,com ajuste,75.6067
+2016-01-01,volume,com ajuste,104.56773
+2016-02-01,receita nominal,com ajuste,76.12094
+2016-02-01,volume,com ajuste,105.55332
+2016-03-01,receita nominal,com ajuste,72.8848
+2016-03-01,volume,com ajuste,102.50682
+2016-04-01,receita nominal,com ajuste,71.61298
+2016-04-01,volume,com ajuste,101.28709
+2016-05-01,receita nominal,com ajuste,71.25041
+2016-05-01,volume,com ajuste,98.54427
+2016-06-01,receita nominal,com ajuste,71.43351
+2016-06-01,volume,com ajuste,101.30733
+2016-07-01,receita nominal,com ajuste,72.71897
+2016-07-01,volume,com ajuste,100.32734
+2016-08-01,receita nominal,com ajuste,75.10606
+2016-08-01,volume,com ajuste,100.64541
+2016-09-01,receita nominal,com ajuste,72.26367
+2016-09-01,volume,com ajuste,100.68766
+2016-10-01,receita nominal,com ajuste,72.3495
+2016-10-01,volume,com ajuste,100.1747
+2016-11-01,receita nominal,com ajuste,72.95232
+2016-11-01,volume,com ajuste,100.55192
+2016-12-01,receita nominal,com ajuste,73.43899
+2016-12-01,volume,com ajuste,103.02836
+2017-01-01,receita nominal,com ajuste,73.42488
+2017-01-01,volume,com ajuste,95.31747
+2017-02-01,receita nominal,com ajuste,76.05139
+2017-02-01,volume,com ajuste,97.1634
+2017-03-01,receita nominal,com ajuste,75.70274
+2017-03-01,volume,com ajuste,97.04691
+2017-04-01,receita nominal,com ajuste,76.28496
+2017-04-01,volume,com ajuste,95.48001
+2017-05-01,receita nominal,com ajuste,76.88574
+2017-05-01,volume,com ajuste,94.14203
+2017-06-01,receita nominal,com ajuste,78.90814
+2017-06-01,volume,com ajuste,95.98882
+2017-07-01,receita nominal,com ajuste,76.3673
+2017-07-01,volume,com ajuste,95.34982
+2017-08-01,receita nominal,com ajuste,74.13506
+2017-08-01,volume,com ajuste,93.08795
+2017-09-01,receita nominal,com ajuste,76.69662
+2017-09-01,volume,com ajuste,93.57491
+2017-10-01,receita nominal,com ajuste,76.13368
+2017-10-01,volume,com ajuste,92.47418
+2017-11-01,receita nominal,com ajuste,76.05713
+2017-11-01,volume,com ajuste,94.10579
+2017-12-01,receita nominal,com ajuste,76.12834
+2017-12-01,volume,com ajuste,95.94183
+2018-01-01,receita nominal,com ajuste,75.95042
+2018-01-01,volume,com ajuste,95.35067
+2018-02-01,receita nominal,com ajuste,76.68332
+2018-02-01,volume,com ajuste,93.13507
+2018-03-01,receita nominal,com ajuste,77.67242
+2018-03-01,volume,com ajuste,95.77527
+2018-04-01,receita nominal,com ajuste,78.73084
+2018-04-01,volume,com ajuste,97.92027
+2018-05-01,receita nominal,com ajuste,77.93177
+2018-05-01,volume,com ajuste,95.56541
+2018-06-01,receita nominal,com ajuste,78.42163
+2018-06-01,volume,com ajuste,97.29144
+2018-07-01,receita nominal,com ajuste,79.95577
+2018-07-01,volume,com ajuste,95.22621
+2018-08-01,receita nominal,com ajuste,81.58486
+2018-08-01,volume,com ajuste,100.83798
+2018-09-01,receita nominal,com ajuste,81.64454
+2018-09-01,volume,com ajuste,98.6487
+2018-10-01,receita nominal,com ajuste,80.96485
+2018-10-01,volume,com ajuste,97.50526
+2018-11-01,receita nominal,com ajuste,81.76489
+2018-11-01,volume,com ajuste,97.50239
+2018-12-01,receita nominal,com ajuste,82.80861
+2018-12-01,volume,com ajuste,97.2501
+2019-01-01,receita nominal,com ajuste,84.36552
+2019-01-01,volume,com ajuste,99.27476
+2019-02-01,receita nominal,com ajuste,82.7927
+2019-02-01,volume,com ajuste,98.05369
+2019-03-01,receita nominal,com ajuste,84.43332
+2019-03-01,volume,com ajuste,97.29221
+2019-04-01,receita nominal,com ajuste,85.55129
+2019-04-01,volume,com ajuste,98.18221
+2019-05-01,receita nominal,com ajuste,86.71887
+2019-05-01,volume,com ajuste,99.86342
+2019-06-01,receita nominal,com ajuste,87.231
+2019-06-01,volume,com ajuste,98.9895
+2019-07-01,receita nominal,com ajuste,87.8826
+2019-07-01,volume,com ajuste,99.83417
+2019-08-01,receita nominal,com ajuste,85.98912
+2019-08-01,volume,com ajuste,98.00873
+2019-09-01,receita nominal,com ajuste,85.93885
+2019-09-01,volume,com ajuste,99.50938
+2019-10-01,receita nominal,com ajuste,87.01552
+2019-10-01,volume,com ajuste,101.87271
+2019-11-01,receita nominal,com ajuste,87.29502
+2019-11-01,volume,com ajuste,101.03343
+2019-12-01,receita nominal,com ajuste,87.44098
+2019-12-01,volume,com ajuste,101.51433
+2020-01-01,receita nominal,com ajuste,88.34685
+2020-01-01,volume,com ajuste,102.91171
+2020-02-01,receita nominal,com ajuste,91.45256
+2020-02-01,volume,com ajuste,104.22902
+2020-03-01,receita nominal,com ajuste,60.1301
+2020-03-01,volume,com ajuste,69.48343
+2020-04-01,receita nominal,com ajuste,31.84238
+2020-04-01,volume,com ajuste,36.36366
+2020-05-01,receita nominal,com ajuste,34.05044
+2020-05-01,volume,com ajuste,35.58636
+2020-06-01,receita nominal,com ajuste,37.85393
+2020-06-01,volume,com ajuste,43.94447
+2020-07-01,receita nominal,com ajuste,31.27172
+2020-07-01,volume,com ajuste,40.77601
+2020-08-01,receita nominal,com ajuste,45.13673
+2020-08-01,volume,com ajuste,54.35569
+2020-09-01,receita nominal,com ajuste,49.51913
+2020-09-01,volume,com ajuste,61.52251
+2020-10-01,receita nominal,com ajuste,55.80778
+2020-10-01,volume,com ajuste,67.5382
+2020-11-01,receita nominal,com ajuste,58.84062
+2020-11-01,volume,com ajuste,71.4197
+2020-12-01,receita nominal,com ajuste,54.83304
+2020-12-01,volume,com ajuste,67.88108
+2021-01-01,receita nominal,com ajuste,55.53384
+2021-01-01,volume,com ajuste,70.72913
+2021-02-01,receita nominal,com ajuste,64.50693
+2021-02-01,volume,com ajuste,75.07852
+2021-03-01,receita nominal,com ajuste,48.54705
+2021-03-01,volume,com ajuste,55.95331
+2021-04-01,receita nominal,com ajuste,51.48704
+2021-04-01,volume,com ajuste,58.62584
+2021-05-01,receita nominal,com ajuste,60.85966
+2021-05-01,volume,com ajuste,69.78973
+2021-06-01,receita nominal,com ajuste,65.85625
+2021-06-01,volume,com ajuste,79.9111
+2021-07-01,receita nominal,com ajuste,65.88869
+2021-07-01,volume,com ajuste,78.6149
+2021-08-01,receita nominal,com ajuste,72.60452
+2021-08-01,volume,com ajuste,83.43836
+2021-09-01,receita nominal,com ajuste,75.66946
+2021-09-01,volume,com ajuste,83.71587
+2021-10-01,receita nominal,com ajuste,79.84792
+2021-10-01,volume,com ajuste,85.17595
+2021-11-01,receita nominal,com ajuste,83.30469
+2021-11-01,volume,com ajuste,90.61376
+2021-12-01,receita nominal,com ajuste,84.48756
+2021-12-01,volume,com ajuste,92.24129
+2022-01-01,receita nominal,com ajuste,81.77531
+2022-01-01,volume,com ajuste,93.32379
+2022-02-01,receita nominal,com ajuste,86.40051
+2022-02-01,volume,com ajuste,94.03252
+2022-03-01,receita nominal,com ajuste,91.63507
+2022-03-01,volume,com ajuste,98.87381
+2022-04-01,receita nominal,com ajuste,97.02966
+2022-04-01,volume,com ajuste,103.73441
+2022-05-01,receita nominal,com ajuste,100.91187
+2022-05-01,volume,com ajuste,99.44139
+2022-06-01,receita nominal,com ajuste,101.56036
+2022-06-01,volume,com ajuste,99.0606
+2022-07-01,receita nominal,com ajuste,104.41094
+2022-07-01,volume,com ajuste,100.62822
+2022-08-01,receita nominal,com ajuste,106.94436
+2022-08-01,volume,com ajuste,102.36492
+2022-09-01,receita nominal,com ajuste,107.13107
+2022-09-01,volume,com ajuste,102.42589
+2022-10-01,receita nominal,com ajuste,107.53012
+2022-10-01,volume,com ajuste,99.40317
+2022-11-01,receita nominal,com ajuste,106.31177
+2022-11-01,volume,com ajuste,101.60782
+2022-12-01,receita nominal,com ajuste,107.92815
+2022-12-01,volume,com ajuste,104.66633
+2023-01-01,receita nominal,com ajuste,111.2918
+2023-01-01,volume,com ajuste,106.07561
+2023-02-01,receita nominal,com ajuste,112.69955
+2023-02-01,volume,com ajuste,106.60386
+2023-03-01,receita nominal,com ajuste,113.33357
+2023-03-01,volume,com ajuste,105.78426
+2023-04-01,receita nominal,com ajuste,114.62097
+2023-04-01,volume,com ajuste,105.12506
+2023-05-01,receita nominal,com ajuste,116.0332
+2023-05-01,volume,com ajuste,108.13846
+2023-06-01,receita nominal,com ajuste,117.94505
+2023-06-01,volume,com ajuste,108.19368
+2023-07-01,receita nominal,com ajuste,119.21126
+2023-07-01,volume,com ajuste,109.86619
+2023-08-01,receita nominal,com ajuste,116.76073
+2023-08-01,volume,com ajuste,108.02386
+2023-09-01,receita nominal,com ajuste,120.67649
+2023-09-01,volume,com ajuste,109.86027
+2023-10-01,receita nominal,com ajuste,121.19582
+2023-10-01,volume,com ajuste,106.70011
+2023-11-01,receita nominal,com ajuste,122.32132
+2023-11-01,volume,com ajuste,105.27859
+2023-12-01,receita nominal,com ajuste,124.90125
+2023-12-01,volume,com ajuste,106.81976
+2024-01-01,receita nominal,com ajuste,124.20896
+2024-01-01,volume,com ajuste,106.79245
+2024-02-01,receita nominal,com ajuste,124.73674
+2024-02-01,volume,com ajuste,107.48186
+2024-03-01,receita nominal,com ajuste,125.03825
+2024-03-01,volume,com ajuste,107.80213
+2024-04-01,receita nominal,com ajuste,121.7229
+2024-04-01,volume,com ajuste,108.55842
+2024-05-01,receita nominal,com ajuste,124.94332
+2024-05-01,volume,com ajuste,106.5759
+2024-06-01,receita nominal,com ajuste,128.29606
+2024-06-01,volume,com ajuste,112.36689
+2024-07-01,receita nominal,com ajuste,130.20993
+2024-07-01,volume,com ajuste,111.77832
+2024-08-01,receita nominal,com ajuste,130.20544
+2024-08-01,volume,com ajuste,110.93974
+2024-09-01,receita nominal,com ajuste,131.91535
+2024-09-01,volume,com ajuste,111.32082
+2024-10-01,receita nominal,com ajuste,132.6639
+2024-10-01,volume,com ajuste,115.64944
+2024-11-01,receita nominal,com ajuste,135.77019
+2024-11-01,volume,com ajuste,115.0073
+2024-12-01,receita nominal,com ajuste,139.81078
+2024-12-01,volume,com ajuste,118.42736
+2025-01-01,receita nominal,com ajuste,136.84153
+2025-01-01,volume,com ajuste,110.60151
+2025-02-01,receita nominal,com ajuste,135.2266
+2025-02-01,volume,com ajuste,114.72127
+2025-03-01,receita nominal,com ajuste,140.41854
+2025-03-01,volume,com ajuste,114.88117
+2025-04-01,receita nominal,com ajuste,140.24651
+2025-04-01,volume,com ajuste,117.68734
+2025-05-01,receita nominal,com ajuste,139.92431
+2025-05-01,volume,com ajuste,117.08611
+2025-06-01,receita nominal,com ajuste,140.64802
+2025-06-01,volume,com ajuste,117.11722
+2025-07-01,receita nominal,com ajuste,141.96393
+2025-07-01,volume,com ajuste,116.02706
+2025-08-01,receita nominal,com ajuste,144.65621
+2025-08-01,volume,com ajuste,116.13075
+2025-09-01,receita nominal,com ajuste,144.8721
+2025-09-01,volume,com ajuste,116.77313
+2025-10-01,receita nominal,com ajuste,147.02112
+2025-10-01,volume,com ajuste,117.7641
+2025-11-01,receita nominal,com ajuste,147.71883
+2025-11-01,volume,com ajuste,118.15975
+2025-12-01,receita nominal,com ajuste,149.40709
+2025-12-01,volume,com ajuste,117.34327
+2026-01-01,receita nominal,com ajuste,150.44058
+2026-01-01,volume,com ajuste,117.34876
+2026-02-01,receita nominal,com ajuste,150.6588
+2026-02-01,volume,com ajuste,115.52309
+2026-03-01,receita nominal,com ajuste,150.71912
+2026-03-01,volume,com ajuste,111.14082
+2026-04-01,receita nominal,com ajuste,152.93511
+2026-04-01,volume,com ajuste,115.73989
+2026-05-01,receita nominal,com ajuste,155.60079
+2026-05-01,volume,com ajuste,115.46726
+2026-06-01,receita nominal,com ajuste,153.13755
+2026-06-01,volume,com ajuste,111.01721
+2026-07-01,receita nominal,com ajuste,156.93937
+2026-07-01,volume,com ajuste,114.26867
+2026-08-01,receita nominal,com ajuste,158.16474
+2026-08-01,volume,com ajuste,117.17556

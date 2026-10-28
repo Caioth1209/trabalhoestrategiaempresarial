@@ -1,0 +1,573 @@
+atividade,receita_liquida,valor_adicionado,salarios,pessoal_ocupado,empresas,ano,chave
+Total,989559301.0,580600912.0,201112687.0,11407552.0,1109208.0,2011,total
+Serviços prestados principalmente às famílias,102386048.0,55844480.0,24881597.0,2424190.0,360278.0,2011,servicos prestados principalmente as familias
+Serviços de alojamento,15783575.0,9187218.0,3766088.0,328305.0,26328.0,2011,servicos de alojamento
+Serviços de alimentação,68335401.0,34327699.0,15297758.0,1530370.0,225053.0,2011,servicos de alimentacao
+"Atividades culturais, recreativas e esportivas",5693147.0,3442397.0,1350606.0,138371.0,27997.0,2011,"atividades culturais, recreativas e esportivas"
+Serviços pessoais,6657609.0,4479179.0,2261715.0,230019.0,45930.0,2011,servicos pessoais
+Atividades de ensino continuado,5916316.0,4407987.0,2205430.0,197125.0,34970.0,2011,atividades de ensino continuado
+Serviços de informação e comunicação,259166042.0,128361115.0,34506450.0,889967.0,87566.0,2011,servicos de informacao e comunicacao
+Telecomunicações,143435374.0,60893991.0,7505469.0,191254.0,4351.0,2011,telecomunicacoes
+Tecnologia da informação,63965471.0,42025278.0,18037054.0,436607.0,54891.0,2011,tecnologia da informacao
+Serviços audiovisuais,29961080.0,14916434.0,4906044.0,122303.0,11784.0,2011,servicos audiovisuais
+Edição e edição integrada à impressão,20614565.0,9616044.0,3790537.0,125890.0,13029.0,2011,edicao e edicao integrada a impressao
+Agências de notícias e outros serviços de informação,1189552.0,909368.0,267346.0,13913.0,3511.0,2011,agencias de noticias e outros servicos de informacao
+"Serviços profissionais, administrativos e complementares",257473354.0,192212463.0,74030889.0,4734309.0,346479.0,2011,"servicos profissionais, administrativos e complementares"
+Serviços técnico-profissionais,104338502.0,77366983.0,25245705.0,1017451.0,167634.0,2011,servicos tecnico-profissionais
+Aluguéis não imobiliários e gestão de ativos intangíveis não financeiros,30310739.0,20583435.0,4636396.0,253285.0,31294.0,2011,alugueis nao imobiliarios e gestao de ativos intangiveis nao financeiros
+"Seleção, agenciamento e locação de mão de obra",18105168.0,16204564.0,8878696.0,715113.0,5420.0,2011,"selecao, agenciamento e locacao de mao de obra"
+"Agências de viagens, operadores turísticos e outros serviços de turismo",5549866.0,3518829.0,1679878.0,91495.0,14336.0,2011,"agencias de viagens, operadores turisticos e outros servicos de turismo"
+"Serviços de investigação, vigilância, segurança e transporte de valores",23360096.0,19348150.0,10307683.0,677185.0,6161.0,2011,"servicos de investigacao, vigilancia, seguranca e transporte de valores"
+Serviços para edifícios e atividades paisagísticas,21916250.0,18585352.0,9659385.0,975664.0,14960.0,2011,servicos para edificios e atividades paisagisticas
+Serviços de escritório e apoio administrativo,23060126.0,17020935.0,7829780.0,619434.0,45395.0,2011,servicos de escritorio e apoio administrativo
+Outros serviços prestados principalmente às empresas,30832607.0,19584215.0,5793366.0,384682.0,61279.0,2011,outros servicos prestados principalmente as empresas
+"Transportes, serviços auxiliares aos transportes e correio",279543135.0,141334778.0,50174285.0,2337812.0,149685.0,2011,"transportes, servicos auxiliares aos transportes e correio"
+Transporte e serviços auxiliares aos transportes,262925474.0,129399734.0,45274382.0,2137063.0,141239.0,2011,transporte e servicos auxiliares aos transportes
+Transporte ferroviário e metroferroviário,11141591.0,6833810.0,2364748.0,49635.0,49.0,2011,transporte ferroviario e metroferroviario
+Transporte rodoviário,145328057.0,66895973.0,25536250.0,1533927.0,116896.0,2011,transporte rodoviario
+Transporte rodoviário de passageiros,47303192.0,27823610.0,12022813.0,727167.0,29281.0,2011,transporte rodoviario de passageiros
+Transporte rodoviário de cargas,98024865.0,39072363.0,13513437.0,806760.0,87615.0,2011,transporte rodoviario de cargas
+Transporte dutoviário,10909756.0,7747708.0,1002472.0,7430.0,12.0,2011,transporte dutoviario
+Transporte aquaviário,10445645.0,4067585.0,1801457.0,34824.0,786.0,2011,transporte aquaviario
+Transporte aéreo,26528779.0,9429502.0,3977563.0,70164.0,282.0,2011,transporte aereo
+Armazenamento e atividades auxiliares aos transportes,58571646.0,34425156.0,10591892.0,441083.0,23214.0,2011,armazenamento e atividades auxiliares aos transportes
+Correio e outras atividades de entrega,16617661.0,11935044.0,4899903.0,200749.0,8446.0,2011,correio e outras atividades de entrega
+Atividades imobiliárias,24736583.0,19425899.0,2773377.0,166098.0,31999.0,2011,atividades imobiliarias
+"Compra, venda e aluguel de imóveis próprios",17236107.0,13967652.0,1165260.0,69211.0,19102.0,2011,"compra, venda e aluguel de imoveis proprios"
+"Intermediação na compra, venda e aluguel de imóveis",7500476.0,5458247.0,1608117.0,96887.0,12897.0,2011,"intermediacao na compra, venda e aluguel de imoveis"
+Serviços de manutenção e reparação,15968519.0,9774085.0,4703166.0,391492.0,97572.0,2011,servicos de manutencao e reparacao
+Manutenção e reparação de veículos automotores,8506750.0,5033097.0,2699639.0,238245.0,58867.0,2011,manutencao e reparacao de veiculos automotores
+Manutenção e reparação de equipamentos de informática e comunicação,4863464.0,3015148.0,1198075.0,76319.0,17842.0,2011,manutencao e reparacao de equipamentos de informatica e comunicacao
+Manutenção e reparação de objetos pessoais e domésticos,2598305.0,1725840.0,805452.0,76928.0,20863.0,2011,manutencao e reparacao de objetos pessoais e domesticos
+Outras atividades de serviços,50285620.0,33648092.0,10042923.0,463684.0,35629.0,2011,outras atividades de servicos
+"Serviços auxiliares da agricultura, pecuária e produção florestal",4469707.0,2845016.0,1081794.0,75372.0,6126.0,2011,"servicos auxiliares da agricultura, pecuaria e producao florestal"
+"Serviços auxiliares financeiros, dos seguros e da previdência complementar",30027507.0,21201481.0,5296116.0,149719.0,23827.0,2011,"servicos auxiliares financeiros, dos seguros e da previdencia complementar"
+"Esgoto, coleta, tratamento e disposição de resíduos e recuperação de materiais",15788406.0,9601595.0,3665013.0,238593.0,5676.0,2011,"esgoto, coleta, tratamento e disposicao de residuos e recuperacao de materiais"
+Total,1118417424.0,667999323.0,225658328.0,11950911.0,1176522.0,2012,total
+Serviços prestados principalmente às famílias,117883686.0,66026060.0,29044602.0,2590188.0,377187.0,2012,servicos prestados principalmente as familias
+Serviços de alojamento,17241572.0,10186465.0,4410972.0,331335.0,26312.0,2012,servicos de alojamento
+Serviços de alimentação,78463349.0,41141278.0,17879971.0,1640560.0,232179.0,2012,servicos de alimentacao
+"Atividades culturais, recreativas e esportivas",7030398.0,4039114.0,1631340.0,153509.0,30897.0,2012,"atividades culturais, recreativas e esportivas"
+Serviços pessoais,7862203.0,5356544.0,2504870.0,236187.0,47579.0,2012,servicos pessoais
+Atividades de ensino continuado,7286164.0,5302659.0,2617449.0,228597.0,40220.0,2012,atividades de ensino continuado
+Serviços de informação e comunicação,283909835.0,142761807.0,37019688.0,935815.0,91076.0,2012,servicos de informacao e comunicacao
+Telecomunicações,155803040.0,68992053.0,8280767.0,194403.0,5406.0,2012,telecomunicacoes
+Tecnologia da informação,73006575.0,46356637.0,19204738.0,473513.0,55249.0,2012,tecnologia da informacao
+Serviços audiovisuais,33097878.0,16756398.0,5235135.0,131099.0,13362.0,2012,servicos audiovisuais
+Edição e edição integrada à impressão,20639817.0,9644709.0,3980735.0,123489.0,13540.0,2012,edicao e edicao integrada a impressao
+Agências de notícias e outros serviços de informação,1362525.0,1012010.0,318313.0,13311.0,3519.0,2012,agencias de noticias e outros servicos de informacao
+"Serviços profissionais, administrativos e complementares",297055700.0,222280425.0,82036484.0,4896898.0,365170.0,2012,"servicos profissionais, administrativos e complementares"
+Serviços técnico-profissionais,121386276.0,88630755.0,27281527.0,1057099.0,177396.0,2012,servicos tecnico-profissionais
+Aluguéis não imobiliários e gestão de ativos intangíveis não financeiros,35908028.0,24545082.0,5207777.0,268633.0,34175.0,2012,alugueis nao imobiliarios e gestao de ativos intangiveis nao financeiros
+"Seleção, agenciamento e locação de mão de obra",19081498.0,16948639.0,9415935.0,701405.0,5243.0,2012,"selecao, agenciamento e locacao de mao de obra"
+"Agências de viagens, operadores turísticos e outros serviços de turismo",6537841.0,3974997.0,1875898.0,96129.0,14491.0,2012,"agencias de viagens, operadores turisticos e outros servicos de turismo"
+"Serviços de investigação, vigilância, segurança e transporte de valores",25847874.0,21618409.0,11875717.0,705715.0,6779.0,2012,"servicos de investigacao, vigilancia, seguranca e transporte de valores"
+Serviços para edifícios e atividades paisagísticas,24971202.0,21333514.0,11390113.0,1018575.0,17333.0,2012,servicos para edificios e atividades paisagisticas
+Serviços de escritório e apoio administrativo,25887720.0,19835672.0,8785744.0,661480.0,53133.0,2012,servicos de escritorio e apoio administrativo
+Outros serviços prestados principalmente às empresas,37435261.0,25393357.0,6203773.0,387862.0,56620.0,2012,outros servicos prestados principalmente as empresas
+"Transportes, serviços auxiliares aos transportes e correio",315910168.0,163715223.0,57786951.0,2461690.0,163341.0,2012,"transportes, servicos auxiliares aos transportes e correio"
+Transporte e serviços auxiliares aos transportes,298725335.0,151822238.0,51998065.0,2265418.0,154529.0,2012,transporte e servicos auxiliares aos transportes
+Transporte ferroviário e metroferroviário,12536353.0,7733421.0,2594155.0,51953.0,51.0,2012,transporte ferroviario e metroferroviario
+Transporte rodoviário,165045134.0,80944473.0,29692849.0,1641011.0,129285.0,2012,transporte rodoviario
+Transporte rodoviário de passageiros,52501106.0,31240047.0,13596660.0,751840.0,31705.0,2012,transporte rodoviario de passageiros
+Transporte rodoviário de cargas,112544028.0,49704426.0,16096189.0,889171.0,97580.0,2012,transporte rodoviario de cargas
+Transporte dutoviário,12269142.0,9607111.0,1344260.0,8158.0,13.0,2012,transporte dutoviario
+Transporte aquaviário,11728825.0,5062471.0,2194508.0,37995.0,830.0,2012,transporte aquaviario
+Transporte aéreo,29666741.0,8503851.0,4064273.0,68289.0,290.0,2012,transporte aereo
+Armazenamento e atividades auxiliares aos transportes,67479140.0,39970911.0,12108020.0,458012.0,24060.0,2012,armazenamento e atividades auxiliares aos transportes
+Correio e outras atividades de entrega,17184833.0,11892985.0,5788886.0,196272.0,8812.0,2012,correio e outras atividades de entrega
+Atividades imobiliárias,29213813.0,23529711.0,3128635.0,178336.0,38339.0,2012,atividades imobiliarias
+"Compra, venda e aluguel de imóveis próprios",20937990.0,17667785.0,1305292.0,74908.0,20901.0,2012,"compra, venda e aluguel de imoveis proprios"
+"Intermediação na compra, venda e aluguel de imóveis",8275823.0,5861926.0,1823343.0,103428.0,17438.0,2012,"intermediacao na compra, venda e aluguel de imoveis"
+Serviços de manutenção e reparação,18368326.0,11471372.0,5432849.0,413164.0,104511.0,2012,servicos de manutencao e reparacao
+Manutenção e reparação de veículos automotores,9737891.0,6027475.0,3150074.0,250357.0,62952.0,2012,manutencao e reparacao de veiculos automotores
+Manutenção e reparação de equipamentos de informática e comunicação,5632020.0,3488452.0,1389365.0,80522.0,18695.0,2012,manutencao e reparacao de equipamentos de informatica e comunicacao
+Manutenção e reparação de objetos pessoais e domésticos,2998415.0,1955445.0,893410.0,82285.0,22864.0,2012,manutencao e reparacao de objetos pessoais e domesticos
+Outras atividades de serviços,56075896.0,38214725.0,11209119.0,474820.0,36898.0,2012,outras atividades de servicos
+"Serviços auxiliares da agricultura, pecuária e produção florestal",4684377.0,2885318.0,1144649.0,78264.0,6210.0,2012,"servicos auxiliares da agricultura, pecuaria e producao florestal"
+"Serviços auxiliares financeiros, dos seguros e da previdência complementar",33800568.0,24409320.0,5659811.0,148538.0,24537.0,2012,"servicos auxiliares financeiros, dos seguros e da previdencia complementar"
+"Esgoto, coleta, tratamento e disposição de resíduos e recuperação de materiais",17590951.0,10920087.0,4404659.0,248018.0,6151.0,2012,"esgoto, coleta, tratamento e disposicao de residuos e recuperacao de materiais"
+Total,1246352550.0,745156367.0,253943531.0,12485477.0,1236187.0,2013,total
+Serviços prestados principalmente às famílias,135215798.0,77519535.0,32804110.0,2715753.0,391564.0,2013,servicos prestados principalmente as familias
+Serviços de alojamento,20670747.0,12647988.0,5280879.0,355912.0,27558.0,2013,servicos de alojamento
+Serviços de alimentação,88122595.0,46734121.0,19726774.0,1691361.0,239807.0,2013,servicos de alimentacao
+"Atividades culturais, recreativas e esportivas",8623592.0,5344219.0,1898864.0,165185.0,32726.0,2013,"atividades culturais, recreativas e esportivas"
+Serviços pessoais,9099148.0,6258708.0,2858716.0,251873.0,48655.0,2013,servicos pessoais
+Atividades de ensino continuado,8699716.0,6534499.0,3038877.0,251422.0,42818.0,2013,atividades de ensino continuado
+Serviços de informação e comunicação,304056246.0,149254042.0,40884383.0,968941.0,97098.0,2013,servicos de informacao e comunicacao
+Telecomunicações,162311648.0,68440851.0,8901643.0,202072.0,5810.0,2013,telecomunicacoes
+Tecnologia da informação,82259243.0,52420046.0,21952236.0,500574.0,59550.0,2013,tecnologia da informacao
+Serviços audiovisuais,37572029.0,18339346.0,5682638.0,133631.0,15138.0,2013,servicos audiovisuais
+Edição e edição integrada à impressão,20343305.0,8990363.0,3995974.0,116251.0,12782.0,2013,edicao e edicao integrada a impressao
+Agências de notícias e outros serviços de informação,1570021.0,1063436.0,351892.0,16413.0,3818.0,2013,agencias de noticias e outros servicos de informacao
+"Serviços profissionais, administrativos e complementares",334759966.0,254284887.0,93138918.0,5118909.0,386375.0,2013,"servicos profissionais, administrativos e complementares"
+Serviços técnico-profissionais,131998599.0,97421799.0,29668338.0,1112008.0,181463.0,2013,servicos tecnico-profissionais
+Aluguéis não imobiliários e gestão de ativos intangíveis não financeiros,43337395.0,31340764.0,6297106.0,281109.0,35495.0,2013,alugueis nao imobiliarios e gestao de ativos intangiveis nao financeiros
+"Seleção, agenciamento e locação de mão de obra",21396905.0,19119115.0,10555868.0,710581.0,5628.0,2013,"selecao, agenciamento e locacao de mao de obra"
+"Agências de viagens, operadores turísticos e outros serviços de turismo",7851722.0,5096628.0,2174872.0,104646.0,16033.0,2013,"agencias de viagens, operadores turisticos e outros servicos de turismo"
+"Serviços de investigação, vigilância, segurança e transporte de valores",31436264.0,26401307.0,14099619.0,738940.0,7769.0,2013,"servicos de investigacao, vigilancia, seguranca e transporte de valores"
+Serviços para edifícios e atividades paisagísticas,28481211.0,24049548.0,12776462.0,1063753.0,18370.0,2013,servicos para edificios e atividades paisagisticas
+Serviços de escritório e apoio administrativo,31835688.0,24428755.0,10200962.0,718469.0,62006.0,2013,servicos de escritorio e apoio administrativo
+Outros serviços prestados principalmente às empresas,38422182.0,26426971.0,7365691.0,389403.0,59611.0,2013,outros servicos prestados principalmente as empresas
+"Transportes, serviços auxiliares aos transportes e correio",354208691.0,180339082.0,65199231.0,2568764.0,173286.0,2013,"transportes, servicos auxiliares aos transportes e correio"
+Transporte e serviços auxiliares aos transportes,335227593.0,166994801.0,58677198.0,2358528.0,164765.0,2013,transporte e servicos auxiliares aos transportes
+Transporte ferroviário e metroferroviário,13698836.0,8572548.0,2940723.0,52507.0,57.0,2013,transporte ferroviario e metroferroviario
+Transporte rodoviário,184430012.0,86232230.0,33905019.0,1715271.0,138493.0,2013,transporte rodoviario
+Transporte rodoviário de passageiros,56956252.0,33492913.0,15376335.0,773625.0,31556.0,2013,transporte rodoviario de passageiros
+Transporte rodoviário de cargas,127473760.0,52739317.0,18528684.0,941646.0,106937.0,2013,transporte rodoviario de cargas
+Transporte dutoviário,13496679.0,11066260.0,1443511.0,8235.0,16.0,2013,transporte dutoviario
+Transporte aquaviário,13663503.0,6181218.0,2447062.0,40545.0,875.0,2013,transporte aquaviario
+Transporte aéreo,33603522.0,10183602.0,4456090.0,68413.0,281.0,2013,transporte aereo
+Armazenamento e atividades auxiliares aos transportes,76335041.0,44758943.0,13484793.0,473557.0,25043.0,2013,armazenamento e atividades auxiliares aos transportes
+Correio e outras atividades de entrega,18981098.0,13344281.0,6522033.0,210236.0,8521.0,2013,correio e outras atividades de entrega
+Atividades imobiliárias,31842141.0,25524939.0,3591641.0,189779.0,42272.0,2013,atividades imobiliarias
+"Compra, venda e aluguel de imóveis próprios",21781118.0,18649317.0,1530804.0,77176.0,22270.0,2013,"compra, venda e aluguel de imoveis proprios"
+"Intermediação na compra, venda e aluguel de imóveis",10061023.0,6875622.0,2060837.0,112603.0,20002.0,2013,"intermediacao na compra, venda e aluguel de imoveis"
+Serviços de manutenção e reparação,21394545.0,13514694.0,6047978.0,441248.0,107582.0,2013,servicos de manutencao e reparacao
+Manutenção e reparação de veículos automotores,11120998.0,6771070.0,3326199.0,267993.0,66333.0,2013,manutencao e reparacao de veiculos automotores
+Manutenção e reparação de equipamentos de informática e comunicação,6842560.0,4526690.0,1633450.0,85111.0,19103.0,2013,manutencao e reparacao de equipamentos de informatica e comunicacao
+Manutenção e reparação de objetos pessoais e domésticos,3430987.0,2216934.0,1088329.0,88144.0,22146.0,2013,manutencao e reparacao de objetos pessoais e domesticos
+Outras atividades de serviços,64875163.0,44719188.0,12277270.0,482083.0,38010.0,2013,outras atividades de servicos
+"Serviços auxiliares da agricultura, pecuária e produção florestal",5433323.0,3079770.0,1231248.0,74334.0,6720.0,2013,"servicos auxiliares da agricultura, pecuaria e producao florestal"
+"Serviços auxiliares financeiros, dos seguros e da previdência complementar",39318115.0,28619142.0,5984520.0,146932.0,25127.0,2013,"servicos auxiliares financeiros, dos seguros e da previdencia complementar"
+"Esgoto, coleta, tratamento e disposição de resíduos e recuperação de materiais",20123725.0,13020276.0,5061502.0,260817.0,6163.0,2013,"esgoto, coleta, tratamento e disposicao de residuos e recuperacao de materiais"
+Total,1386671960.0,835364272.0,288651064.0,12990746.0,1321384.0,2014,total
+Serviços prestados principalmente às famílias,162240675.0,94051178.0,39938958.0,2860301.0,398867.0,2014,servicos prestados principalmente as familias
+Serviços de alojamento,22749782.0,13896473.0,6084311.0,374495.0,29637.0,2014,servicos de alojamento
+Serviços de alimentação,107049606.0,58053247.0,23885405.0,1776999.0,234215.0,2014,servicos de alimentacao
+"Atividades culturais, recreativas e esportivas",10501802.0,6302951.0,2396815.0,180995.0,37430.0,2014,"atividades culturais, recreativas e esportivas"
+Serviços pessoais,11068460.0,7674588.0,3423290.0,253911.0,47466.0,2014,servicos pessoais
+Atividades de ensino continuado,10871025.0,8123919.0,4149137.0,273901.0,50119.0,2014,atividades de ensino continuado
+Serviços de informação e comunicação,323884634.0,157903677.0,48021140.0,1064455.0,111833.0,2014,servicos de informacao e comunicacao
+Telecomunicações,168407528.0,70069667.0,9567668.0,201791.0,7093.0,2014,telecomunicacoes
+Tecnologia da informação,92818351.0,57707367.0,27378004.0,588168.0,69855.0,2014,tecnologia da informacao
+Serviços audiovisuais,41145370.0,19689042.0,6472677.0,142379.0,16718.0,2014,servicos audiovisuais
+Edição e edição integrada à impressão,19883622.0,9202768.0,4153153.0,113822.0,12728.0,2014,edicao e edicao integrada a impressao
+Agências de notícias e outros serviços de informação,1629763.0,1234833.0,449638.0,18295.0,5439.0,2014,agencias de noticias e outros servicos de informacao
+"Serviços profissionais, administrativos e complementares",367732118.0,280954224.0,104257517.0,5252868.0,411025.0,2014,"servicos profissionais, administrativos e complementares"
+Serviços técnico-profissionais,145388507.0,107153647.0,33007753.0,1099955.0,186125.0,2014,servicos tecnico-profissionais
+Aluguéis não imobiliários e gestão de ativos intangíveis não financeiros,44068139.0,30724164.0,6700907.0,290142.0,35626.0,2014,alugueis nao imobiliarios e gestao de ativos intangiveis nao financeiros
+"Seleção, agenciamento e locação de mão de obra",23164726.0,20591722.0,11355684.0,716535.0,5723.0,2014,"selecao, agenciamento e locacao de mao de obra"
+"Agências de viagens, operadores turísticos e outros serviços de turismo",8462092.0,5494306.0,2450295.0,94934.0,16176.0,2014,"agencias de viagens, operadores turisticos e outros servicos de turismo"
+"Serviços de investigação, vigilância, segurança e transporte de valores",35814699.0,30383481.0,16715903.0,762981.0,8699.0,2014,"servicos de investigacao, vigilancia, seguranca e transporte de valores"
+Serviços para edifícios e atividades paisagísticas,35051848.0,30322190.0,15076140.0,1123447.0,20740.0,2014,servicos para edificios e atividades paisagisticas
+Serviços de escritório e apoio administrativo,34499843.0,27494567.0,11413862.0,748512.0,72927.0,2014,servicos de escritorio e apoio administrativo
+Outros serviços prestados principalmente às empresas,41282264.0,28790147.0,7536973.0,416362.0,65009.0,2014,outros servicos prestados principalmente as empresas
+"Transportes, serviços auxiliares aos transportes e correio",408285834.0,213181709.0,72642105.0,2684597.0,195217.0,2014,"transportes, servicos auxiliares aos transportes e correio"
+Transporte e serviços auxiliares aos transportes,388019383.0,199853445.0,65888960.0,2476130.0,186095.0,2014,transporte e servicos auxiliares aos transportes
+Transporte ferroviário e metroferroviário,15049123.0,9602128.0,3323375.0,54940.0,57.0,2014,transporte ferroviario e metroferroviario
+Transporte rodoviário,222078343.0,110510119.0,38926548.0,1818415.0,157790.0,2014,transporte rodoviario
+Transporte rodoviário de passageiros,62438961.0,36720800.0,17274799.0,793712.0,34364.0,2014,transporte rodoviario de passageiros
+Transporte rodoviário de cargas,159639382.0,73789319.0,21651749.0,1024703.0,123426.0,2014,transporte rodoviario de cargas
+Transporte dutoviário,15498539.0,12123209.0,1405259.0,7987.0,16.0,2014,transporte dutoviario
+Transporte aquaviário,16215581.0,7388054.0,2880321.0,44129.0,908.0,2014,transporte aquaviario
+Transporte aéreo,37556646.0,11323124.0,4705691.0,68587.0,298.0,2014,transporte aereo
+Armazenamento e atividades auxiliares aos transportes,81621151.0,48906811.0,14647766.0,482072.0,27026.0,2014,armazenamento e atividades auxiliares aos transportes
+Correio e outras atividades de entrega,20266451.0,13328264.0,6753145.0,208467.0,9122.0,2014,correio e outras atividades de entrega
+Atividades imobiliárias,35091515.0,28941872.0,3810231.0,202746.0,48812.0,2014,atividades imobiliarias
+"Compra, venda e aluguel de imóveis próprios",23969921.0,20687217.0,1675557.0,84554.0,25597.0,2014,"compra, venda e aluguel de imoveis proprios"
+"Intermediação na compra, venda e aluguel de imóveis",11121594.0,8254655.0,2134674.0,118192.0,23215.0,2014,"intermediacao na compra, venda e aluguel de imoveis"
+Serviços de manutenção e reparação,22925743.0,14724477.0,6669000.0,446085.0,114158.0,2014,servicos de manutencao e reparacao
+Manutenção e reparação de veículos automotores,12842677.0,8059162.0,3804159.0,278499.0,73842.0,2014,manutencao e reparacao de veiculos automotores
+Manutenção e reparação de equipamentos de informática e comunicação,6919309.0,4464188.0,1854488.0,86773.0,18456.0,2014,manutencao e reparacao de equipamentos de informatica e comunicacao
+Manutenção e reparação de objetos pessoais e domésticos,3163757.0,2201127.0,1010353.0,80813.0,21860.0,2014,manutencao e reparacao de objetos pessoais e domesticos
+Outras atividades de serviços,66511441.0,45607135.0,13312113.0,479694.0,41472.0,2014,outras atividades de servicos
+"Serviços auxiliares da agricultura, pecuária e produção florestal",5511228.0,3250012.0,1284866.0,72136.0,7724.0,2014,"servicos auxiliares da agricultura, pecuaria e producao florestal"
+"Serviços auxiliares financeiros, dos seguros e da previdência complementar",39051493.0,28144992.0,6337894.0,149095.0,26509.0,2014,"servicos auxiliares financeiros, dos seguros e da previdencia complementar"
+"Esgoto, coleta, tratamento e disposição de resíduos e recuperação de materiais",21948720.0,14212131.0,5689353.0,258463.0,7239.0,2014,"esgoto, coleta, tratamento e disposicao de residuos e recuperacao de materiais"
+Total,1419440597.0,850739763.0,313834261.0,12714702.0,1303536.0,2015,total
+Serviços prestados principalmente às famílias,165958513.0,93288784.0,43807725.0,2870420.0,390134.0,2015,servicos prestados principalmente as familias
+Serviços de alojamento,22190381.0,12629136.0,6438362.0,362368.0,28863.0,2015,servicos de alojamento
+Serviços de alimentação,108752643.0,56973390.0,26231436.0,1784696.0,225758.0,2015,servicos de alimentacao
+"Atividades culturais, recreativas e esportivas",10249264.0,6376785.0,2746852.0,186226.0,36681.0,2015,"atividades culturais, recreativas e esportivas"
+Serviços pessoais,11361550.0,7618966.0,3818322.0,254933.0,45984.0,2015,servicos pessoais
+Atividades de ensino continuado,13404675.0,9690507.0,4572753.0,282197.0,52848.0,2015,atividades de ensino continuado
+Serviços de informação e comunicação,325229631.0,163520369.0,51757521.0,1040364.0,106168.0,2015,servicos de informacao e comunicacao
+Telecomunicações,160742403.0,70861904.0,9863187.0,194609.0,7361.0,2015,telecomunicacoes
+Tecnologia da informação,102564806.0,63771815.0,30420013.0,579347.0,64553.0,2015,tecnologia da informacao
+Serviços audiovisuais,41301419.0,19423169.0,6928941.0,139247.0,15948.0,2015,servicos audiovisuais
+Edição e edição integrada à impressão,18888497.0,8175324.0,4059295.0,107825.0,12778.0,2015,edicao e edicao integrada a impressao
+Agências de notícias e outros serviços de informação,1732506.0,1288157.0,486085.0,19336.0,5528.0,2015,agencias de noticias e outros servicos de informacao
+"Serviços profissionais, administrativos e complementares",380510590.0,289072687.0,113178821.0,5091573.0,413703.0,2015,"servicos profissionais, administrativos e complementares"
+Serviços técnico-profissionais,148447027.0,109258562.0,35232671.0,1117948.0,190088.0,2015,servicos tecnico-profissionais
+Aluguéis não imobiliários e gestão de ativos intangíveis não financeiros,43861720.0,29638217.0,7052020.0,282984.0,35795.0,2015,alugueis nao imobiliarios e gestao de ativos intangiveis nao financeiros
+"Seleção, agenciamento e locação de mão de obra",23189280.0,20712736.0,11661280.0,637258.0,5497.0,2015,"selecao, agenciamento e locacao de mao de obra"
+"Agências de viagens, operadores turísticos e outros serviços de turismo",8124811.0,4837890.0,2418119.0,88360.0,15452.0,2015,"agencias de viagens, operadores turisticos e outros servicos de turismo"
+"Serviços de investigação, vigilância, segurança e transporte de valores",38285911.0,32575519.0,17453687.0,733117.0,8577.0,2015,"servicos de investigacao, vigilancia, seguranca e transporte de valores"
+Serviços para edifícios e atividades paisagísticas,36798625.0,31583007.0,16858438.0,1086649.0,21045.0,2015,servicos para edificios e atividades paisagisticas
+Serviços de escritório e apoio administrativo,37128797.0,29714337.0,13503926.0,750504.0,79998.0,2015,servicos de escritorio e apoio administrativo
+Outros serviços prestados principalmente às empresas,44674419.0,30752419.0,8998680.0,394753.0,57251.0,2015,outros servicos prestados principalmente as empresas
+"Transportes, serviços auxiliares aos transportes e correio",415578590.0,210080445.0,78915968.0,2600367.0,194507.0,2015,"transportes, servicos auxiliares aos transportes e correio"
+Transporte e serviços auxiliares aos transportes,393993239.0,196121096.0,71704579.0,2402307.0,186133.0,2015,transporte e servicos auxiliares aos transportes
+Transporte ferroviário e metroferroviário,16738723.0,10595897.0,3586437.0,55338.0,55.0,2015,transporte ferroviario e metroferroviario
+Transporte rodoviário,214114990.0,100025458.0,42503777.0,1774146.0,158263.0,2015,transporte rodoviario
+Transporte rodoviário de passageiros,65086943.0,38872215.0,18541151.0,763662.0,33457.0,2015,transporte rodoviario de passageiros
+Transporte rodoviário de cargas,149028047.0,61153243.0,23962626.0,1010484.0,124806.0,2015,transporte rodoviario de cargas
+Transporte dutoviário,16697357.0,13367018.0,1587429.0,7766.0,14.0,2015,transporte dutoviario
+Transporte aquaviário,19469761.0,9100646.0,3184555.0,42306.0,911.0,2015,transporte aquaviario
+Transporte aéreo,38787955.0,12679552.0,4947335.0,65852.0,273.0,2015,transporte aereo
+Armazenamento e atividades auxiliares aos transportes,88184453.0,50352525.0,15895046.0,456899.0,26617.0,2015,armazenamento e atividades auxiliares aos transportes
+Correio e outras atividades de entrega,21585351.0,13959349.0,7211389.0,198060.0,8374.0,2015,correio e outras atividades de entrega
+Atividades imobiliárias,35131885.0,28837566.0,4297394.0,215219.0,50826.0,2015,atividades imobiliarias
+"Compra, venda e aluguel de imóveis próprios",24107946.0,20624934.0,1844390.0,89438.0,27404.0,2015,"compra, venda e aluguel de imoveis proprios"
+"Intermediação na compra, venda e aluguel de imóveis",11023939.0,8212632.0,2453004.0,125781.0,23422.0,2015,"intermediacao na compra, venda e aluguel de imoveis"
+Serviços de manutenção e reparação,22865616.0,14283159.0,7160368.0,430931.0,106488.0,2015,servicos de manutencao e reparacao
+Manutenção e reparação de veículos automotores,12660372.0,7579303.0,4166318.0,271257.0,67781.0,2015,manutencao e reparacao de veiculos automotores
+Manutenção e reparação de equipamentos de informática e comunicação,7048604.0,4498832.0,1873801.0,81952.0,18848.0,2015,manutencao e reparacao de equipamentos de informatica e comunicacao
+Manutenção e reparação de objetos pessoais e domésticos,3156640.0,2205024.0,1120249.0,77722.0,19859.0,2015,manutencao e reparacao de objetos pessoais e domesticos
+Outras atividades de serviços,74165772.0,51656753.0,14716464.0,465828.0,41710.0,2015,outras atividades de servicos
+"Serviços auxiliares da agricultura, pecuária e produção florestal",5639280.0,3494174.0,1332698.0,66358.0,7151.0,2015,"servicos auxiliares da agricultura, pecuaria e producao florestal"
+"Serviços auxiliares financeiros, dos seguros e da previdência complementar",45553067.0,32341738.0,7173482.0,153981.0,27635.0,2015,"servicos auxiliares financeiros, dos seguros e da previdencia complementar"
+"Esgoto, coleta, tratamento e disposição de resíduos e recuperação de materiais",22973425.0,15820841.0,6210284.0,245489.0,6924.0,2015,"esgoto, coleta, tratamento e disposicao de residuos e recuperacao de materiais"
+Total,1463392542.0,871714570.0,327635546.0,12304213.0,1311359.0,2016,total
+Serviços prestados principalmente às famílias,172270513.0,94983251.0,46641396.0,2784896.0,393366.0,2016,servicos prestados principalmente as familias
+Serviços de alojamento,23134732.0,12826961.0,6851966.0,349467.0,28160.0,2016,servicos de alojamento
+Serviços de alimentação,112556270.0,56726473.0,27882633.0,1735764.0,226553.0,2016,servicos de alimentacao
+"Atividades culturais, recreativas e esportivas",10442602.0,6352659.0,2887340.0,177296.0,37491.0,2016,"atividades culturais, recreativas e esportivas"
+Serviços pessoais,11907187.0,8189805.0,3999287.0,247573.0,46341.0,2016,servicos pessoais
+Atividades de ensino continuado,14229722.0,10887353.0,5020170.0,274796.0,54821.0,2016,atividades de ensino continuado
+Serviços de informação e comunicação,329290639.0,167911126.0,53752329.0,1003840.0,101495.0,2016,servicos de informacao e comunicacao
+Telecomunicações,159903389.0,72490376.0,9840239.0,191911.0,7744.0,2016,telecomunicacoes
+Tecnologia da informação,108687444.0,68833890.0,32645195.0,567064.0,61251.0,2016,tecnologia da informacao
+Serviços audiovisuais,41167620.0,17600965.0,7002361.0,134371.0,15454.0,2016,servicos audiovisuais
+Edição e edição integrada à impressão,17632966.0,7708288.0,3768440.0,90777.0,11770.0,2016,edicao e edicao integrada a impressao
+Agências de notícias e outros serviços de informação,1899220.0,1277607.0,496094.0,19717.0,5276.0,2016,agencias de noticias e outros servicos de informacao
+"Serviços profissionais, administrativos e complementares",406434671.0,300114968.0,117136731.0,4914703.0,421105.0,2016,"servicos profissionais, administrativos e complementares"
+Serviços técnico-profissionais,163053369.0,115656141.0,37223600.0,1110129.0,197856.0,2016,servicos tecnico-profissionais
+Aluguéis não imobiliários e gestão de ativos intangíveis não financeiros,42495286.0,26466926.0,7163705.0,258532.0,35319.0,2016,alugueis nao imobiliarios e gestao de ativos intangiveis nao financeiros
+"Seleção, agenciamento e locação de mão de obra",23399935.0,20956729.0,11319517.0,580575.0,5114.0,2016,"selecao, agenciamento e locacao de mao de obra"
+"Agências de viagens, operadores turísticos e outros serviços de turismo",8048938.0,4992165.0,2400291.0,84576.0,15452.0,2016,"agencias de viagens, operadores turisticos e outros servicos de turismo"
+"Serviços de investigação, vigilância, segurança e transporte de valores",39027512.0,33135618.0,18409149.0,677398.0,8074.0,2016,"servicos de investigacao, vigilancia, seguranca e transporte de valores"
+Serviços para edifícios e atividades paisagísticas,39628533.0,34287390.0,17904981.0,1058546.0,22210.0,2016,servicos para edificios e atividades paisagisticas
+Serviços de escritório e apoio administrativo,40832448.0,32470152.0,14165406.0,769773.0,84592.0,2016,servicos de escritorio e apoio administrativo
+Outros serviços prestados principalmente às empresas,49948650.0,32149847.0,8550082.0,375174.0,52488.0,2016,outros servicos prestados principalmente as empresas
+"Transportes, serviços auxiliares aos transportes e correio",414744167.0,212559236.0,81951645.0,2512236.0,192861.0,2016,"transportes, servicos auxiliares aos transportes e correio"
+Transporte e serviços auxiliares aos transportes,391749323.0,197431626.0,74253903.0,2322589.0,184147.0,2016,transporte e servicos auxiliares aos transportes
+Transporte ferroviário e metroferroviário,18112798.0,12141803.0,3969978.0,57784.0,61.0,2016,transporte ferroviario e metroferroviario
+Transporte rodoviário,209909756.0,96892809.0,44931550.0,1714210.0,157064.0,2016,transporte rodoviario
+Transporte rodoviário de passageiros,66328352.0,38712795.0,20519381.0,738152.0,35928.0,2016,transporte rodoviario de passageiros
+Transporte rodoviário de cargas,143581404.0,58180014.0,24412169.0,976058.0,121136.0,2016,transporte rodoviario de cargas
+Transporte dutoviário,16154726.0,13762822.0,1647585.0,6970.0,13.0,2016,transporte dutoviario
+Transporte aquaviário,19018455.0,9507803.0,3212983.0,39085.0,899.0,2016,transporte aquaviario
+Transporte aéreo,38701279.0,12181725.0,4281491.0,61600.0,254.0,2016,transporte aereo
+Armazenamento e atividades auxiliares aos transportes,89852309.0,52944664.0,16210316.0,442940.0,25856.0,2016,armazenamento e atividades auxiliares aos transportes
+Correio e outras atividades de entrega,22994844.0,15127610.0,7697742.0,189647.0,8714.0,2016,correio e outras atividades de entrega
+Atividades imobiliárias,36317768.0,27032316.0,4678809.0,219287.0,57978.0,2016,atividades imobiliarias
+"Compra, venda e aluguel de imóveis próprios",25228041.0,18851954.0,2040936.0,89417.0,30466.0,2016,"compra, venda e aluguel de imoveis proprios"
+"Intermediação na compra, venda e aluguel de imóveis",11089727.0,8180362.0,2637873.0,129870.0,27512.0,2016,"intermediacao na compra, venda e aluguel de imoveis"
+Serviços de manutenção e reparação,23324860.0,14632181.0,7768941.0,409768.0,100893.0,2016,servicos de manutencao e reparacao
+Manutenção e reparação de veículos automotores,13338630.0,7606789.0,4705748.0,261815.0,64591.0,2016,manutencao e reparacao de veiculos automotores
+Manutenção e reparação de equipamentos de informática e comunicação,6709033.0,4612900.0,1812528.0,74280.0,16658.0,2016,manutencao e reparacao de equipamentos de informatica e comunicacao
+Manutenção e reparação de objetos pessoais e domésticos,3277197.0,2412492.0,1250665.0,73673.0,19644.0,2016,manutencao e reparacao de objetos pessoais e domesticos
+Outras atividades de serviços,81009924.0,54481492.0,15705695.0,459483.0,43661.0,2016,outras atividades de servicos
+"Serviços auxiliares da agricultura, pecuária e produção florestal",6197584.0,4140585.0,1610805.0,67812.0,7190.0,2016,"servicos auxiliares da agricultura, pecuaria e producao florestal"
+"Serviços auxiliares financeiros, dos seguros e da previdência complementar",49944767.0,33843926.0,7657397.0,165450.0,29953.0,2016,"servicos auxiliares financeiros, dos seguros e da previdencia complementar"
+"Esgoto, coleta, tratamento e disposição de resíduos e recuperação de materiais",24867573.0,16496981.0,6437493.0,226221.0,6518.0,2016,"esgoto, coleta, tratamento e disposicao de residuos e recuperacao de materiais"
+Total,1521845921.0,905009578.0,336996426.0,12302727.0,1326805.0,2017,total
+Serviços prestados principalmente às famílias,183242859.0,101235568.0,49671049.0,2771881.0,397165.0,2017,servicos prestados principalmente as familias
+Serviços de alojamento,23031784.0,12601058.0,7254359.0,352136.0,29149.0,2017,servicos de alojamento
+Serviços de alimentação,120597562.0,61272933.0,29829265.0,1704344.0,229413.0,2017,servicos de alimentacao
+"Atividades culturais, recreativas e esportivas",11662548.0,7048095.0,3015316.0,185924.0,36083.0,2017,"atividades culturais, recreativas e esportivas"
+Serviços pessoais,13096155.0,9059844.0,4250311.0,244927.0,47554.0,2017,servicos pessoais
+Atividades de ensino continuado,14854810.0,11253638.0,5321798.0,284550.0,54966.0,2017,atividades de ensino continuado
+Serviços de informação e comunicação,341223138.0,181235541.0,55441032.0,982304.0,104369.0,2017,servicos de informacao e comunicacao
+Telecomunicações,160280090.0,76629392.0,10290628.0,203748.0,8950.0,2017,telecomunicacoes
+Tecnologia da informação,121442484.0,77168429.0,33738931.0,551281.0,64179.0,2017,tecnologia da informacao
+Serviços audiovisuais,40880810.0,18082061.0,7156086.0,126836.0,15591.0,2017,servicos audiovisuais
+Edição e edição integrada à impressão,16776945.0,7956986.0,3774018.0,84263.0,10496.0,2017,edicao e edicao integrada a impressao
+Agências de notícias e outros serviços de informação,1842809.0,1398673.0,481369.0,16176.0,5153.0,2017,agencias de noticias e outros servicos de informacao
+"Serviços profissionais, administrativos e complementares",400429719.0,298172390.0,119158777.0,4918779.0,424074.0,2017,"servicos profissionais, administrativos e complementares"
+Serviços técnico-profissionais,148869566.0,111206675.0,36664190.0,1135172.0,204387.0,2017,servicos tecnico-profissionais
+Aluguéis não imobiliários e gestão de ativos intangíveis não financeiros,44633130.0,28407271.0,7283051.0,252496.0,32779.0,2017,alugueis nao imobiliarios e gestao de ativos intangiveis nao financeiros
+"Seleção, agenciamento e locação de mão de obra",22564090.0,20060942.0,11141838.0,558134.0,4318.0,2017,"selecao, agenciamento e locacao de mao de obra"
+"Agências de viagens, operadores turísticos e outros serviços de turismo",9908234.0,6487671.0,2786773.0,82571.0,15584.0,2017,"agencias de viagens, operadores turisticos e outros servicos de turismo"
+"Serviços de investigação, vigilância, segurança e transporte de valores",39468284.0,33424803.0,18310842.0,658128.0,8136.0,2017,"servicos de investigacao, vigilancia, seguranca e transporte de valores"
+Serviços para edifícios e atividades paisagísticas,39082247.0,33927014.0,18235822.0,1043243.0,22271.0,2017,servicos para edificios e atividades paisagisticas
+Serviços de escritório e apoio administrativo,42914179.0,32628509.0,15231817.0,790078.0,86754.0,2017,servicos de escritorio e apoio administrativo
+Outros serviços prestados principalmente às empresas,52989989.0,32029505.0,9504444.0,398957.0,49845.0,2017,outros servicos prestados principalmente as empresas
+"Transportes, serviços auxiliares aos transportes e correio",448250576.0,220064077.0,83548446.0,2514018.0,189250.0,2017,"transportes, servicos auxiliares aos transportes e correio"
+Transporte e serviços auxiliares aos transportes,425885739.0,204937521.0,76267087.0,2337158.0,180875.0,2017,transporte e servicos auxiliares aos transportes
+Transporte ferroviário e metroferroviário,20410841.0,13582239.0,4308949.0,59033.0,58.0,2017,transporte ferroviario e metroferroviario
+Transporte rodoviário,233416377.0,99921797.0,46240248.0,1720206.0,152854.0,2017,transporte rodoviario
+Transporte rodoviário de passageiros,66158728.0,38820155.0,20098156.0,731106.0,34082.0,2017,transporte rodoviario de passageiros
+Transporte rodoviário de cargas,167257649.0,61101642.0,26142092.0,989100.0,118772.0,2017,transporte rodoviario de cargas
+Transporte dutoviário,17014047.0,13265455.0,1153426.0,6909.0,10.0,2017,transporte dutoviario
+Transporte aquaviário,19904892.0,9344692.0,3171476.0,38262.0,982.0,2017,transporte aquaviario
+Transporte aéreo,39787372.0,14061668.0,5040881.0,61339.0,249.0,2017,transporte aereo
+Armazenamento e atividades auxiliares aos transportes,95352210.0,54761670.0,16352107.0,451409.0,26722.0,2017,armazenamento e atividades auxiliares aos transportes
+Correio e outras atividades de entrega,22364837.0,15126556.0,7281359.0,176860.0,8375.0,2017,correio e outras atividades de entrega
+Atividades imobiliárias,36139258.0,29071736.0,4743133.0,232239.0,65834.0,2017,atividades imobiliarias
+"Compra, venda e aluguel de imóveis próprios",24677176.0,20418327.0,1937670.0,96299.0,33045.0,2017,"compra, venda e aluguel de imoveis proprios"
+"Intermediação na compra, venda e aluguel de imóveis",11462082.0,8653409.0,2805463.0,135940.0,32789.0,2017,"intermediacao na compra, venda e aluguel de imoveis"
+Serviços de manutenção e reparação,25782274.0,16020824.0,8094371.0,415328.0,100185.0,2017,servicos de manutencao e reparacao
+Manutenção e reparação de veículos automotores,14445018.0,8766663.0,4694915.0,267819.0,65182.0,2017,manutencao e reparacao de veiculos automotores
+Manutenção e reparação de equipamentos de informática e comunicação,7451664.0,4715089.0,2040969.0,78893.0,15751.0,2017,manutencao e reparacao de equipamentos de informatica e comunicacao
+Manutenção e reparação de objetos pessoais e domésticos,3885592.0,2539072.0,1358487.0,68616.0,19252.0,2017,manutencao e reparacao de objetos pessoais e domesticos
+Outras atividades de serviços,86778097.0,59209442.0,16339618.0,468178.0,45928.0,2017,outras atividades de servicos
+"Serviços auxiliares da agricultura, pecuária e produção florestal",6695414.0,4305295.0,1714586.0,74495.0,7684.0,2017,"servicos auxiliares da agricultura, pecuaria e producao florestal"
+"Serviços auxiliares financeiros, dos seguros e da previdência complementar",54845164.0,38388081.0,8488437.0,166671.0,31097.0,2017,"servicos auxiliares financeiros, dos seguros e da previdencia complementar"
+"Esgoto, coleta, tratamento e disposição de resíduos e recuperação de materiais",25237519.0,16516066.0,6136595.0,227012.0,7147.0,2017,"esgoto, coleta, tratamento e disposicao de residuos e recuperacao de materiais"
+Total,1636810655.0,964683098.0,352055187.0,12548373.0,1348529.0,2018,total
+Serviços prestados principalmente às famílias,192479424.0,102893386.0,52887749.0,2890795.0,409807.0,2018,servicos prestados principalmente as familias
+Serviços de alojamento,25058968.0,13958942.0,7409667.0,358481.0,28765.0,2018,servicos de alojamento
+Serviços de alimentação,127106639.0,62033351.0,32208355.0,1802091.0,236134.0,2018,servicos de alimentacao
+"Atividades culturais, recreativas e esportivas",12226894.0,7587022.0,3227306.0,187227.0,36395.0,2018,"atividades culturais, recreativas e esportivas"
+Serviços pessoais,13872094.0,9368809.0,4449902.0,240857.0,48038.0,2018,servicos pessoais
+Atividades de ensino continuado,14214829.0,9945262.0,5592519.0,302139.0,60475.0,2018,atividades de ensino continuado
+Serviços de informação e comunicação,363488516.0,192732897.0,58556148.0,1018085.0,106870.0,2018,servicos de informacao e comunicacao
+Telecomunicações,162779121.0,79221673.0,10450574.0,217786.0,9765.0,2018,telecomunicacoes
+Tecnologia da informação,140452385.0,86941867.0,36534255.0,574848.0,65246.0,2018,tecnologia da informacao
+Serviços audiovisuais,41534448.0,17270292.0,7410024.0,127211.0,15363.0,2018,servicos audiovisuais
+Edição e edição integrada à impressão,16756590.0,7804201.0,3706962.0,79753.0,10382.0,2018,edicao e edicao integrada a impressao
+Agências de notícias e outros serviços de informação,1965972.0,1494864.0,454333.0,18487.0,6114.0,2018,agencias de noticias e outros servicos de informacao
+"Serviços profissionais, administrativos e complementares",426574873.0,316302877.0,124222342.0,5044502.0,434926.0,2018,"servicos profissionais, administrativos e complementares"
+Serviços técnico-profissionais,161433058.0,119521781.0,36941470.0,1159226.0,218682.0,2018,servicos tecnico-profissionais
+Aluguéis não imobiliários e gestão de ativos intangíveis não financeiros,49147470.0,29751371.0,7681432.0,256700.0,32290.0,2018,alugueis nao imobiliarios e gestao de ativos intangiveis nao financeiros
+"Seleção, agenciamento e locação de mão de obra",24407687.0,21924388.0,12282810.0,584651.0,4520.0,2018,"selecao, agenciamento e locacao de mao de obra"
+"Agências de viagens, operadores turísticos e outros serviços de turismo",11367160.0,7359278.0,3102490.0,93557.0,16609.0,2018,"agencias de viagens, operadores turisticos e outros servicos de turismo"
+"Serviços de investigação, vigilância, segurança e transporte de valores",40495622.0,34036732.0,18451699.0,652512.0,8171.0,2018,"servicos de investigacao, vigilancia, seguranca e transporte de valores"
+Serviços para edifícios e atividades paisagísticas,43150224.0,37082566.0,19693943.0,1105731.0,24557.0,2018,servicos para edificios e atividades paisagisticas
+Serviços de escritório e apoio administrativo,45455521.0,34989474.0,16014422.0,804586.0,85501.0,2018,servicos de escritorio e apoio administrativo
+Outros serviços prestados principalmente às empresas,51118131.0,31637287.0,10054076.0,387539.0,44596.0,2018,outros servicos prestados principalmente as empresas
+"Transportes, serviços auxiliares aos transportes e correio",485837855.0,234031602.0,85260437.0,2456479.0,182632.0,2018,"transportes, servicos auxiliares aos transportes e correio"
+Transporte e serviços auxiliares aos transportes,461415107.0,217072881.0,78162817.0,2282070.0,174670.0,2018,transporte e servicos auxiliares aos transportes
+Transporte ferroviário e metroferroviário,22493809.0,13383215.0,4472120.0,61156.0,53.0,2018,transporte ferroviario e metroferroviario
+Transporte rodoviário,250308842.0,108026923.0,46657677.0,1660035.0,145868.0,2018,transporte rodoviario
+Transporte rodoviário de passageiros,67427354.0,38615084.0,20120661.0,698533.0,33555.0,2018,transporte rodoviario de passageiros
+Transporte rodoviário de cargas,182881488.0,69411839.0,26537016.0,961502.0,112313.0,2018,transporte rodoviario de cargas
+Transporte dutoviário,17442232.0,13840000.0,1355228.0,7501.0,9.0,2018,transporte dutoviario
+Transporte aquaviário,21917980.0,10203796.0,3187860.0,37248.0,931.0,2018,transporte aquaviario
+Transporte aéreo,44794474.0,12192050.0,5528943.0,61114.0,238.0,2018,transporte aereo
+Armazenamento e atividades auxiliares aos transportes,104457770.0,59426897.0,16960989.0,455016.0,27571.0,2018,armazenamento e atividades auxiliares aos transportes
+Correio e outras atividades de entrega,24422748.0,16958721.0,7097620.0,174409.0,7962.0,2018,correio e outras atividades de entrega
+Atividades imobiliárias,40408443.0,32086228.0,5078148.0,239789.0,68457.0,2018,atividades imobiliarias
+"Compra, venda e aluguel de imóveis próprios",28805929.0,23748629.0,2061700.0,99665.0,37813.0,2018,"compra, venda e aluguel de imoveis proprios"
+"Intermediação na compra, venda e aluguel de imóveis",11602514.0,8337599.0,3016448.0,140124.0,30644.0,2018,"intermediacao na compra, venda e aluguel de imoveis"
+Serviços de manutenção e reparação,27096825.0,16533919.0,8095347.0,406389.0,96754.0,2018,servicos de manutencao e reparacao
+Manutenção e reparação de veículos automotores,15495806.0,9237505.0,4813664.0,271309.0,65143.0,2018,manutencao e reparacao de veiculos automotores
+Manutenção e reparação de equipamentos de informática e comunicação,7755060.0,4680752.0,2094034.0,72320.0,14498.0,2018,manutencao e reparacao de equipamentos de informatica e comunicacao
+Manutenção e reparação de objetos pessoais e domésticos,3845959.0,2615662.0,1187649.0,62760.0,17113.0,2018,manutencao e reparacao de objetos pessoais e domesticos
+Outras atividades de serviços,100924719.0,70102189.0,17955016.0,492334.0,49083.0,2018,outras atividades de servicos
+"Serviços auxiliares da agricultura, pecuária e produção florestal",7206842.0,4458554.0,1851422.0,78693.0,8347.0,2018,"servicos auxiliares da agricultura, pecuaria e producao florestal"
+"Serviços auxiliares financeiros, dos seguros e da previdência complementar",67048916.0,48805021.0,9597423.0,174978.0,33721.0,2018,"servicos auxiliares financeiros, dos seguros e da previdencia complementar"
+"Esgoto, coleta, tratamento e disposição de resíduos e recuperação de materiais",26668961.0,16838614.0,6506171.0,238663.0,7015.0,2018,"esgoto, coleta, tratamento e disposicao de residuos e recuperacao de materiais"
+Total,1779268607.0,1060343457.0,376191287.0,12872442.0,1384489.0,2019,total
+Serviços prestados principalmente às famílias,209513795.0,112784259.0,54690577.0,2853954.0,417755.0,2019,servicos prestados principalmente as familias
+Serviços de alojamento,27975669.0,15689641.0,7684206.0,356945.0,28219.0,2019,servicos de alojamento
+Serviços de alimentação,137386630.0,67866003.0,33136399.0,1761825.0,241802.0,2019,servicos de alimentacao
+"Atividades culturais, recreativas e esportivas",14048735.0,8734611.0,3670750.0,193250.0,38463.0,2019,"atividades culturais, recreativas e esportivas"
+Serviços pessoais,14996683.0,10113569.0,4605608.0,243093.0,45659.0,2019,servicos pessoais
+Atividades de ensino continuado,15106078.0,10380435.0,5593614.0,298841.0,63612.0,2019,atividades de ensino continuado
+Serviços de informação e comunicação,377296763.0,208506167.0,60704895.0,1061644.0,112868.0,2019,servicos de informacao e comunicacao
+Telecomunicações,163357424.0,89439805.0,11226987.0,232749.0,11119.0,2019,telecomunicacoes
+Tecnologia da informação,153436368.0,92081012.0,38082592.0,611950.0,71437.0,2019,tecnologia da informacao
+Serviços audiovisuais,41781559.0,17597598.0,7633148.0,127067.0,15531.0,2019,servicos audiovisuais
+Edição e edição integrada à impressão,16955229.0,8097504.0,3288445.0,76169.0,10719.0,2019,edicao e edicao integrada a impressao
+Agências de notícias e outros serviços de informação,1766183.0,1290248.0,473723.0,13709.0,4062.0,2019,agencias de noticias e outros servicos de informacao
+"Serviços profissionais, administrativos e complementares",468179217.0,343069521.0,137266405.0,5282355.0,456260.0,2019,"servicos profissionais, administrativos e complementares"
+Serviços técnico-profissionais,186536332.0,136717094.0,45037653.0,1258343.0,233684.0,2019,servicos tecnico-profissionais
+Aluguéis não imobiliários e gestão de ativos intangíveis não financeiros,54979105.0,32850289.0,8167050.0,264424.0,31128.0,2019,alugueis nao imobiliarios e gestao de ativos intangiveis nao financeiros
+"Seleção, agenciamento e locação de mão de obra",26059855.0,23068434.0,12778111.0,640959.0,3909.0,2019,"selecao, agenciamento e locacao de mao de obra"
+"Agências de viagens, operadores turísticos e outros serviços de turismo",12465534.0,7509500.0,2970998.0,83374.0,14956.0,2019,"agencias de viagens, operadores turisticos e outros servicos de turismo"
+"Serviços de investigação, vigilância, segurança e transporte de valores",41855206.0,34815695.0,18531077.0,659475.0,9030.0,2019,"servicos de investigacao, vigilancia, seguranca e transporte de valores"
+Serviços para edifícios e atividades paisagísticas,47214634.0,40290642.0,20777822.0,1124416.0,22155.0,2019,servicos para edificios e atividades paisagisticas
+Serviços de escritório e apoio administrativo,51782692.0,39218809.0,17911067.0,838824.0,90725.0,2019,servicos de escritorio e apoio administrativo
+Outros serviços prestados principalmente às empresas,47285859.0,28599058.0,11092627.0,412540.0,50673.0,2019,outros servicos prestados principalmente as empresas
+"Transportes, serviços auxiliares aos transportes e correio",519570266.0,255637674.0,88584174.0,2504007.0,176927.0,2019,"transportes, servicos auxiliares aos transportes e correio"
+Transporte e serviços auxiliares aos transportes,495141064.0,239115689.0,81561424.0,2323661.0,169557.0,2019,transporte e servicos auxiliares aos transportes
+Transporte ferroviário e metroferroviário,24111315.0,17204313.0,4451810.0,58383.0,59.0,2019,transporte ferroviario e metroferroviario
+Transporte rodoviário,267072222.0,114277887.0,49295708.0,1695575.0,143273.0,2019,transporte rodoviario
+Transporte rodoviário de passageiros,70714291.0,40217654.0,20407884.0,668942.0,32041.0,2019,transporte rodoviario de passageiros
+Transporte rodoviário de cargas,196357931.0,74060233.0,28887824.0,1026633.0,111232.0,2019,transporte rodoviario de cargas
+Transporte dutoviário,18703946.0,15310400.0,1532348.0,7754.0,9.0,2019,transporte dutoviario
+Transporte aquaviário,23362052.0,11412337.0,3281866.0,37167.0,955.0,2019,transporte aquaviario
+Transporte aéreo,43615982.0,15077111.0,5252410.0,58934.0,218.0,2019,transporte aereo
+Armazenamento e atividades auxiliares aos transportes,118275547.0,65833641.0,17747282.0,465848.0,25043.0,2019,armazenamento e atividades auxiliares aos transportes
+Correio e outras atividades de entrega,24429202.0,16521985.0,7022750.0,180346.0,7370.0,2019,correio e outras atividades de entrega
+Atividades imobiliárias,41852534.0,31469996.0,5418943.0,241077.0,71953.0,2019,atividades imobiliarias
+"Compra, venda e aluguel de imóveis próprios",29945161.0,23090041.0,2240586.0,95976.0,39825.0,2019,"compra, venda e aluguel de imoveis proprios"
+"Intermediação na compra, venda e aluguel de imóveis",11907373.0,8379955.0,3178357.0,145101.0,32128.0,2019,"intermediacao na compra, venda e aluguel de imoveis"
+Serviços de manutenção e reparação,28405530.0,17633439.0,8424790.0,408443.0,97591.0,2019,servicos de manutencao e reparacao
+Manutenção e reparação de veículos automotores,16276297.0,9729431.0,5189059.0,277567.0,66204.0,2019,manutencao e reparacao de veiculos automotores
+Manutenção e reparação de equipamentos de informática e comunicação,8261762.0,5226315.0,2016009.0,72659.0,16023.0,2019,manutencao e reparacao de equipamentos de informatica e comunicacao
+Manutenção e reparação de objetos pessoais e domésticos,3867471.0,2677693.0,1219722.0,58217.0,15364.0,2019,manutencao e reparacao de objetos pessoais e domesticos
+Outras atividades de serviços,134450502.0,91242401.0,21101503.0,520962.0,51135.0,2019,outras atividades de servicos
+"Serviços auxiliares da agricultura, pecuária e produção florestal",7826273.0,5372394.0,1854663.0,80776.0,9149.0,2019,"servicos auxiliares da agricultura, pecuaria e producao florestal"
+"Serviços auxiliares financeiros, dos seguros e da previdência complementar",98370911.0,68278031.0,12185888.0,190707.0,34386.0,2019,"servicos auxiliares financeiros, dos seguros e da previdencia complementar"
+"Esgoto, coleta, tratamento e disposição de resíduos e recuperação de materiais",28253318.0,17591976.0,7060952.0,249479.0,7600.0,2019,"esgoto, coleta, tratamento e disposicao de residuos e recuperacao de materiais"
+Total,1778856503.0,1045425972.0,372771933.0,12474496.0,1367871.0,2020,total
+Serviços prestados principalmente às famílias,163083282.0,80259590.0,44247968.0,2381347.0,357337.0,2020,servicos prestados principalmente as familias
+Serviços de alojamento,17686397.0,9097843.0,5888436.0,292659.0,27745.0,2020,servicos de alojamento
+Serviços de alimentação,106914081.0,45901886.0,26371711.0,1432205.0,185915.0,2020,servicos de alimentacao
+"Atividades culturais, recreativas e esportivas",10347636.0,6383086.0,2750202.0,165575.0,40222.0,2020,"atividades culturais, recreativas e esportivas"
+Serviços pessoais,12842356.0,8351790.0,3802517.0,212154.0,40416.0,2020,servicos pessoais
+Atividades de ensino continuado,15292812.0,10524985.0,5435102.0,278754.0,63039.0,2020,atividades de ensino continuado
+Serviços de informação e comunicação,388146943.0,210977614.0,65264809.0,1058166.0,112852.0,2020,servicos de informacao e comunicacao
+Telecomunicações,164992618.0,86213198.0,11508268.0,250634.0,12283.0,2020,telecomunicacoes
+Tecnologia da informação,170117334.0,100452926.0,43052135.0,621708.0,74421.0,2020,tecnologia da informacao
+Serviços audiovisuais,35998714.0,15525943.0,7234105.0,111547.0,14467.0,2020,servicos audiovisuais
+Edição e edição integrada à impressão,15170860.0,7492848.0,2996719.0,59923.0,7242.0,2020,edicao e edicao integrada a impressao
+Agências de notícias e outros serviços de informação,1867417.0,1292699.0,473582.0,14354.0,4439.0,2020,agencias de noticias e outros servicos de informacao
+"Serviços profissionais, administrativos e complementares",492582877.0,363971211.0,139528530.0,5436282.0,505029.0,2020,"servicos profissionais, administrativos e complementares"
+Serviços técnico-profissionais,201110592.0,146518934.0,46816063.0,1286332.0,275636.0,2020,servicos tecnico-profissionais
+Aluguéis não imobiliários e gestão de ativos intangíveis não financeiros,64751100.0,41796007.0,8581790.0,256841.0,33433.0,2020,alugueis nao imobiliarios e gestao de ativos intangiveis nao financeiros
+"Seleção, agenciamento e locação de mão de obra",27651689.0,24859304.0,14104871.0,742865.0,4568.0,2020,"selecao, agenciamento e locacao de mao de obra"
+"Agências de viagens, operadores turísticos e outros serviços de turismo",6503067.0,3268590.0,2095357.0,59705.0,12154.0,2020,"agencias de viagens, operadores turisticos e outros servicos de turismo"
+"Serviços de investigação, vigilância, segurança e transporte de valores",43485691.0,35474346.0,18365743.0,641664.0,8779.0,2020,"servicos de investigacao, vigilancia, seguranca e transporte de valores"
+Serviços para edifícios e atividades paisagísticas,47262516.0,39658340.0,20259498.0,1118307.0,23508.0,2020,servicos para edificios e atividades paisagisticas
+Serviços de escritório e apoio administrativo,55465653.0,41880675.0,19536152.0,942242.0,104177.0,2020,servicos de escritorio e apoio administrativo
+Outros serviços prestados principalmente às empresas,46352569.0,30515015.0,9769056.0,388326.0,42774.0,2020,outros servicos prestados principalmente as empresas
+"Transportes, serviços auxiliares aos transportes e correio",505016326.0,236313921.0,84468209.0,2425617.0,166817.0,2020,"transportes, servicos auxiliares aos transportes e correio"
+Transporte e serviços auxiliares aos transportes,480768453.0,220522848.0,77715300.0,2258737.0,160055.0,2020,transporte e servicos auxiliares aos transportes
+Transporte ferroviário e metroferroviário,20854490.0,12841533.0,4284370.0,57021.0,56.0,2020,transporte ferroviario e metroferroviario
+Transporte rodoviário,268858784.0,108928035.0,47337047.0,1672647.0,133542.0,2020,transporte rodoviario
+Transporte rodoviário de passageiros,51128565.0,28659841.0,15645023.0,571422.0,24241.0,2020,transporte rodoviario de passageiros
+Transporte rodoviário de cargas,217730219.0,80268194.0,31692024.0,1101225.0,109301.0,2020,transporte rodoviario de cargas
+Transporte dutoviário,19976950.0,15573335.0,1426575.0,6873.0,10.0,2020,transporte dutoviario
+Transporte aquaviário,28894060.0,13029900.0,3394701.0,36219.0,918.0,2020,transporte aquaviario
+Transporte aéreo,23262916.0,4710414.0,3978636.0,49801.0,247.0,2020,transporte aereo
+Armazenamento e atividades auxiliares aos transportes,118921253.0,65439631.0,17293971.0,436176.0,25282.0,2020,armazenamento e atividades auxiliares aos transportes
+Correio e outras atividades de entrega,24247873.0,15791073.0,6752909.0,166880.0,6762.0,2020,correio e outras atividades de entrega
+Atividades imobiliárias,45491928.0,35778824.0,5801284.0,251867.0,82835.0,2020,atividades imobiliarias
+"Compra, venda e aluguel de imóveis próprios",32381897.0,25591557.0,2413845.0,99828.0,47844.0,2020,"compra, venda e aluguel de imoveis proprios"
+"Intermediação na compra, venda e aluguel de imóveis",13110031.0,10187267.0,3387439.0,152039.0,34991.0,2020,"intermediacao na compra, venda e aluguel de imoveis"
+Serviços de manutenção e reparação,25782086.0,15470813.0,7790158.0,372605.0,87827.0,2020,servicos de manutencao e reparacao
+Manutenção e reparação de veículos automotores,14638826.0,8899706.0,4903904.0,255240.0,58971.0,2020,manutencao e reparacao de veiculos automotores
+Manutenção e reparação de equipamentos de informática e comunicação,7669413.0,4494499.0,1823558.0,65792.0,14603.0,2020,manutencao e reparacao de equipamentos de informatica e comunicacao
+Manutenção e reparação de objetos pessoais e domésticos,3473847.0,2076608.0,1062696.0,51573.0,14253.0,2020,manutencao e reparacao de objetos pessoais e domesticos
+Outras atividades de serviços,158753061.0,102653999.0,25670975.0,548612.0,55174.0,2020,outras atividades de servicos
+"Serviços auxiliares da agricultura, pecuária e produção florestal",9448196.0,6545331.0,1941961.0,81674.0,9059.0,2020,"servicos auxiliares da agricultura, pecuaria e producao florestal"
+"Serviços auxiliares financeiros, dos seguros e da previdência complementar",116571644.0,77335470.0,16383938.0,218884.0,38245.0,2020,"servicos auxiliares financeiros, dos seguros e da previdencia complementar"
+"Esgoto, coleta, tratamento e disposição de resíduos e recuperação de materiais",32733221.0,18773198.0,7345076.0,248054.0,7870.0,2020,"esgoto, coleta, tratamento e disposicao de residuos e recuperacao de materiais"
+Total,2147171897.0,1231310075.0,431885262.0,13432977.0,1493162.0,2021,total
+Serviços prestados principalmente às famílias,211190444.0,109599483.0,50987355.0,2614313.0,387121.0,2021,servicos prestados principalmente as familias
+Serviços de alojamento,28053161.0,15527157.0,6976145.0,334511.0,28904.0,2021,servicos de alojamento
+Serviços de alimentação,134367691.0,60812678.0,29417982.0,1552740.0,205096.0,2021,servicos de alimentacao
+"Atividades culturais, recreativas e esportivas",12397390.0,7879702.0,3220915.0,178260.0,40744.0,2021,"atividades culturais, recreativas e esportivas"
+Serviços pessoais,16828715.0,11174737.0,4810884.0,233044.0,48222.0,2021,servicos pessoais
+Atividades de ensino continuado,19543487.0,14205209.0,6561429.0,315758.0,64155.0,2021,atividades de ensino continuado
+Serviços de informação e comunicação,452832274.0,233019545.0,76316656.0,1191646.0,121882.0,2021,servicos de informacao e comunicacao
+Telecomunicações,176009536.0,86672487.0,12620688.0,276503.0,14161.0,2021,telecomunicacoes
+Tecnologia da informação,213781209.0,119520079.0,52091792.0,721930.0,77425.0,2021,tecnologia da informacao
+Serviços audiovisuais,44343142.0,17957039.0,7911438.0,117662.0,17167.0,2021,servicos audiovisuais
+Edição e edição integrada à impressão,16523203.0,7427160.0,3105587.0,59658.0,8894.0,2021,edicao e edicao integrada a impressao
+Agências de notícias e outros serviços de informação,2175184.0,1442780.0,587151.0,15893.0,4235.0,2021,agencias de noticias e outros servicos de informacao
+"Serviços profissionais, administrativos e complementares",577579087.0,427409675.0,163643161.0,5845761.0,560011.0,2021,"servicos profissionais, administrativos e complementares"
+Serviços técnico-profissionais,246645960.0,180501162.0,55257707.0,1441904.0,300169.0,2021,servicos tecnico-profissionais
+Aluguéis não imobiliários e gestão de ativos intangíveis não financeiros,77725035.0,50806433.0,9989289.0,293854.0,34336.0,2021,alugueis nao imobiliarios e gestao de ativos intangiveis nao financeiros
+"Seleção, agenciamento e locação de mão de obra",34008815.0,30488821.0,17481984.0,746381.0,4714.0,2021,"selecao, agenciamento e locacao de mao de obra"
+"Agências de viagens, operadores turísticos e outros serviços de turismo",7900048.0,3790647.0,2161223.0,61944.0,14608.0,2021,"agencias de viagens, operadores turisticos e outros servicos de turismo"
+"Serviços de investigação, vigilância, segurança e transporte de valores",44580384.0,37045547.0,19636600.0,673153.0,9730.0,2021,"servicos de investigacao, vigilancia, seguranca e transporte de valores"
+Serviços para edifícios e atividades paisagísticas,51835343.0,42987898.0,22544683.0,1158780.0,24918.0,2021,servicos para edificios e atividades paisagisticas
+Serviços de escritório e apoio administrativo,61505005.0,49668865.0,24657465.0,1027375.0,118929.0,2021,servicos de escritorio e apoio administrativo
+Outros serviços prestados principalmente às empresas,53378497.0,32120302.0,11914210.0,442370.0,52607.0,2021,outros servicos prestados principalmente as empresas
+"Transportes, serviços auxiliares aos transportes e correio",631448784.0,280997949.0,93876048.0,2475500.0,167017.0,2021,"transportes, servicos auxiliares aos transportes e correio"
+Transporte e serviços auxiliares aos transportes,596830786.0,261330553.0,85712708.0,2309055.0,161271.0,2021,transporte e servicos auxiliares aos transportes
+Transporte ferroviário e metroferroviário,25343909.0,17343073.0,4408558.0,57378.0,63.0,2021,transporte ferroviario e metroferroviario
+Transporte rodoviário,337824182.0,126739564.0,52068290.0,1680935.0,134336.0,2021,transporte rodoviario
+Transporte rodoviário de passageiros,59337245.0,33305695.0,16463519.0,558006.0,24934.0,2021,transporte rodoviario de passageiros
+Transporte rodoviário de cargas,278486937.0,93433869.0,35604771.0,1122929.0,109402.0,2021,transporte rodoviario de cargas
+Transporte dutoviário,23557109.0,19499589.0,1762847.0,6287.0,10.0,2021,transporte dutoviario
+Transporte aquaviário,33202517.0,14837495.0,4157831.0,41591.0,1003.0,2021,transporte aquaviario
+Transporte aéreo,32764269.0,5258986.0,4365555.0,53149.0,237.0,2021,transporte aereo
+Armazenamento e atividades auxiliares aos transportes,144138800.0,77651846.0,18949627.0,469715.0,25622.0,2021,armazenamento e atividades auxiliares aos transportes
+Correio e outras atividades de entrega,34617998.0,19667396.0,8163340.0,166445.0,5746.0,2021,correio e outras atividades de entrega
+Atividades imobiliárias,54139443.0,41188069.0,6869495.0,296993.0,97661.0,2021,atividades imobiliarias
+"Compra, venda e aluguel de imóveis próprios",39791886.0,31444231.0,2345430.0,104391.0,58013.0,2021,"compra, venda e aluguel de imoveis proprios"
+"Intermediação na compra, venda e aluguel de imóveis",14347557.0,9743838.0,4524065.0,192602.0,39648.0,2021,"intermediacao na compra, venda e aluguel de imoveis"
+Serviços de manutenção e reparação,30011454.0,18119357.0,9024011.0,404184.0,100731.0,2021,servicos de manutencao e reparacao
+Manutenção e reparação de veículos automotores,17685615.0,10571804.0,5856026.0,279069.0,69208.0,2021,manutencao e reparacao de veiculos automotores
+Manutenção e reparação de equipamentos de informática e comunicação,8658813.0,5274068.0,1949715.0,70111.0,16358.0,2021,manutencao e reparacao de equipamentos de informatica e comunicacao
+Manutenção e reparação de objetos pessoais e domésticos,3667026.0,2273485.0,1218270.0,55004.0,15165.0,2021,manutencao e reparacao de objetos pessoais e domesticos
+Outras atividades de serviços,189970411.0,120975997.0,31168536.0,604580.0,58739.0,2021,outras atividades de servicos
+"Serviços auxiliares da agricultura, pecuária e produção florestal",13540092.0,9132873.0,2403500.0,91149.0,9780.0,2021,"servicos auxiliares da agricultura, pecuaria e producao florestal"
+"Serviços auxiliares financeiros, dos seguros e da previdência complementar",138198449.0,90472097.0,20747679.0,249300.0,40358.0,2021,"servicos auxiliares financeiros, dos seguros e da previdencia complementar"
+"Esgoto, coleta, tratamento e disposição de resíduos e recuperação de materiais",38231870.0,21371027.0,8017357.0,264131.0,8601.0,2021,"esgoto, coleta, tratamento e disposicao de residuos e recuperacao de materiais"
+Total,2664326173.0,1525963291.0,517593279.0,14214597.0,1649674.0,2022,total
+Serviços prestados principalmente às famílias,290592401.0,152390319.0,63292090.0,2775383.0,397390.0,2022,servicos prestados principalmente as familias
+Serviços de alojamento,41053400.0,22599155.0,8890959.0,354245.0,30394.0,2022,servicos de alojamento
+Serviços de alimentação,186457996.0,89271174.0,36178010.0,1648191.0,204079.0,2022,servicos de alimentacao
+"Atividades culturais, recreativas e esportivas",19171421.0,11901571.0,4105067.0,194993.0,44276.0,2022,"atividades culturais, recreativas e esportivas"
+Serviços pessoais,21270857.0,13935233.0,6240612.0,243157.0,50191.0,2022,servicos pessoais
+Atividades de ensino continuado,22638727.0,14683186.0,7877442.0,334797.0,68450.0,2022,atividades de ensino continuado
+Serviços de informação e comunicação,525858318.0,282789392.0,95903147.0,1281154.0,146210.0,2022,servicos de informacao e comunicacao
+Telecomunicações,181394400.0,95289131.0,13910167.0,273157.0,15105.0,2022,telecomunicacoes
+Tecnologia da informação,275198053.0,157051644.0,69310099.0,804404.0,94941.0,2022,tecnologia da informacao
+Serviços audiovisuais,48621834.0,20096391.0,8606868.0,124027.0,21249.0,2022,servicos audiovisuais
+Edição e edição integrada à impressão,18083125.0,8476615.0,3377121.0,62496.0,9679.0,2022,edicao e edicao integrada a impressao
+Agências de notícias e outros serviços de informação,2560906.0,1875611.0,698892.0,17070.0,5236.0,2022,agencias de noticias e outros servicos de informacao
+"Serviços profissionais, administrativos e complementares",731380395.0,537588864.0,193697697.0,6220085.0,651557.0,2022,"servicos profissionais, administrativos e complementares"
+Serviços técnico-profissionais,315785526.0,230077372.0,67383815.0,1604334.0,353499.0,2022,servicos tecnico-profissionais
+Aluguéis não imobiliários e gestão de ativos intangíveis não financeiros,104561953.0,67929822.0,12603950.0,332122.0,38095.0,2022,alugueis nao imobiliarios e gestao de ativos intangiveis nao financeiros
+"Seleção, agenciamento e locação de mão de obra",41019981.0,35601661.0,20441469.0,848426.0,5146.0,2022,"selecao, agenciamento e locacao de mao de obra"
+"Agências de viagens, operadores turísticos e outros serviços de turismo",11938623.0,6146748.0,2673557.0,71868.0,15545.0,2022,"agencias de viagens, operadores turisticos e outros servicos de turismo"
+"Serviços de investigação, vigilância, segurança e transporte de valores",49859509.0,40953607.0,21277694.0,651948.0,10164.0,2022,"servicos de investigacao, vigilancia, seguranca e transporte de valores"
+Serviços para edifícios e atividades paisagísticas,59993936.0,49569983.0,25443391.0,1170709.0,28852.0,2022,servicos para edificios e atividades paisagisticas
+Serviços de escritório e apoio administrativo,80900602.0,63130573.0,28690581.0,1088338.0,145774.0,2022,servicos de escritorio e apoio administrativo
+Outros serviços prestados principalmente às empresas,67320265.0,44179098.0,15183240.0,452340.0,54482.0,2022,outros servicos prestados principalmente as empresas
+"Transportes, serviços auxiliares aos transportes e correio",791736186.0,341666789.0,110113051.0,2573278.0,165792.0,2022,"transportes, servicos auxiliares aos transportes e correio"
+Transporte e serviços auxiliares aos transportes,754471326.0,323155862.0,100910465.0,2402473.0,159274.0,2022,transporte e servicos auxiliares aos transportes
+Transporte ferroviário e metroferroviário,30414520.0,18950876.0,4978272.0,58084.0,60.0,2022,transporte ferroviario e metroferroviario
+Transporte rodoviário,425131966.0,153209149.0,62064527.0,1759961.0,129655.0,2022,transporte rodoviario
+Transporte rodoviário de passageiros,79536669.0,40239233.0,19307679.0,562153.0,25196.0,2022,transporte rodoviario de passageiros
+Transporte rodoviário de cargas,345595297.0,112969916.0,42756848.0,1197808.0,104459.0,2022,transporte rodoviario de cargas
+Transporte dutoviário,27598984.0,21220243.0,1768129.0,6056.0,11.0,2022,transporte dutoviario
+Transporte aquaviário,39759156.0,17849193.0,4660486.0,42159.0,1236.0,2022,transporte aquaviario
+Transporte aéreo,56661438.0,13599623.0,5513132.0,57211.0,256.0,2022,transporte aereo
+Armazenamento e atividades auxiliares aos transportes,174905262.0,98326778.0,21925919.0,479002.0,28056.0,2022,armazenamento e atividades auxiliares aos transportes
+Correio e outras atividades de entrega,37264860.0,18510927.0,9202586.0,170805.0,6518.0,2022,correio e outras atividades de entrega
+Atividades imobiliárias,68285642.0,51356198.0,7998119.0,320169.0,120900.0,2022,atividades imobiliarias
+"Compra, venda e aluguel de imóveis próprios",49527596.0,38070085.0,2762423.0,128086.0,67695.0,2022,"compra, venda e aluguel de imoveis proprios"
+"Intermediação na compra, venda e aluguel de imóveis",18758046.0,13286113.0,5235696.0,192083.0,53205.0,2022,"intermediacao na compra, venda e aluguel de imoveis"
+Serviços de manutenção e reparação,34658512.0,19648419.0,9662312.0,398410.0,100142.0,2022,servicos de manutencao e reparacao
+Manutenção e reparação de veículos automotores,20264282.0,11108946.0,6192822.0,269746.0,67142.0,2022,manutencao e reparacao de veiculos automotores
+Manutenção e reparação de equipamentos de informática e comunicação,10009358.0,5866526.0,2160991.0,70753.0,16691.0,2022,manutencao e reparacao de equipamentos de informatica e comunicacao
+Manutenção e reparação de objetos pessoais e domésticos,4384872.0,2672947.0,1308499.0,57911.0,16309.0,2022,manutencao e reparacao de objetos pessoais e domesticos
+Outras atividades de serviços,221814719.0,140523310.0,36926863.0,646118.0,67683.0,2022,outras atividades de servicos
+"Serviços auxiliares da agricultura, pecuária e produção florestal",17829230.0,11262698.0,3137311.0,103615.0,11470.0,2022,"servicos auxiliares da agricultura, pecuaria e producao florestal"
+"Serviços auxiliares financeiros, dos seguros e da previdência complementar",157845537.0,103907723.0,24655463.0,267337.0,47055.0,2022,"servicos auxiliares financeiros, dos seguros e da previdencia complementar"
+"Esgoto, coleta, tratamento e disposição de resíduos e recuperação de materiais",46139952.0,25352889.0,9134089.0,275166.0,9158.0,2022,"esgoto, coleta, tratamento e disposicao de residuos e recuperacao de materiais"
+Total,3195097558.0,1857343370.0,592478591.0,15229633.0,1740008.0,2023,total
+Serviços prestados principalmente às famílias,366692019.0,197342981.0,75180891.0,3014125.0,446291.0,2023,servicos prestados principalmente as familias
+Serviços de alojamento,51869296.0,30200284.0,10611968.0,375272.0,30039.0,2023,servicos de alojamento
+Serviços de alimentação,232708006.0,116108096.0,44114824.0,1788328.0,220791.0,2023,servicos de alimentacao
+"Atividades culturais, recreativas e esportivas",27742936.0,17431768.0,5019684.0,226691.0,51968.0,2023,"atividades culturais, recreativas e esportivas"
+Serviços pessoais,25900591.0,16938611.0,6500907.0,253566.0,57320.0,2023,servicos pessoais
+Atividades de ensino continuado,28471190.0,16664222.0,8933508.0,370268.0,86173.0,2023,atividades de ensino continuado
+Serviços de informação e comunicação,633578654.0,345754136.0,105641813.0,1325847.0,156569.0,2023,servicos de informacao e comunicacao
+Telecomunicações,197657257.0,107756456.0,15304375.0,282304.0,17219.0,2023,telecomunicacoes
+Tecnologia da informação,357028037.0,199406543.0,77378765.0,842800.0,99473.0,2023,tecnologia da informacao
+Serviços audiovisuais,55459641.0,26425243.0,8685104.0,120550.0,23672.0,2023,servicos audiovisuais
+Edição e edição integrada à impressão,19906417.0,9675571.0,3462854.0,61509.0,10364.0,2023,edicao e edicao integrada a impressao
+Agências de notícias e outros serviços de informação,3527302.0,2490323.0,810715.0,18684.0,5841.0,2023,agencias de noticias e outros servicos de informacao
+"Serviços profissionais, administrativos e complementares",932387961.0,682212259.0,220901720.0,6720867.0,681073.0,2023,"servicos profissionais, administrativos e complementares"
+Serviços técnico-profissionais,401661220.0,288604186.0,76236217.0,1712516.0,366893.0,2023,servicos tecnico-profissionais
+Aluguéis não imobiliários e gestão de ativos intangíveis não financeiros,139405248.0,92840299.0,14972422.0,367644.0,39342.0,2023,alugueis nao imobiliarios e gestao de ativos intangiveis nao financeiros
+"Seleção, agenciamento e locação de mão de obra",53271918.0,46887807.0,25037072.0,949972.0,5953.0,2023,"selecao, agenciamento e locacao de mao de obra"
+"Agências de viagens, operadores turísticos e outros serviços de turismo",17262587.0,8326589.0,3123367.0,81391.0,18665.0,2023,"agencias de viagens, operadores turisticos e outros servicos de turismo"
+"Serviços de investigação, vigilância, segurança e transporte de valores",59710014.0,50410276.0,23679593.0,705541.0,10364.0,2023,"servicos de investigacao, vigilancia, seguranca e transporte de valores"
+Serviços para edifícios e atividades paisagísticas,76138159.0,62989909.0,28379491.0,1234942.0,30337.0,2023,servicos para edificios e atividades paisagisticas
+Serviços de escritório e apoio administrativo,108157788.0,80945821.0,32827721.0,1185155.0,153552.0,2023,servicos de escritorio e apoio administrativo
+Outros serviços prestados principalmente às empresas,76781027.0,51207372.0,16645837.0,483706.0,55967.0,2023,outros servicos prestados principalmente as empresas
+"Transportes, serviços auxiliares aos transportes e correio",897730350.0,396114721.0,127793590.0,2678395.0,173124.0,2023,"transportes, servicos auxiliares aos transportes e correio"
+Transporte e serviços auxiliares aos transportes,860040616.0,375729797.0,117216663.0,2502918.0,165859.0,2023,transporte e servicos auxiliares aos transportes
+Transporte ferroviário e metroferroviário,40988061.0,23570287.0,5436655.0,58080.0,69.0,2023,transporte ferroviario e metroferroviario
+Transporte rodoviário,488144517.0,193202701.0,72931490.0,1833097.0,136735.0,2023,transporte rodoviario
+Transporte rodoviário de passageiros,92046032.0,48849485.0,22183748.0,584932.0,25034.0,2023,transporte rodoviario de passageiros
+Transporte rodoviário de cargas,396098485.0,144353216.0,50747742.0,1248165.0,111701.0,2023,transporte rodoviario de cargas
+Transporte dutoviário,29304703.0,21510674.0,2228247.0,6174.0,12.0,2023,transporte dutoviario
+Transporte aquaviário,47292012.0,18785379.0,5333815.0,44369.0,1122.0,2023,transporte aquaviario
+Transporte aéreo,68189419.0,21763105.0,6359425.0,58766.0,280.0,2023,transporte aereo
+Armazenamento e atividades auxiliares aos transportes,186121904.0,96897651.0,24927031.0,502432.0,27641.0,2023,armazenamento e atividades auxiliares aos transportes
+Correio e outras atividades de entrega,37689734.0,20384924.0,10576927.0,175477.0,7265.0,2023,correio e outras atividades de entrega
+Atividades imobiliárias,81908255.0,64640835.0,9108107.0,363740.0,111785.0,2023,atividades imobiliarias
+"Compra, venda e aluguel de imóveis próprios",58620591.0,47876532.0,3094797.0,141830.0,55886.0,2023,"compra, venda e aluguel de imoveis proprios"
+"Intermediação na compra, venda e aluguel de imóveis",23287664.0,16764303.0,6013310.0,221910.0,55899.0,2023,"intermediacao na compra, venda e aluguel de imoveis"
+Serviços de manutenção e reparação,40114092.0,22656760.0,11267410.0,434650.0,99859.0,2023,servicos de manutencao e reparacao
+Manutenção e reparação de veículos automotores,25766649.0,14256079.0,7642088.0,312788.0,73952.0,2023,manutencao e reparacao de veiculos automotores
+Manutenção e reparação de equipamentos de informática e comunicação,9477352.0,5424138.0,2095628.0,60879.0,11631.0,2023,manutencao e reparacao de equipamentos de informatica e comunicacao
+Manutenção e reparação de objetos pessoais e domésticos,4870091.0,2976543.0,1529694.0,60983.0,14276.0,2023,manutencao e reparacao de objetos pessoais e domesticos
+Outras atividades de serviços,242686227.0,148621678.0,42585060.0,692009.0,71307.0,2023,outras atividades de servicos
+"Serviços auxiliares da agricultura, pecuária e produção florestal",22189217.0,12099175.0,3561652.0,109366.0,10805.0,2023,"servicos auxiliares da agricultura, pecuaria e producao florestal"
+"Serviços auxiliares financeiros, dos seguros e da previdência complementar",168944987.0,107899897.0,28572148.0,290066.0,49901.0,2023,"servicos auxiliares financeiros, dos seguros e da previdencia complementar"
+"Esgoto, coleta, tratamento e disposição de resíduos e recuperação de materiais",51552023.0,28622606.0,10451260.0,292577.0,10601.0,2023,"esgoto, coleta, tratamento e disposicao de residuos e recuperacao de materiais"
