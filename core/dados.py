@@ -130,3 +130,58 @@ def entrada_saida() -> pd.DataFrame | None:
     out["taxa_saida"] = out["baixas"] / out["estoque"].shift()
     out["entrada_liquida"] = out["aberturas"] - out["baixas"]
     return out
+
+
+# Divisões que não são mercados competitivos (administração pública, associações e sindicatos,
+# organismos internacionais)
+FORA_DO_INDICE = {"84", "94", "99"}
+COMPONENTES = {
+    "fragmentacao": "Fragmentação (empresas pequenas)",
+    "taxa_entrada": "Entrada de novas empresas",
+    "taxa_saida": "Saída de empresas",
+    "crescimento_empresas": "Crescimento do nº de empresas",
+}
+
+
+@st.cache_data
+def setores() -> pd.DataFrame | None:
+    """Indicadores estruturais de rivalidade para cada divisão CNAE (2 dígitos).
+
+    Junta o CEMPRE (porte e evolução do número de empresas) com o CNPJ (aberturas e baixas)
+    e calcula um índice de pressão competitiva: a média dos percentis de quatro componentes,
+    em que valores maiores indicam mais rivalidade.
+    """
+    cem = carregar("cempre_divisoes")
+    cnpj = carregar("cnpj_divisoes")
+    if cem is None or cnpj is None:
+        return None
+    cem = cem.assign(codigo=cem["codigo"].astype(str))
+    cem = cem[cem["codigo"].str.fullmatch(r"\d{2}")]
+    ult = cem[cem["ano"] == cem["ano"].max()].set_index("codigo")
+    base = cem[cem["ano"] == 2022].set_index("codigo")  # 1º ano da série nova do CEMPRE
+
+    cnpj = cnpj.assign(codigo=cnpj["divisao"].astype(str).str.zfill(2))
+    janela = cnpj[cnpj["ano"].between(2019, 2025)].groupby("codigo")[["aberturas", "encerramentos"]].sum() / 7
+    ativas = cnpj.groupby("codigo")["ativas_hoje"].first()
+
+    df = pd.DataFrame({
+        "nome": ult["nome"],
+        "empresas": ult["empresas"],
+        "pessoal_ocupado": ult["pessoal_ocupado"],
+        "pessoas_por_empresa": ult["pessoal_ocupado"] / ult["empresas"],
+        "crescimento_empresas": ult["empresas"] / base["empresas"] - 1,
+        "ativas_cnpj": ativas,
+        "aberturas_ano": janela["aberturas"],
+        "baixas_ano": janela["encerramentos"],
+    }).dropna(subset=["nome", "ativas_cnpj"])
+    df["taxa_entrada"] = df["aberturas_ano"] / df["ativas_cnpj"]
+    df["taxa_saida"] = df["baixas_ano"] / df["ativas_cnpj"]
+    df["fragmentacao"] = -df["pessoas_por_empresa"]
+
+    elegivel = (df["ativas_cnpj"] >= 1000) & ~df.index.isin(FORA_DO_INDICE)
+    for col in COMPONENTES:
+        df.loc[elegivel, f"pct_{col}"] = df.loc[elegivel, col].rank(pct=True)
+    df["indice_rivalidade"] = df[[f"pct_{c}" for c in COMPONENTES]].mean(axis=1) * 100
+    df["posicao"] = df["indice_rivalidade"].rank(ascending=False, method="min")
+    df["rotulo"] = df.index + " – " + df["nome"]
+    return df.reset_index(names="codigo")

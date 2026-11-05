@@ -1,6 +1,6 @@
 import streamlit as st
 
-from core.dados import cnpj79, cvc, entrada_saida, pas_agencias
+from core.dados import cnpj79, cvc, entrada_saida, pas_agencias, setores
 from core.graficos import num, pct
 from core.ui import cabecalho, citar, legenda
 
@@ -12,6 +12,8 @@ base = cnpj79()
 ativas = base[base["ativa"]]
 es = entrada_saida().set_index("ano")
 taxa_media = es.loc[2016:2025, "taxa_entrada"].mean()
+idx = setores().dropna(subset=["indice_rivalidade"])
+ag79 = idx[idx["codigo"] == "79"].iloc[0]
 
 st.success("**Diagnóstico: rivalidade ALTA e crescente.** O setor tem muitos concorrentes pequenos, "
            "barreiras de entrada baixas, uma líder perdendo espaço e margens sendo comprimidas.", icon="🎯")
@@ -25,6 +27,7 @@ st.markdown(f"""
 | **Barreiras de entrada** | Cerca de {pct(taxa_media)} de novas empresas por ano em relação ao estoque (2016-2025), acima da mediana dos setores. Mais da metade dos entrantes recentes é MEI. | Entrar é barato e fácil |
 | **Crescimento do mercado** | A receita real caiu à metade em 2020 e só superou o nível de 2019 em 2023. | Disputa por uma demanda que ficou anos parada |
 | **Preços e margens** | O valor adicionado caiu de {pct(ag.loc[2019, 'va_sobre_receita'])} para {pct(ag['va_sobre_receita'].iloc[-1])} da receita entre 2019 e {ag.index[-1]}. A CVC teve prejuízo de 2019 a 2025. | Pressão forte sobre comissões e rentabilidade |
+| **Comparação com a economia** | No índice de pressão competitiva, as agências ficam em {int(ag79.posicao)}º de {len(idx)} setores ({ag79.indice_rivalidade:.0f}/100). | Entre os setores mais disputados do país |
 | **Diferenciação** | O produto (passagem, hotel, pacote) é o mesmo em qualquer canal, e o cliente compara preços online em segundos. | Baixo custo de troca para o cliente |
 """)
 
