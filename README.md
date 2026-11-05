@@ -2,7 +2,7 @@
 
 Portal interativo de análise da rivalidade entre agências de viagem e operadoras turísticas no Brasil.
 
-**AP1 – Estratégia Empresarial · Prof. Paulo Tostes · Ibmec**
+**AP2 – Estratégia Empresarial · Prof. Paulo Tostes · Ibmec**
 Autor: Caio Araujo da Luz
 
 ## Estrutura

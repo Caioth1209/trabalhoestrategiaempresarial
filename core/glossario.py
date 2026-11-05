@@ -1,7 +1,7 @@
 """Significado das siglas e termos técnicos usados no portal."""
 
 SIGLAS = {
-    "AP1": "Avaliação Parcial 1, trabalho da disciplina.",
+    "AP2": "Avaliação Parcial 2, trabalho da disciplina.",
     "B3": "Brasil, Bolsa, Balcão: a bolsa de valores brasileira.",
     "CEMPRE": "Cadastro Central de Empresas, do IBGE: conta todas as empresas formais e seus empregados.",
     "CNAE": "Classificação Nacional de Atividades Econômicas: código oficial que diz o ramo de cada empresa. "
