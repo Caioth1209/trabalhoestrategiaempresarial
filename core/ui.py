@@ -42,5 +42,5 @@ def barra_lateral() -> None:
     with st.sidebar:
         st.markdown(
             f"**Rivalidade no setor de Agências de Viagem (CNAE 79)**\n\n"
-            f"{AUTOR}  \n{DISCIPLINA} · {PROFESSOR}  \n{INSTITUICAO} · AP1"
+            f"{AUTOR}  \n{DISCIPLINA} · {PROFESSOR}  \n{INSTITUICAO} · AP2"
         )
