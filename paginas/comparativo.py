@@ -3,8 +3,8 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-from core.dados import carregar, pas
-from core.graficos import CONTEXTO, DESTAQUE, pct
+from core.dados import carregar, pas, pms_turismo
+from core.graficos import CONTEXTO, CORES, DESTAQUE, marcar_eventos, pct
 from core.ui import cabecalho, citar, legenda
 
 cabecalho("Comparativo setorial", "Como as agências de viagem se comparam com outros serviços")
@@ -63,6 +63,34 @@ with tab3:
     st.caption(f"Agências de viagens ficam em {pos}º de {n}. Empresas pequenas e numerosas são sinal de "
                "barreiras de entrada baixas.")
 
+st.subheader("Turismo frente ao conjunto da economia de serviços")
+tur = pms_turismo()
+tur = tur[tur["ajuste"] == "sem ajuste"].set_index("data")["volume"]
+srv = carregar("pms_atividades")
+srv = srv[srv["atividade"] == "Total"].assign(data=lambda d: pd.to_datetime(d["data"])).set_index("data")["indice_volume"]
+series = pd.DataFrame({"Atividades turísticas": tur, "Todos os serviços": srv}).dropna()
+media12 = series.rolling(12).mean().dropna()
+fig = go.Figure()
+for nome, cor in [("Atividades turísticas", DESTAQUE), ("Todos os serviços", CORES[1])]:
+    fig.add_scatter(x=media12.index, y=media12[nome], name=nome, line_color=cor, hovertemplate="%{y:.1f}")
+fig.update_layout(height=380, yaxis_title="Volume (2022 = 100, média de 12 meses)")
+st.plotly_chart(marcar_eventos(fig), use_container_width=True)
+
+pre = series.loc["2019"].mean()
+fundo = series.loc["2020":"2021"].min() / pre - 1
+hoje = series.iloc[-12:].mean() / pre - 1
+c1, c2 = st.columns(2)
+c1.metric("Pior mês da pandemia vs. média de 2019 – turismo", pct(fundo["Atividades turísticas"]))
+c1.caption(f"Todos os serviços: {pct(fundo['Todos os serviços'])}")
+c2.metric("Últimos 12 meses vs. média de 2019 – turismo", pct(hoje["Atividades turísticas"]))
+c2.caption(f"Todos os serviços: {pct(hoje['Todos os serviços'])}")
+cresceu_menos = hoje["Atividades turísticas"] < hoje["Todos os serviços"]
+st.caption("Índices de volume da PMS/IBGE (sem ajuste sazonal; a linha usa a média móvel de 12 meses). "
+           "O turismo sofre choques muito mais fortes que o resto da economia"
+           + (", e mesmo depois da recuperação cresceu menos que o conjunto dos serviços desde 2019. "
+              "As agências disputam um mercado que cresceu menos que o resto, o que acirra a rivalidade."
+              if cresceu_menos else ", o que deixa as empresas do setor mais expostas nas crises."))
+
 div = carregar("cnpj_divisoes")
 if div is not None:
     st.subheader("Entrada de novas empresas: CNAE 79 versus todas as divisões")
@@ -87,5 +115,5 @@ if div is not None:
                f"{pct(a79.taxa_entrada_anual)} ao ano, contra mediana de {pct(ult.taxa_entrada_anual.median())} "
                "entre as divisões.")
 
-citar("pas", "ipca", "cnpj")
-legenda('PAS', 'IPCA', 'CNAE', 'CNPJ')
+citar("pas", "pms", "ipca", "cnpj")
+legenda('PAS', 'PMS', 'IPCA', 'CNAE', 'CNPJ')

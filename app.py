@@ -30,6 +30,7 @@ paginas = {
         st.Page("paginas/comparativo.py", title="Comparativo setorial", icon="⚖️"),
     ],
     "Ferramentas": [
+        st.Page("paginas/setores.py", title="Rivalidade por setor", icon="🗺️"),
         st.Page("paginas/explorador.py", title="Explorador", icon="🎛️"),
         st.Page("paginas/avancada.py", title="Análise avançada", icon="🧪"),
     ],
