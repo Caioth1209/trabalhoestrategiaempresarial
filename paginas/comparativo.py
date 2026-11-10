@@ -3,7 +3,7 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-from core.dados import carregar, pas, pms_turismo
+from core.dados import carregar, pas, pms_turismo, setores
 from core.graficos import CONTEXTO, CORES, DESTAQUE, marcar_eventos, pct
 from core.ui import cabecalho, citar, legenda
 
@@ -59,7 +59,7 @@ with tab2:
     st.caption(f"Agências de viagens ficam em {pos}º de {n}. Quanto menor, menos valor fica com a empresa "
                "a cada real vendido.")
 with tab3:
-    pos, n = ranking("pessoas_por_empresa", f"Pessoal ocupado por empresa, {ano_fim}", ".1f")
+    pos, n = ranking("pessoas_por_empresa", f"Pessoal ocupado por empresa (PAS), {ano_fim}", ".1f")
     st.caption(f"Agências de viagens ficam em {pos}º de {n}. Empresas pequenas e numerosas são sinal de "
                "barreiras de entrada baixas.")
 
@@ -91,29 +91,24 @@ st.caption("Índices de volume da PMS/IBGE (sem ajuste sazonal; a linha usa a m�
               "As agências disputam um mercado que cresceu menos que o resto, o que acirra a rivalidade."
               if cresceu_menos else ", o que deixa as empresas do setor mais expostas nas crises."))
 
-div = carregar("cnpj_divisoes")
+div = setores()
 if div is not None:
     st.subheader("Entrada de novas empresas: CNAE 79 versus todas as divisões")
-    ult = div[div["ano"].between(2019, 2025)].groupby("divisao")[["aberturas", "encerramentos"]].sum()
-    ult = ult.join(div.groupby("divisao")["ativas_hoje"].first())
-    ult = ult[ult["ativas_hoje"] >= 1000]
-    ult["taxa_entrada_anual"] = ult["aberturas"] / 7 / ult["ativas_hoje"]
-    ult["taxa_saida_anual"] = ult["encerramentos"] / 7 / ult["ativas_hoje"]
-    ult = ult.reset_index()
-    ult["divisao"] = ult["divisao"].astype(str).str.zfill(2)
-    ult["destaque"] = ult["divisao"] == "79"
-    fig = px.scatter(ult, x="taxa_entrada_anual", y="taxa_saida_anual", hover_name="divisao",
+    ult = div.dropna(subset=["indice_rivalidade"]).copy()
+    ult["destaque"] = ult["codigo"] == "79"
+    fig = px.scatter(ult, x="taxa_entrada", y="taxa_saida", hover_name="rotulo",
                      color="destaque", color_discrete_map={True: DESTAQUE, False: CONTEXTO},
-                     labels={"taxa_entrada_anual": "Aberturas por ano ÷ empresas ativas",
-                             "taxa_saida_anual": "Baixas por ano ÷ empresas ativas"})
+                     labels={"taxa_entrada": "Aberturas por ano ÷ empresas ativas",
+                             "taxa_saida": "Baixas por ano ÷ empresas ativas"})
     fig.update_traces(marker_size=9)
     fig.update_layout(height=440, showlegend=False, xaxis_tickformat=".0%", yaxis_tickformat=".0%",
                       hovermode="closest")
     st.plotly_chart(fig, use_container_width=True)
     a79 = ult[ult["destaque"]].iloc[0]
     st.caption(f"Cada ponto é uma divisão CNAE (média 2019-2025). A CNAE 79, em azul, tem taxa de entrada de "
-               f"{pct(a79.taxa_entrada_anual)} ao ano, contra mediana de {pct(ult.taxa_entrada_anual.median())} "
-               "entre as divisões.")
+               f"{pct(a79.taxa_entrada)} ao ano, contra mediana de {pct(ult.taxa_entrada.median())} "
+               "entre as divisões. Para comparar setores, a base é o número de empresas ativas hoje; "
+               "por isso o valor difere da taxa da página Entrada e saída, que reconstrói o estoque ano a ano.")
 
 citar("pas", "pms", "ipca", "cnpj")
 legenda('PAS', 'PMS', 'IPCA', 'CNAE', 'CNPJ')

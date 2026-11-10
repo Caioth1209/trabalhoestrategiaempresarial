@@ -69,13 +69,16 @@ st.subheader("Indicadores")
 tabela = pd.DataFrame({
     "Setor": sel["rotulo"],
     "Empresas (CEMPRE 2024)": sel["empresas"].map(num),
-    "Pessoas por empresa": sel["pessoas_por_empresa"].map(lambda v: num(v, 1)),
+    "Pessoas por empresa (CEMPRE)": sel["pessoas_por_empresa"].map(lambda v: num(v, 1)),
     "Crescimento das empresas 2022-24": sel["crescimento_empresas"].map(pct),
     "Entrada anual (2019-25)": sel["taxa_entrada"].map(pct),
     "Saída anual (2019-25)": sel["taxa_saida"].map(pct),
     "Índice": sel["indice_rivalidade"].map(lambda v: f"{v:.0f}"),
 })
 st.dataframe(tabela, hide_index=True, use_container_width=True)
+st.caption("Pessoas por empresa vêm do CEMPRE, que existe para todos os setores e inclui as empresas sem "
+           "receita no ano. Por isso, para as agências, o valor (3,2) é menor que o da PAS (4,4) usado no "
+           "Comparativo, que só conta empresas de serviços com receita.")
 
 st.subheader("Evolução")
 c1, c2 = st.columns(2)

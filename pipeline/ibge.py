@@ -9,7 +9,6 @@ Gera em data/processed:
 Uso: python -m pipeline.ibge
 """
 
-import re
 import time
 from pathlib import Path
 

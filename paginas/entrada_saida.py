@@ -24,7 +24,9 @@ c1.metric("Empresas ativas hoje", num(base["ativa"].sum()))
 c2.metric("Aberturas em 2025", num(ult.aberturas))
 c3.metric("Baixas em 2025", num(ult.baixas))
 c4.metric("Entrada média 2016-25", pct(media_10["taxa_entrada"].mean()),
-          help="Aberturas no ano ÷ estoque de empresas no fim do ano anterior.")
+          help="Aberturas no ano ÷ estoque de empresas no fim do ano anterior, reconstruído ano a ano. "
+               "No Comparativo e em Rivalidade por setor a base é o número de empresas ativas hoje, "
+               "para comparar setores entre si, por isso o valor ali é um pouco diferente.")
 
 st.subheader("Aberturas e baixas por ano")
 fig = go.Figure()

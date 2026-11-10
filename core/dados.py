@@ -102,7 +102,7 @@ def cnpj79() -> pd.DataFrame | None:
     emp = carregar("cnpj_empresas_79")
     if emp is not None:
         emp = emp.drop_duplicates("cnpj_basico")
-        df = df.merge(emp[["cnpj_basico", "razao_social", "porte", "capital_social"]], on="cnpj_basico", how="left")
+        df = df.merge(emp[["cnpj_basico", "porte"]], on="cnpj_basico", how="left")
         df["porte_nome"] = df["porte"].map(PORTES).fillna("Não informado")
     simples = carregar("cnpj_simples_79")
     if simples is not None:

@@ -2,7 +2,7 @@
 
 Gera em data/processed:
 - cnpj_estab_79.parquet : estabelecimentos com CNAE principal da divisão 79
-- cnpj_empresas_79.parquet : porte, capital social e razão social dessas empresas
+- cnpj_empresas_79.parquet : porte e natureza jurídica dessas empresas
 - cnpj_simples_79.parquet : opção pelo Simples/MEI dessas empresas
 - cnpj_divisoes.csv : aberturas/encerramentos/ativos por divisão CNAE (2 dígitos) e ano,
   usado no comparativo com outros setores
@@ -31,8 +31,9 @@ COLS_ESTAB = {
     5: "situacao", 6: "data_situacao", 7: "motivo_situacao",
     10: "data_inicio", 11: "cnae", 19: "uf", 20: "municipio",
 }
-COLS_EMPRESA = {0: "cnpj_basico", 1: "razao_social", 2: "natureza_juridica",
-                4: "capital_social", 5: "porte"}
+# Razão social e capital social ficam de fora: o portal não usa, e a razão social de um MEI
+# é o nome do dono seguido do CPF, que não deve ir para um repositório público.
+COLS_EMPRESA = {0: "cnpj_basico", 2: "natureza_juridica", 5: "porte"}
 COLS_SIMPLES = {0: "cnpj_basico", 1: "opcao_simples", 2: "data_opcao_simples",
                 3: "data_exclusao_simples", 4: "opcao_mei", 5: "data_opcao_mei",
                 6: "data_exclusao_mei"}
@@ -126,7 +127,6 @@ def main(mes: str):
             print(f"processado {caminho.name}", flush=True)
 
     emp = pd.concat(empresas, ignore_index=True)
-    emp["capital_social"] = pd.to_numeric(emp["capital_social"].str.replace(",", "."), errors="coerce")
     emp.to_parquet(OUT / "cnpj_empresas_79.parquet", index=False)
     pd.concat(simples, ignore_index=True).to_parquet(OUT / "cnpj_simples_79.parquet", index=False)
     print("concluído", flush=True)

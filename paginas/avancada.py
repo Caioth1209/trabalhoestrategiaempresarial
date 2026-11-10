@@ -8,7 +8,7 @@ from statsmodels.tsa.holtwinters import ExponentialSmoothing
 from statsmodels.tsa.seasonal import STL
 
 from core.dados import cvc, entrada_saida, pas, pas_agencias, pms_turismo
-from core.graficos import CONTEXTO, CORES, DESTAQUE, marcar_eventos
+from core.graficos import CONTEXTO, CORES, marcar_eventos
 from core.ui import cabecalho, citar, legenda
 
 cabecalho("Análise avançada", "Tendências, sazonalidade, projeções e relações entre indicadores")

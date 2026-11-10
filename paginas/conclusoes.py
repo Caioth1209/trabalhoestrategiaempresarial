@@ -1,6 +1,6 @@
 import streamlit as st
 
-from core.dados import cnpj79, cvc, entrada_saida, pas_agencias, setores
+from core.dados import cnpj79, cvc, pas_agencias, setores
 from core.graficos import num, pct
 from core.ui import cabecalho, citar, legenda
 
@@ -10,8 +10,6 @@ ag = pas_agencias().set_index("ano")
 c = cvc().dropna(subset=["participacao"]).set_index("ano")
 base = cnpj79()
 ativas = base[base["ativa"]]
-es = entrada_saida().set_index("ano")
-taxa_media = es.loc[2016:2025, "taxa_entrada"].mean()
 idx = setores().dropna(subset=["indice_rivalidade"])
 ag79 = idx[idx["codigo"] == "79"].iloc[0]
 
@@ -23,8 +21,8 @@ st.markdown(f"""
 | Fator de rivalidade | O que os dados mostram | Leitura |
 |---|---|---|
 | **Concentração** | A líder (CVC) tem {pct(c['participacao'].iloc[-1])} da receita do setor em {c.index[-1]}, abaixo do pico de {pct(c['participacao'].max())} em {c['participacao'].idxmax()}. O HHI é muito baixo. | Mercado fragmentado e sem líder dominante |
-| **Número e porte dos concorrentes** | {num(len(ativas))} empresas ativas, das quais {pct(ativas['porte'].eq('01').mean())} são microempresas e {pct(ativas['mei'].mean())} são MEI. Média de {num(ag['pessoas_por_empresa'].iloc[-1], 1)} pessoas por empresa. | Muitos concorrentes de tamanho parecido |
-| **Barreiras de entrada** | Cerca de {pct(taxa_media)} de novas empresas por ano em relação ao estoque (2016-2025), acima da mediana dos setores. Mais da metade dos entrantes recentes é MEI. | Entrar é barato e fácil |
+| **Número e porte dos concorrentes** | {num(len(ativas))} empresas ativas, das quais {pct(ativas['porte'].eq('01').mean())} são microempresas e {pct(ativas['mei'].mean())} são MEI. Média de {num(ag['pessoas_por_empresa'].iloc[-1], 1)} pessoas por empresa (PAS). | Muitos concorrentes de tamanho parecido |
+| **Barreiras de entrada** | Por ano entram novas empresas equivalentes a {pct(ag79.taxa_entrada)} das ativas (2019-2025), contra mediana de {pct(idx['taxa_entrada'].median())} entre os setores. Mais da metade dos entrantes recentes é MEI. | Entrar é barato e fácil |
 | **Crescimento do mercado** | A receita real caiu à metade em 2020 e só superou o nível de 2019 em 2023. | Disputa por uma demanda que ficou anos parada |
 | **Preços e margens** | O valor adicionado caiu de {pct(ag.loc[2019, 'va_sobre_receita'])} para {pct(ag['va_sobre_receita'].iloc[-1])} da receita entre 2019 e {ag.index[-1]}. A CVC teve prejuízo de 2019 a 2025. | Pressão forte sobre comissões e rentabilidade |
 | **Comparação com a economia** | No índice de pressão competitiva, as agências ficam em {int(ag79.posicao)}º de {len(idx)} setores ({ag79.indice_rivalidade:.0f}/100). | Entre os setores mais disputados do país |
