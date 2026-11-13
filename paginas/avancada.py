@@ -7,7 +7,7 @@ import streamlit as st
 from statsmodels.tsa.holtwinters import ExponentialSmoothing
 from statsmodels.tsa.seasonal import STL
 
-from core.dados import cvc, entrada_saida, pas, pas_agencias, pms_turismo
+from core.dados import AGREGADOS_PAS, cvc, entrada_saida, pas, pas_agencias, pms_turismo
 from core.graficos import CONTEXTO, CORES, marcar_eventos
 from core.ui import cabecalho, citar, legenda
 
@@ -122,7 +122,7 @@ with tab4:
         "Pessoas por empresa (log)": np.log(fim["pessoas_por_empresa"]),
         "Receita por empresa (log)": np.log(fim["receita_por_empresa"]),
     }).dropna()
-    feats = feats[~feats.index.isin(["Total"])]
+    feats = feats[~feats.index.isin(AGREGADOS_PAS)]
     z = ((feats - feats.mean()) / feats.std()).to_numpy()
 
     rng = np.random.default_rng(42)

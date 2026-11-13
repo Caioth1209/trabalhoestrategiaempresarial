@@ -3,22 +3,14 @@ import plotly.express as px
 import plotly.graph_objects as go
 import streamlit as st
 
-from core.dados import carregar, pas, pms_turismo, setores
+from core.dados import AGREGADOS_PAS, carregar, pas, pms_turismo, setores
 from core.graficos import CONTEXTO, CORES, DESTAQUE, marcar_eventos, pct
 from core.ui import cabecalho, citar, legenda
 
 cabecalho("Comparativo setorial", "Como as agências de viagem se comparam com outros serviços")
 
-# Atividades "folha" da PAS (exclui totais e agregados) para comparar setores do mesmo nível
-AGREGADOS = {
-    "Total", "Serviços prestados principalmente às famílias", "Serviços de informação e comunicação",
-    "Serviços profissionais, administrativos e complementares",
-    "Transportes, serviços auxiliares aos transportes e correio",
-    "Transporte e serviços auxiliares aos transportes", "Transporte rodoviário", "Atividades imobiliárias",
-    "Serviços de manutenção e reparação", "Outras atividades de serviços",
-}
 df = pas()
-df = df[~df["atividade"].isin(AGREGADOS)]
+df = df[~df["atividade"].isin(AGREGADOS_PAS)]
 anos = sorted(df["ano"].unique())
 
 c1, c2 = st.columns(2)

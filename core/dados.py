@@ -7,6 +7,14 @@ import streamlit as st
 
 PASTA = Path(__file__).resolve().parent.parent / "data" / "processed"
 AGENCIAS_PAS = "Agências de viagens, operadores turísticos e outros serviços de turismo"
+# Linhas da PAS que somam outras atividades; ficam de fora ao comparar setores do mesmo nível
+AGREGADOS_PAS = {
+    "Total", "Serviços prestados principalmente às famílias", "Serviços de informação e comunicação",
+    "Serviços profissionais, administrativos e complementares",
+    "Transportes, serviços auxiliares aos transportes e correio",
+    "Transporte e serviços auxiliares aos transportes", "Transporte rodoviário", "Atividades imobiliárias",
+    "Serviços de manutenção e reparação", "Outras atividades de serviços",
+}
 
 
 @st.cache_data
